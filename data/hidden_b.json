@@ -1,0 +1,25 @@
+{
+ "generatedAt": "2026-09-18T06:04:32.919Z",
+ "rows": [],
+ "report": [
+  {
+   "org": "pikk",
+   "url": "https://pikk.co.kr/bids",
+   "code": 403,
+   "rows": 0,
+   "sample": []
+  },
+  {
+   "org": "우유자조금관리위원회",
+   "url": "https://imilk.or.kr/?board-news-category=milk-board-announcement",
+   "code": 200,
+   "rows": 0,
+   "sample": []
+  },
+  {
+   "org": "대진대학교",
+   "url": "https://www.daejin.ac.kr/bbs/daejin/195/artclList.do",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.daejin.ac.kr/bbs/daejin/195/artclList.do\", waiting until \"domcontentloaded\"\n"
+  }
+ ]
+}
