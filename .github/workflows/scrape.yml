@@ -1,0 +1,29 @@
+name: hidden-bids
+
+on:
+  schedule:
+    - cron: '0 23 * * *'      # 매일 08:00 KST (UTC 23:00) — Apps Script 08:30 수집보다 먼저
+  workflow_dispatch:           # Actions 탭에서 'Run workflow' 버튼으로 바로 실행
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - run: npx playwright install --with-deps chromium
+      - run: node scrape.mjs
+      - name: 결과 커밋
+        run: |
+          git config user.name  "hidden-bids-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/hidden_b.json
+          git commit -m "hidden bids $(date -u +%Y-%m-%dT%H:%MZ)" || echo "변경 없음"
+          git push
