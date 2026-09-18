@@ -1,8 +1,1 @@
-[
- { "org": "pikk", "mode": "pikk", "url": "https://pikk.co.kr/bids", "pages": 5, "pageUrl": "https://pikk.co.kr/bids?page={p}",
-   "note": "구글 서버에서 HTTP 403 (2026-09-18 진단). 행마다 실제 발주기관을 기관으로 쓴다" },
- { "org": "우유자조금관리위원회", "url": "https://imilk.or.kr/?board-news-category=milk-board-announcement",
-   "note": "구글 서버에서 HTTP 403 (2026-09-18 진단)" },
- { "org": "대진대학교", "url": "https://www.daejin.ac.kr/bbs/daejin/195/artclList.do",
-   "note": "구글 서버에서 접속 막힘 (Address unavailable)" }
-]
+[]
