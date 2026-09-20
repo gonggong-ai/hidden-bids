@@ -48,10 +48,17 @@ async function wooricard() {
   const org = '우리카드';
   const LIST = 'https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do';
   const page = await context.newPage();
-  const resp = await page.request.post('https://pc.wooricard.com/dcpc/yh1/cmn/bbs/searchBbsList.pwkjson', {
-    headers: { 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'Proworks-Body': 'Y', 'Proworks-Lang': 'ko' },
-    data: JSON.stringify({ bbsVo: { scBbsCode: '1012', bbsSearchKey: '', bbsSearchVal: '', pageIndex: '1', pageSize: 40 } })
-  });
+  let resp = null;
+  for (let t = 1; t <= 3 && !resp; t++) {   // 해외 접속이 가끔 끊겨서 세 번까지
+    try {
+      resp = await page.request.post('https://pc.wooricard.com/dcpc/yh1/cmn/bbs/searchBbsList.pwkjson', {
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'Proworks-Body': 'Y', 'Proworks-Lang': 'ko' },
+        data: JSON.stringify({ bbsVo: { scBbsCode: '1012', bbsSearchKey: '', bbsSearchVal: '', pageIndex: '1', pageSize: 40 } }),
+        timeout: 60000
+      });
+    } catch (e) { log(org, '목록 읽기 실패', t, String(e.message || e).slice(0, 80)); await page.waitForTimeout(10000); }
+  }
+  if (!resp) throw new Error('목록 데이터를 세 번 다 못 읽음');
   const list = ((await resp.json()).bbsList || [])
     .map((x) => ({ id: String(x.bbscttSn), title: String(x.sj || '').trim(), date: String(x.registDt || '').slice(0, 10).replace(/\./g, '-') }))
     .filter((x) => BID.test(x.title) && !NOT_BID.test(x.title) && (!x.date || x.date >= cutoff));
