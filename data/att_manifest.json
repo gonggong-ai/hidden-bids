@@ -254,20 +254,152 @@
     }
    ],
    "at": "2026-09-20"
-  }
- ],
- "generatedAt": "2026-09-20T12:01:49.470Z",
- "report": [
-  {
-   "job": "wooricard",
-   "err": "apiRequestContext.post: Timeout 30000ms exceeded.\nCall log:\n  - → POST https://pc.wooricard.com/dcpc/yh1/cmn/bbs/searchBbsList.pwkjson\n    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Apple"
   },
   {
-   "org": "하나금융그룹",
-   "id": "10000148",
-   "title": "[입찰공고] 하나금융그룹 '연결회계시스템 구축 사업’ 제안 재공고 제안서 및 입찰서류 제출기한 : 2026년 9월 22일(화요일) 오전 11시까지",
-   "files": 1,
-   "links": 1
+   "org": "우리카드",
+   "id": "20260810110332067",
+   "title": "[입찰공고] 통합로그(인터페이스 로그) 서버 이전 구축",
+   "date": "2026-08-10",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20260810110332067",
+   "files": [
+    {
+     "name": "1. 제품도입 사양_통합로그(인터페이스 로그) 서버 이전 구축.xlsx",
+     "path": "data/att/wooricard/20260810110332067/1. 제품도입 사양_통합로그(인터페이스 로그) 서버 이전 구축.xlsx",
+     "bytes": 24235
+    },
+    {
+     "name": "2. 입찰(제안)참가신청서_통합로그(인터페이스 로그) 서버 이전 구축.docx",
+     "path": "data/att/wooricard/20260810110332067/2. 입찰(제안)참가신청서_통합로그(인터페이스 로그) 서버 이전 구축.docx",
+     "bytes": 67491
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20260810110332067/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-09-20"
+  },
+  {
+   "org": "우리카드",
+   "id": "20260806140942567",
+   "title": "[입찰공고] 미들웨어 EOS버전 업그레이드",
+   "date": "2026-08-06",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20260806140942567",
+   "files": [
+    {
+     "name": "1. 제품도입 사양_미들웨어 EOS버전 업그레이드.xlsx",
+     "path": "data/att/wooricard/20260806140942567/1. 제품도입 사양_미들웨어 EOS버전 업그레이드.xlsx",
+     "bytes": 25891
+    },
+    {
+     "name": "2. 입찰(제안)참가신청서_미들웨어 EOS버전 업그레이드.docx",
+     "path": "data/att/wooricard/20260806140942567/2. 입찰(제안)참가신청서_미들웨어 EOS버전 업그레이드.docx",
+     "bytes": 67521
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20260806140942567/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-09-20"
+  },
+  {
+   "org": "우리카드",
+   "id": "20260804111255159",
+   "title": "[제안공고] AI 기반 지식관리시스템(KMS) 재구축(종합평가)",
+   "date": "2026-08-04",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20260804111255159",
+   "files": [
+    {
+     "name": "붙임3_1. 입찰(제안)참가신청서_AI 기반 지식관리시스템(KMS) 재구축.hwp",
+     "path": "data/att/wooricard/20260804111255159/붙임3_1. 입찰(제안)참가신청서_AI 기반 지식관리시스템(KMS) 재구축.hwp",
+     "bytes": 101888
+    },
+    {
+     "name": "붙임3_2. 가격 제안서 및 제안참가 서약서_AI 기반 지식관리시스템(KMS) 재구축.hwp",
+     "path": "data/att/wooricard/20260804111255159/붙임3_2. 가격 제안서 및 제안참가 서약서_AI 기반 지식관리시스템(KMS) 재구축.hwp",
+     "bytes": 34304
+    },
+    {
+     "name": "붙임3_3. 제안발표 참여업체 정보_AI 기반 지식관리시스템(KMS) 재구축.hwp",
+     "path": "data/att/wooricard/20260804111255159/붙임3_3. 제안발표 참여업체 정보_AI 기반 지식관리시스템(KMS) 재구축.hwp",
+     "bytes": 41984
+    },
+    {
+     "name": "붙임3_4. 우리카드 제안요청서(RFP) 수령 서약서_AI 기반 지식관리시스템(KMS) 재구축.hwp",
+     "path": "data/att/wooricard/20260804111255159/붙임3_4. 우리카드 제안요청서(RFP) 수령 서약서_AI 기반 지식관리시스템(KMS) 재구축.hwp",
+     "bytes": 61440
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20260804111255159/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-09-20"
+  },
+  {
+   "org": "우리카드",
+   "id": "20260722150002208",
+   "title": "[제안공고] 국제 정보보호 인증 ISO27001/27017 심사기관 선정(종합평가)",
+   "date": "2026-07-22",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20260722150002208",
+   "files": [
+    {
+     "name": "3_1. 입찰(제안)참가신청서.docx",
+     "path": "data/att/wooricard/20260722150002208/3_1. 입찰(제안)참가신청서.docx",
+     "bytes": 70664
+    },
+    {
+     "name": "3_2. 제안요청서(RFP).docx",
+     "path": "data/att/wooricard/20260722150002208/3_2. 제안요청서(RFP).docx",
+     "bytes": 64537
+    },
+    {
+     "name": "3_3. 제안발표 참여업체 정보.docx",
+     "path": "data/att/wooricard/20260722150002208/3_3. 제안발표 참여업체 정보.docx",
+     "bytes": 18433
+    },
+    {
+     "name": "3_4. 제안요청서(RFP)수령 서약서.docx",
+     "path": "data/att/wooricard/20260722150002208/3_4. 제안요청서(RFP)수령 서약서.docx",
+     "bytes": 19470
+    }
+   ],
+   "at": "2026-09-20"
+  }
+ ],
+ "generatedAt": "2026-09-20T12:09:27.588Z",
+ "report": [
+  {
+   "org": "우리카드",
+   "id": "20260810110332067",
+   "title": "[입찰공고] 통합로그(인터페이스 로그) 서버 이전 구축",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "우리카드",
+   "id": "20260806140942567",
+   "title": "[입찰공고] 미들웨어 EOS버전 업그레이드",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "우리카드",
+   "id": "20260804111255159",
+   "title": "[제안공고] AI 기반 지식관리시스템(KMS) 재구축(종합평가)",
+   "files": 5,
+   "links": 5
+  },
+  {
+   "org": "우리카드",
+   "id": "20260722150002208",
+   "title": "[제안공고] 국제 정보보호 인증 ISO27001/27017 심사기관 선정(종합평가)",
+   "files": 4,
+   "links": 4
   }
  ]
 }
