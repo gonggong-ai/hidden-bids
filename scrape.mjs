@@ -45,8 +45,18 @@ function extractInPage(listUrl) {
       if (t.length < 6) continue;
       if (!best || t.length > best.t.length) best = { t, a };
     }
+    if (!best && el.tagName === 'TR') {
+      // 링크가 없는 표(포항공대 등): 칸 중 가장 긴 글자를 제목으로
+      const cells = Array.from(el.children).map((td) => norm(td.innerText)).filter((t) => t.length >= 6 && !/^(20\d{2})[.\-\/]/.test(t));
+      cells.sort((a, b) => b.length - a.length);
+      if (cells[0]) best = { t: cells[0], a: el };
+    }
     if (!best) continue;
-    const href = best.a.getAttribute('href') || '';
+    // 제목 다듬기: 앞 번호·분류, 뒤 '작성일/등록자/조회수 N'
+    best.t = best.t.replace(/^\d{1,6}\s+/, '').replace(/^(공지사항|공지|입찰|NEW)\s+/, '')
+      .replace(/\s*(작성일|등록자\s.*|조회수?\s*[\d,]+.*)$/, '').trim();
+    if (best.t.length < 6) continue;
+    const href = (best.a.getAttribute && best.a.getAttribute('href')) || '';
     let link = listUrl;
     if (href && !/^(javascript:|#)/i.test(href)) { try { link = new URL(href, location.href).href; } catch (e) {} }
     const key = best.t + '|' + dates[0];
@@ -55,6 +65,18 @@ function extractInPage(listUrl) {
     rows.push({ title: best.t, date: dates[0], dates: dates.slice(1).join(' '), link });
   }
   void set;
+  return rows;
+}
+
+// 동아대 입찰공고확인(넥사크로 화면): 화면 글자에서 'BD20260915-0001 / 차수 / 공고명' 순서를 읽는다. 게시일 = 공고번호 속 날짜
+function extractDonga(listUrl) {
+  const L = document.body.innerText.split('\n').map((x) => x.trim());
+  const rows = [];
+  L.forEach((l, i) => {
+    const m = l.match(/^(BD|ES|EQ)(20\d{2})(\d{2})(\d{2})-\d{4}$/);
+    if (!m || !L[i + 2] || L[i + 2].length < 6) return;
+    rows.push({ title: L[i + 2], date: `${m[2]}-${m[3]}-${m[4]}`, dates: '공고번호 ' + l, link: listUrl });
+  });
   return rows;
 }
 
@@ -101,7 +123,14 @@ async function scrapeOne(s) {
       r.code = resp ? resp.status() : null;
       await page.waitForLoadState('networkidle', { timeout: 15000 }).catch(() => {});
       await page.waitForTimeout(s.wait || 2500);
-      rows.push(...(await page.evaluate(s.mode === 'pikk' ? extractPikk : extractInPage, s.url)));
+      if (s.mode === 'donga') await page.waitForTimeout(5000);   // 넥사크로 화면은 늦게 뜸
+      const fn = s.mode === 'pikk' ? extractPikk : s.mode === 'donga' ? extractDonga : extractInPage;
+      let got = await page.evaluate(fn, s.url);
+      if (s.noDate) {   // 목록 날짜가 게시일이 아닌 곳(포항공대: 입찰개시일) → 게시일 = 오늘, 목록 날짜는 기타날짜로
+        const today = new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);
+        got = got.map((x) => ({ ...x, date: today, dates: ('마감 ' + x.date + ' ' + (x.dates || '')).trim() }));
+      }
+      rows.push(...got);
     }
     r.rows = rows.length;
     r.sample = rows.slice(0, 3).map((x) => `${x.date} ${x.org ? x.org + ' | ' : ''}${x.title}`);
