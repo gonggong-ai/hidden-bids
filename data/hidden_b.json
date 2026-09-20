@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-20T08:11:34.879Z",
+ "generatedAt": "2026-09-20T11:44:36.362Z",
  "rows": [
   {
    "org": "기아대책",
@@ -256,78 +256,6 @@
    "date": "2026-06-11",
    "dates": "",
    "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=53358&page=1"
-  },
-  {
-   "org": "하나금융그룹",
-   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
-   "title": "[입찰공고] 하나금융그룹 '연결회계시스템 구축 사업’ 제안 재공고 제안서 및 입찰서류 제출기한 : 2026년 9월 22일(화요일) 오전 11시까지",
-   "date": "2026-09-15",
-   "dates": "2026-09-22",
-   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
-  },
-  {
-   "org": "하나금융그룹",
-   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
-   "title": "하나 파워 온 스토어 - 소상공인 디지털 전환 기기 지원 전국의 소상공인 사장님들 이제 스마트하게 영업해보세요!",
-   "date": "2026-09-04",
-   "dates": "",
-   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
-  },
-  {
-   "org": "하나금융그룹",
-   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
-   "title": "[에너지절약 캠페인] 일상 속 작은 실천으로 에너지 절약에 동참하세요! * 참여기간:",
-   "date": "2026-08-13",
-   "dates": "2026-09-30 2026-08-13",
-   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
-  },
-  {
-   "org": "하나금융그룹",
-   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
-   "title": "분기배당 기준일 공고 상법 제354조 및 당사 정관 제44조에 의거하여 아래와 같이 분기배당 기준일을 공고합니다.",
-   "date": "2026-07-24",
-   "dates": "",
-   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
-  },
-  {
-   "org": "하나금융그룹",
-   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
-   "title": "하나 파워 온 스토어 - 소상공인 사업장 환경개선 지원 (~8/11) * 지원대상: 간판 및 실내보수 등 사업장 환경개선을 희망하는 전국 소상공인",
-   "date": "2026-07-21",
-   "dates": "",
-   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
-  },
-  {
-   "org": "하나금융그룹",
-   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
-   "title": "2026년 하나금융그룹과 함께하는 장애인 취업·직무 교육생 모집 (6/23~7/10) 교육기간: 2026년 7월 20일(월) ~ 2026년 10월 20일(화)",
-   "date": "2026-07-20",
-   "dates": "2026-10-20 2026-06-22",
-   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
-  },
-  {
-   "org": "하나금융그룹",
-   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
-   "title": "제20기 하나금융그룹 SMART 홍보대사 최종 합격자 발표 성함과 연락처 뒷자리를 통해 본인 확인이 가능합니다",
-   "date": "2026-06-22",
-   "dates": "",
-   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
-  },
-  {
-   "org": "하나금융그룹",
-   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
-   "title": "금융인재 성장 프로젝트 '하나 K-뉴딜 금융 아카데미' (~7/4) 모집기간:",
-   "date": "2026-06-18",
-   "dates": "2026-07-04 2026-06-18",
-   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
-  },
-  {
-   "org": "하나금융그룹",
-   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
-   "title": "하나 파워 온 스토어 - 소상공인 온라인 판로 지원(~7/2) * 지원대상: 온라인 시장 진출 및 디지털 역량강화를 희망하는 전국 소상공인",
-   "date": "2026-06-11",
-   "dates": "",
-   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
   },
   {
    "org": "을지대학교",
@@ -831,13 +759,7 @@
   {
    "org": "하나금융그룹",
    "url": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
-   "code": 200,
-   "rows": 9,
-   "sample": [
-    "2026-09-15 [입찰공고] 하나금융그룹 '연결회계시스템 구축 사업’ 제안 재공고 제안서 및 입찰서류 제출기한 : 2026년 9월 22일(화요일) 오전 11시까지",
-    "2026-09-04 하나 파워 온 스토어 - 소상공인 디지털 전환 기기 지원 전국의 소상공인 사장님들 이제 스마트하게 영업해보세요!",
-    "2026-08-13 [에너지절약 캠페인] 일상 속 작은 실천으로 에너지 절약에 동참하세요! * 참여기간:"
-   ]
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
   },
   {
    "org": "을지대학교",
