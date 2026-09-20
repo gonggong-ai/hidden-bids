@@ -27,7 +27,7 @@ function extractInPage(listUrl) {
     if (t.length < 10 || t.length > 600) return false;
     DATE.lastIndex = 0;
     if (!DATE.test(t)) return false;
-    return !!(el.tagName === 'A' || el.querySelector('a,[onclick]') || el.hasAttribute('onclick'));
+    return !!(el.tagName === 'A' || el.querySelector('a,[onclick]') || el.hasAttribute('onclick') || (el.tagName === 'TR' && el.children.length >= 3));
   });
   const set = new Set(cand);
   // 가장 작은 덩어리만 (자식 중에 후보가 있으면 버림) — 단, 링크 하나만 있는 a는 부모 행을 선호
@@ -54,7 +54,7 @@ function extractInPage(listUrl) {
     if (!best) continue;
     // 제목 다듬기: 앞 번호·분류, 뒤 '작성일/등록자/조회수 N'
     best.t = best.t.replace(/^\d{1,6}\s+/, '').replace(/^(공지사항|공지|입찰|NEW)\s+/, '')
-      .replace(/\s*(작성일|등록자\s.*|조회수?\s*[\d,]+.*)$/, '').trim();
+      .replace(/\s*(작성일|등록자\s.*|조회수?\s*[\d,]+.*)$/, '').replace(/\s*(자세히 보기|더보기)$/, '').trim();
     if (best.t.length < 6) continue;
     const href = (best.a.getAttribute && best.a.getAttribute('href')) || '';
     let link = listUrl;
@@ -62,7 +62,11 @@ function extractInPage(listUrl) {
     const key = best.t + '|' + dates[0];
     if (seen.has(key)) continue;
     seen.add(key);
-    rows.push({ title: best.t, date: dates[0], dates: dates.slice(1).join(' '), link });
+    // 게시일: 오늘 이전 날짜 중 첫 번째 (제목 속 마감일 같은 미래 날짜는 기타날짜로)
+    const today = new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);
+    const pi = dates.findIndex((d) => d <= today);
+    const post = pi >= 0 ? dates[pi] : dates[0];
+    rows.push({ title: best.t, date: post, dates: dates.filter((d, k) => k !== (pi >= 0 ? pi : 0)).join(' '), link });
   }
   void set;
   return rows;
@@ -123,7 +127,7 @@ async function scrapeOne(s) {
       r.code = resp ? resp.status() : null;
       await page.waitForLoadState('networkidle', { timeout: 15000 }).catch(() => {});
       await page.waitForTimeout(s.wait || 2500);
-      if (s.mode === 'donga') await page.waitForTimeout(5000);   // 넥사크로 화면은 늦게 뜸
+      if (s.mode === 'donga') await page.waitForFunction(() => /BD20\d{6}-\d{4}|총 0건/.test(document.body.innerText), null, { timeout: 40000 }).catch(() => {});   // 넥사크로 화면은 늦게 뜸
       const fn = s.mode === 'pikk' ? extractPikk : s.mode === 'donga' ? extractDonga : extractInPage;
       let got = await page.evaluate(fn, s.url);
       if (s.noDate) {   // 목록 날짜가 게시일이 아닌 곳(포항공대: 입찰개시일) → 게시일 = 오늘, 목록 날짜는 기타날짜로
