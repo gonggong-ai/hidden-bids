@@ -1,25 +1,5 @@
 [
  {
-  "org": "한국제약바이오협회",
-  "url": "https://www.kpbma.or.kr/info/bid/list",
-  "allBid": true
- },
- {
-  "org": "한국통신사업자연합회",
-  "url": "https://www.ktoa.or.kr/ko/notice/bidding/list",
-  "allBid": true
- },
- {
-  "org": "한국경영자총협회",
-  "url": "https://www.kefplaza.com/web/pages/gc75749b.do",
-  "mixed": true
- },
- {
-  "org": "한국배구연맹",
-  "url": "https://kovo.co.kr/KOVO/news/notice",
-  "mixed": true
- },
- {
   "org": "기아대책",
   "url": "https://www.kfhi.or.kr/about/news/notice?category=notice",
   "mixed": true
@@ -30,30 +10,9 @@
   "mixed": true
  },
  {
-  "org": "포항공과대학교",
-  "url": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-  "allBid": true
- },
- {
-  "org": "서원대학교",
-  "url": "https://www.seowon.ac.kr/seowon/437/subview.do"
- },
- {
-  "org": "한일장신대학교",
-  "url": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000"
- },
- {
-  "org": "강남대학교",
-  "url": "https://gumae.kangnam.ac.kr/"
- },
- {
   "org": "한국여자농구연맹",
   "url": "https://www.wkbl.or.kr/m/news/notice_list.asp",
   "mixed": true
- },
- {
-  "org": "MBC",
-  "url": "https://hanul.mbc.co.kr/"
  },
  {
   "org": "하나금융그룹",
@@ -61,77 +20,40 @@
   "mixed": true
  },
  {
-  "org": "신한AITAS",
-  "url": "https://www.shinhanaitas.com/tender/"
- },
- {
-  "org": "우리카드",
-  "url": "https://sccd.wooribank.com/ccd/Dream?withyou=CDCNT0393",
-  "mixed": true
- },
- {
-  "org": "KB국민카드",
-  "url": "https://biz.kbcard.com/CXERCEPC0007.cms"
- },
- {
-  "org": "경운대학교",
-  "url": "https://www.ikw.ac.kr/board/list.tc?mn=3292&mngNo=190&pageSeq=2184"
- },
- {
-  "org": "위덕대학교",
-  "url": "https://www.uu.ac.kr/home/uu_notice_01/",
-  "mixed": true
- },
- {
-  "org": "대구가톨릭대학교",
-  "url": "https://www.cu.ac.kr/support/tender"
- },
- {
-  "org": "대구가톨릭대학교 산학협력단",
-  "url": "https://iacf.cu.ac.kr/?menu_code=222"
- },
- {
-  "org": "동의대학교",
-  "url": "https://www.deu.ac.kr/www/deu-bids.do"
- },
- {
-  "org": "경성대학교",
-  "url": "https://cms1.ks.ac.kr/kor/Board.do?mCode=MN0983"
- },
- {
-  "org": "인제대학교",
-  "url": "https://www.inje.ac.kr/kor/Template/Bsub_page.asp?Ltype=5&Ltype2=0&Ltype3=0&Tname=S_News&Ldir=board/S_News&div=12&d1n=5&d2n=1&d3n=7&d4n=0&Lpage=Tboard_L",
-  "mixed": true
- },
- {
-  "org": "우송대학교",
-  "url": "https://www.wsu.ac.kr/page/index.jsp?code=setc0301"
- },
- {
   "org": "을지대학교",
-  "url": "https://www.eulji.ac.kr/?menuno=3161"
- },
- {
-  "org": "유원대학교 산학협력단",
-  "url": "https://sanhak.u1.ac.kr/_prog/_board/index.php?code=sanhak_0309&site_dvs_cd=sanhak&menu_dvs_cd=0309",
-  "mixed": true
- },
- {
-  "org": "호남대학교",
-  "url": "https://www.honam.ac.kr/GeneralNotice",
-  "mixed": true
- },
- {
-  "org": "남서울대학교",
-  "url": "https://www.nsu.ac.kr/?m1=page_board_list&menu_id=207",
-  "mixed": true
+  "url": "https://www.eulji.ac.kr/?menuno=3161",
+  "allBid": true
  },
  {
   "org": "서울신학대학교",
-  "url": "https://www.stu.ac.kr/CmsHome/stu06_03_04.eznic"
+  "url": "https://www.stu.ac.kr/CmsHome/stu06_03_04.eznic",
+  "allBid": true
  },
  {
-  "org": "울산대학교",
-  "url": "https://www.ulsan.ac.kr/kor/CMS/HaksaProgramMgr/boardList01.do?mCode=MN115"
+  "org": "포항공과대학교",
+  "url": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+  "allBid": true,
+  "noDate": true
+ },
+ {
+  "org": "동아대학교",
+  "url": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170",
+  "allBid": true,
+  "mode": "donga"
+ },
+ {
+  "org": "우송대학교",
+  "url": "https://www.wsu.ac.kr/board/index.jsp?code=etc0302",
+  "allBid": true
+ },
+ {
+  "org": "대구가톨릭대학교 산학협력단",
+  "url": "https://iacf.cu.ac.kr/pages/board/list.php?board_sid=1&category_code1=&menu_code=211",
+  "allBid": true
+ },
+ {
+  "org": "동의대학교",
+  "url": "https://www.deu.ac.kr/www/deu-bids.do",
+  "allBid": true
  }
 ]
