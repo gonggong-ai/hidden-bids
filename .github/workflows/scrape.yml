@@ -11,7 +11,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -20,10 +20,12 @@ jobs:
       - run: npm install
       - run: npx playwright install --with-deps chromium
       - run: node scrape.mjs
+      - name: 첨부파일 받기 (우리카드·하나금융 — 실제 브라우저가 있어야 받아지는 곳)
+        run: node att.mjs || echo "첨부 받기 일부 실패"
       - name: 결과 커밋
         run: |
           git config user.name  "hidden-bids-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/hidden_b.json
+          git add -A data/
           git commit -m "hidden bids $(date -u +%Y-%m-%dT%H:%MZ)" || echo "변경 없음"
           git push
