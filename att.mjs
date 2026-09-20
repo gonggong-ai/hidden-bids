@@ -1,0 +1,162 @@
+// 구글 서버로는 첨부파일을 받을 수 없는 곳(받기 주소가 암호화돼 있거나 구글 서버 접속을 막는 곳)을
+// 실제 브라우저로 열어 첨부파일을 받아 data/att/ 에 저장하고, 목록을 data/att_manifest.json 에 적는다.
+// → Apps Script(H07_첨부.gs ghAtt_)가 이 목록을 읽어 드라이브 공고 폴더에 넣는다.
+//   우리카드: 목록 화면에서 공고를 눌러 들어가야 상세가 뜨고, 첨부는 RAON K 부품(AES로 암호화된 주소)으로만 받아짐
+//   하나금융그룹: 구글 서버에서 시간초과, 상세는 viewPage(번호) 로 여는 화면
+import { chromium } from 'playwright';
+import fs from 'node:fs';
+import path from 'node:path';
+
+const ROOT = new URL('./data/', import.meta.url).pathname;
+const MAN = path.join(ROOT, 'att_manifest.json');
+const MAX_AGE_DAYS = 60;          // 이 기간 안의 공고만
+const BID = /입찰|제안|공고|선정|용역|구축|구매|도입/;
+const NOT_BID = /채용|합격|모집 결과|당첨|이벤트/;
+
+const man = fs.existsSync(MAN) ? JSON.parse(fs.readFileSync(MAN, 'utf8')) : { items: [] };
+const have = new Set(man.items.filter((x) => x.files && x.files.length).map((x) => x.org + '|' + x.id));
+const today = new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);
+const cutoff = new Date(Date.now() + 9 * 3600e3 - MAX_AGE_DAYS * 86400e3).toISOString().slice(0, 10);
+const safe = (s) => String(s).replace(/[\\/:*?"<>|\r\n]/g, '_').replace(/\s+/g, ' ').trim().slice(0, 120);
+const report = [];
+
+const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {});
+const context = await browser.newContext({
+  locale: 'ko-KR', timezoneId: 'Asia/Seoul', acceptDownloads: true, ignoreHTTPSErrors: true,
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36'
+});
+context.on('page', (p) => p.on('dialog', (d) => d.accept().catch(() => {})));   // 안내창이 뜨면 바로 닫음
+
+function upsert(item) {
+  const i = man.items.findIndex((x) => x.org === item.org && x.id === item.id);
+  if (i >= 0) man.items[i] = item; else man.items.push(item);
+}
+
+async function saveDownload(dl, dir) {
+  const name = safe(dl.suggestedFilename() || 'file');
+  fs.mkdirSync(dir, { recursive: true });
+  const p = path.join(dir, name);
+  await dl.saveAs(p);
+  return { name, path: path.relative(path.join(ROOT, '..'), p).split(path.sep).join('/'), bytes: fs.statSync(p).size };
+}
+
+// ── 우리카드 ─────────────────────────────────────────────
+async function wooricard() {
+  const org = '우리카드';
+  const LIST = 'https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do';
+  const page = await context.newPage();
+  const resp = await page.request.post('https://pc.wooricard.com/dcpc/yh1/cmn/bbs/searchBbsList.pwkjson', {
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'Proworks-Body': 'Y', 'Proworks-Lang': 'ko' },
+    data: JSON.stringify({ bbsVo: { scBbsCode: '1012', bbsSearchKey: '', bbsSearchVal: '', pageIndex: '1', pageSize: 20 } })
+  });
+  const list = ((await resp.json()).bbsList || [])
+    .map((x) => ({ id: String(x.bbscttSn), title: String(x.sj || '').trim(), date: String(x.registDt || '').slice(0, 10).replace(/\./g, '-') }))
+    .filter((x) => BID.test(x.title) && !NOT_BID.test(x.title) && (!x.date || x.date >= cutoff));
+  for (const it of list) {
+    if (have.has(org + '|' + it.id)) continue;
+    const r = { org, id: it.id, title: it.title };
+    try {
+      await page.goto(LIST, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      await page.waitForLoadState('networkidle', { timeout: 15000 }).catch(() => {});
+      let link = page.locator('a', { hasText: it.title.slice(0, 25) }).first();
+      for (let pg = 2; pg <= 3 && !(await link.count()); pg++) {   // 첫 쪽에 없으면 2·3쪽
+        await page.locator('.paging a, .pagination a, .page a', { hasText: new RegExp('^' + pg + '$') }).first().click().catch(() => {});
+        await page.waitForTimeout(2000);
+        link = page.locator('a', { hasText: it.title.slice(0, 25) }).first();
+      }
+      if (!(await link.count())) { r.err = '목록에서 제목을 못 찾음'; report.push(r); continue; }
+      await link.click();
+      await page.waitForSelector('.attachFile a.links', { timeout: 20000 }).catch(() => {});
+      await page.waitForTimeout(2500);   // RAON K 부품 준비
+      const links = page.locator('.attachFile a.links');
+      const n = await links.count();
+      const dir = path.join(ROOT, 'att', 'wooricard', it.id);
+      const files = [];
+      for (let k = 0; k < n; k++) {
+        try {
+          const [dl] = await Promise.all([page.waitForEvent('download', { timeout: 60000 }), links.nth(k).click()]);
+          files.push(await saveDownload(dl, dir));
+        } catch (e) { r.fileErr = (r.fileErr || '') + ` #${k}:${String(e.message || e).slice(0, 80)}`; }
+        await page.waitForTimeout(1500);
+      }
+      upsert({ org, id: it.id, title: it.title, date: it.date, link: LIST + '#sn=' + it.id, files, at: today });
+      r.files = files.length; r.links = n;
+    } catch (e) { r.err = String(e.message || e).slice(0, 200); }
+    report.push(r);
+  }
+  await page.close();
+}
+
+// ── 하나금융그룹 ─────────────────────────────────────────
+async function hanafn() {
+  const org = '하나금융그룹';
+  const LIST = 'https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do';
+  const page = await context.newPage();
+  await page.goto(LIST, { waitUntil: 'domcontentloaded', timeout: 60000 });
+  await page.waitForLoadState('networkidle', { timeout: 20000 }).catch(() => {});
+  const list = await page.evaluate(() => Array.from(document.querySelectorAll('a[onclick*="viewPage"]')).map((a) => {
+    const id = (a.getAttribute('onclick').match(/viewPage\(\s*['"]?(\d+)/) || [])[1];
+    const t = a.innerText.replace(/\s+/g, ' ').trim();
+    const d = (t.match(/(20\d{2})[.\-](\d{2})[.\-](\d{2})/) || []);
+    return { id, title: t.replace(/(20\d{2})[.\-]\d{2}[.\-]\d{2}.*$/, '').trim(), date: d[0] ? `${d[1]}-${d[2]}-${d[3]}` : '' };
+  }).filter((x) => x.id));
+  for (const it of list.filter((x) => /입찰|제안/.test(x.title) && (!x.date || x.date >= cutoff))) {
+    if (have.has(org + '|' + it.id)) continue;
+    const r = { org, id: it.id, title: it.title };
+    try {
+      await page.goto(LIST, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      await page.waitForLoadState('networkidle', { timeout: 20000 }).catch(() => {});
+      await Promise.all([page.waitForNavigation({ timeout: 30000 }).catch(() => {}), page.evaluate((id) => window.viewPage(id), it.id)]);
+      await page.waitForTimeout(2500);
+      // 본문 안의 첨부만 (머리·꼬리 메뉴의 보고서 PDF 등은 빼려고 제목 영역 아래의 crossDownload 링크만)
+      const links = await page.evaluate(() => Array.from(document.querySelectorAll('a[href*="crossDownload"]'))
+        .filter((a) => !a.closest('header,footer,nav,.gnb,.footer'))
+        .map((a) => ({ href: a.href, text: a.innerText.replace(/\s+/g, ' ').trim() })));
+      const dir = path.join(ROOT, 'att', 'hanafn', it.id);
+      const files = [];
+      for (const l of links) {
+        try {
+          const res = await page.request.get(l.href, { headers: { Referer: page.url() }, timeout: 60000 });
+          if (!res.ok()) continue;
+          const cd = res.headers()['content-disposition'] || '';
+          let name = (cd.match(/filename\*=UTF-8''([^;]+)/i) || [])[1];
+          if (name) name = decodeURIComponent(name); else {
+            const m = cd.match(/filename="?([^";]+)"?/i);
+            name = m ? m[1] : '';
+            if (/%[0-9A-F]{2}/i.test(name)) { try { name = decodeURIComponent(name); } catch (e) {} }
+          }
+          if (!name || !/\.[A-Za-z0-9]{2,5}$/.test(name)) name = safe(l.text || 'file') + (/(pdf)/i.test(res.headers()['content-type'] || '') ? '.pdf' : '');
+          const body = await res.body();
+          if (/text\/html/i.test(res.headers()['content-type'] || '') && body.length < 50000) continue;
+          fs.mkdirSync(dir, { recursive: true });
+          const p = path.join(dir, safe(name));
+          fs.writeFileSync(p, body);
+          files.push({ name: safe(name), path: path.relative(path.join(ROOT, '..'), p).split(path.sep).join('/'), bytes: body.length });
+        } catch (e) { r.fileErr = (r.fileErr || '') + ' ' + String(e.message || e).slice(0, 80); }
+      }
+      upsert({ org, id: it.id, title: it.title, date: it.date, link: LIST, files, at: today });
+      r.files = files.length; r.links = links.length;
+    } catch (e) { r.err = String(e.message || e).slice(0, 200); }
+    report.push(r);
+  }
+  await page.close();
+}
+
+for (const job of [wooricard, hanafn]) {
+  try { await job(); } catch (e) { report.push({ job: job.name, err: String(e.message || e).slice(0, 200) }); }
+}
+await browser.close();
+
+// 오래된 공고(90일 넘음)는 목록과 파일에서 지움 — 저장소가 너무 커지지 않게
+const old = new Date(Date.now() - 90 * 86400e3).toISOString().slice(0, 10);
+man.items = man.items.filter((x) => {
+  if ((x.date || x.at || today) >= old) return true;
+  (x.files || []).forEach((f) => { try { fs.unlinkSync(path.join(ROOT, '..', f.path)); } catch (e) {} });
+  return false;
+});
+man.generatedAt = new Date().toISOString();
+man.report = report;
+fs.mkdirSync(ROOT, { recursive: true });
+fs.writeFileSync(MAN, JSON.stringify(man, null, 1));
+report.forEach((r) => console.log(`${r.err ? '❌' : '✅'} ${r.org || r.job} ${r.id || ''} ${(r.title || '').slice(0, 40)} | 링크 ${r.links ?? '-'} 파일 ${r.files ?? 0}${r.err ? ' | ' + r.err : ''}${r.fileErr ? ' | ' + r.fileErr : ''}`));
+console.log(`첨부 목록 ${man.items.length}건 → data/att_manifest.json`);
