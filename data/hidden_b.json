@@ -1,182 +1,6 @@
 {
- "generatedAt": "2026-09-20T07:41:57.805Z",
+ "generatedAt": "2026-09-20T08:03:32.252Z",
  "rows": [
-  {
-   "org": "한국제약바이오협회",
-   "site": "https://www.kpbma.or.kr/info/bid/list",
-   "title": "34 AI Pharma Korea Conference 2026 운영업체 선정 공고 1. 사업개요 가. 사 업 명 : AI Pharma Korea Conference 2026 운영 대행 나. 수요기관 : (사)한국제약바이오협회 AI신약연구원 다. 사업취지 : 인공지능 활용 신약개발과 관련한 국내·외 최신 연구동향 및 인공지능 적용 사례를 국내 제약바이오산업 연구자 간 공유함으로써 산·학 네트워크 강화 및 협업 생태계 활성화 라. 사업기간 : 계약체결일 ~ 2026.11 마. 사업비 : 22,000,000원 (부가세 포함), (* 최종 사업비는 상호협의를 거쳐 확정) 바. 계약방법 : 경쟁입찰 ※ 경쟁입찰을 원칙으로 하며, 여성기업 등 관련 법령상 수의계약 요건 충족 시 수의계약 진행가능 2. 참여방법 가. 제출방법 : 이메일 접수 나. 제출기한 : 2026년 8월 28일 오후 5시 다. 제 출 처 : cis@kpbma.or.kr 라. 업체 선정 : 제출한 제안서 평가를 통해 선정 3. 제출서류 가. 사업자등록증 사본 1부 나. 제안서(ppt 양식, 기획/구성안, 회사소개, 포트폴리오 등 10장 이내) 다. 견적서 AI신약연구원",
-   "date": "2026-08-28",
-   "dates": "2026-08-14",
-   "link": "https://www.kpbma.or.kr/info/bid/select/76"
-  },
-  {
-   "org": "한국통신사업자연합회",
-   "site": "https://www.ktoa.or.kr/ko/notice/bidding/list",
-   "title": "714 「2026 모험·도전적 AI 스타트업 투자대상 발굴 경진대회」 참가기업 모집공고",
-   "date": "2026-09-01",
-   "dates": "2026-08-11 2026-07-21 2026-06-30 2026-06-29 2026-06-10 2026-06-09 2026-06-08 2026-05-28 2026-05-28",
-   "link": "https://www.ktoa.or.kr/ko/notice/bidding/list"
-  },
-  {
-   "org": "한국통신사업자연합회",
-   "site": "https://www.ktoa.or.kr/ko/notice/bidding/list",
-   "title": "718 2026년 KIF투자조합 자펀드 업무집행조합원 선정 결과",
-   "date": "2026-09-01",
-   "dates": "",
-   "link": "https://www.ktoa.or.kr/ko/notice/bidding/list"
-  },
-  {
-   "org": "한국통신사업자연합회",
-   "site": "https://www.ktoa.or.kr/ko/notice/bidding/list",
-   "title": "717 2026년 KIF투자조합 업무집행조합원 1차 심의 결과",
-   "date": "2026-08-11",
-   "dates": "",
-   "link": "https://www.ktoa.or.kr/ko/notice/bidding/list"
-  },
-  {
-   "org": "한국통신사업자연합회",
-   "site": "https://www.ktoa.or.kr/ko/notice/bidding/list",
-   "title": "716 2026년 KIF투자조합 업무집행조합원 선정 제안서 접수결과",
-   "date": "2026-07-21",
-   "dates": "",
-   "link": "https://www.ktoa.or.kr/ko/notice/bidding/list"
-  },
-  {
-   "org": "한국통신사업자연합회",
-   "site": "https://www.ktoa.or.kr/ko/notice/bidding/list",
-   "title": "715 2026년 KIF투자조합 업무집행조합원 선정계획 공고",
-   "date": "2026-06-30",
-   "dates": "",
-   "link": "https://www.ktoa.or.kr/ko/notice/bidding/list"
-  },
-  {
-   "org": "한국통신사업자연합회",
-   "site": "https://www.ktoa.or.kr/ko/notice/bidding/list",
-   "title": "714 「2026 모험·도전적 AI 스타트업 투자대상 발굴 경진대회」 참가기업 모집공고",
-   "date": "2026-06-29",
-   "dates": "",
-   "link": "https://www.ktoa.or.kr/ko/notice/bidding/list"
-  },
-  {
-   "org": "한국통신사업자연합회",
-   "site": "https://www.ktoa.or.kr/ko/notice/bidding/list",
-   "title": "713 (재공고) 2026년 주요정보통신기반시설 취약점 분석·평가 용역 입찰공고",
-   "date": "2026-06-10",
-   "dates": "",
-   "link": "https://www.ktoa.or.kr/ko/notice/bidding/list"
-  },
-  {
-   "org": "한국통신사업자연합회",
-   "site": "https://www.ktoa.or.kr/ko/notice/bidding/list",
-   "title": "712 (재공고) 「3차년도 인입설비 공사일원화 통합도급」 사업 공고",
-   "date": "2026-06-09",
-   "dates": "",
-   "link": "https://www.ktoa.or.kr/ko/notice/bidding/list"
-  },
-  {
-   "org": "한국통신사업자연합회",
-   "site": "https://www.ktoa.or.kr/ko/notice/bidding/list",
-   "title": "711 (재공고) 스마트초이스 마이데이터 기반 통신요금 진단 서비스 개발 용역 입찰공고",
-   "date": "2026-06-08",
-   "dates": "",
-   "link": "https://www.ktoa.or.kr/ko/notice/bidding/list"
-  },
-  {
-   "org": "한국통신사업자연합회",
-   "site": "https://www.ktoa.or.kr/ko/notice/bidding/list",
-   "title": "710 스마트초이스 마이데이터 기반 통신요금 진단 서비스 개발 용역 입찰공고",
-   "date": "2026-05-28",
-   "dates": "",
-   "link": "https://www.ktoa.or.kr/ko/notice/bidding/list"
-  },
-  {
-   "org": "한국통신사업자연합회",
-   "site": "https://www.ktoa.or.kr/ko/notice/bidding/list",
-   "title": "709 2026년 주요정보통신기반시설 취약점 분석·평가 용역 입찰공고",
-   "date": "2026-05-28",
-   "dates": "",
-   "link": "https://www.ktoa.or.kr/ko/notice/bidding/list"
-  },
-  {
-   "org": "한국경영자총협회",
-   "site": "https://www.kefplaza.com/web/pages/gc75749b.do",
-   "title": "「제3회 안전문화혁신대상」 응모 안내",
-   "date": "2026-09-09",
-   "dates": "",
-   "link": "https://www.kefplaza.com/web/pages/gc75749b.do"
-  },
-  {
-   "org": "한국경영자총협회",
-   "site": "https://www.kefplaza.com/web/pages/gc75749b.do",
-   "title": "[경총-고용노동부] 2026년 채용문화 우수기업 어워즈 개최 안내",
-   "date": "2026-08-25",
-   "dates": "",
-   "link": "https://www.kefplaza.com/web/pages/gc75749b.do"
-  },
-  {
-   "org": "한국경영자총협회",
-   "site": "https://www.kefplaza.com/web/pages/gc75749b.do",
-   "title": "2026 서울시 시원차림 복장 가이드라인",
-   "date": "2026-06-18",
-   "dates": "",
-   "link": "https://www.kefplaza.com/web/pages/gc75749b.do"
-  },
-  {
-   "org": "한국경영자총협회",
-   "site": "https://www.kefplaza.com/web/pages/gc75749b.do",
-   "title": "「2026 여행가는 달」 캠페인 동참 안내",
-   "date": "2026-05-14",
-   "dates": "",
-   "link": "https://www.kefplaza.com/web/pages/gc75749b.do"
-  },
-  {
-   "org": "한국경영자총협회",
-   "site": "https://www.kefplaza.com/web/pages/gc75749b.do",
-   "title": "창원지방법원 법인회생사건 감사 후보자 모집 안내(5.22까지)",
-   "date": "2026-05-14",
-   "dates": "",
-   "link": "https://www.kefplaza.com/web/pages/gc75749b.do"
-  },
-  {
-   "org": "한국경영자총협회",
-   "site": "https://www.kefplaza.com/web/pages/gc75749b.do",
-   "title": "[안전보건공단] 제조업 끼임사고 예방을 위한 안전수칙 자료",
-   "date": "2026-05-04",
-   "dates": "",
-   "link": "https://www.kefplaza.com/web/pages/gc75749b.do"
-  },
-  {
-   "org": "한국경영자총협회",
-   "site": "https://www.kefplaza.com/web/pages/gc75749b.do",
-   "title": "[정부-경제6단체] 2026 대한민국 상생 채용박람회 개최 안내",
-   "date": "2026-04-09",
-   "dates": "",
-   "link": "https://www.kefplaza.com/web/pages/gc75749b.do"
-  },
-  {
-   "org": "한국경영자총협회",
-   "site": "https://www.kefplaza.com/web/pages/gc75749b.do",
-   "title": "[안전보건공단] 2026년 대·중소기업 안전보건 상생협력사업 신청 안내",
-   "date": "2025-12-22",
-   "dates": "",
-   "link": "https://www.kefplaza.com/web/pages/gc75749b.do"
-  },
-  {
-   "org": "한국경영자총협회",
-   "site": "https://www.kefplaza.com/web/pages/gc75749b.do",
-   "title": "「제38회 한국노사협력대상」 응모안내",
-   "date": "2025-11-20",
-   "dates": "",
-   "link": "https://www.kefplaza.com/web/pages/gc75749b.do"
-  },
-  {
-   "org": "한국경영자총협회",
-   "site": "https://www.kefplaza.com/web/pages/gc75749b.do",
-   "title": "[경총 퇴직연금 세미나] 가입자 이익과 시장 효율성 관점에서 본 퇴직연금제도 발전 방안",
-   "date": "2025-11-19",
-   "dates": "",
-   "link": "https://www.kefplaza.com/web/pages/gc75749b.do"
-  },
   {
    "org": "기아대책",
    "site": "https://www.kfhi.or.kr/about/news/notice?category=notice",
@@ -260,7 +84,7 @@
   {
    "org": "사회복지공동모금회",
    "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "1 공지사항 2026년 호우 피해 특별모금 실시 안내(종료) 등록자 모금회 조회수 2607",
+   "title": "2026년 호우 피해 특별모금 실시 안내(종료)",
    "date": "2026-08-18",
    "dates": "",
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
@@ -268,7 +92,7 @@
   {
    "org": "사회복지공동모금회",
    "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "2 공지사항 MBC 지금은라디오시대 X 사랑의열매 30주년 감사음악회 “우리가 사랑한 이야기” 참석 신청 안내 등록자 모금회 조회수 1250",
+   "title": "MBC 지금은라디오시대 X 사랑의열매 30주년 감사음악회 “우리가 사랑한 이야기” 참석 신청 안내",
    "date": "2026-07-23",
    "dates": "",
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
@@ -276,7 +100,7 @@
   {
    "org": "사회복지공동모금회",
    "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "3 공지사항 계약직 직원 채용 최종 합격자 발표(사회공헌) 등록자 모금회 조회수 902",
+   "title": "계약직 직원 채용 최종 합격자 발표(사회공헌)",
    "date": "2026-07-22",
    "dates": "",
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
@@ -284,7 +108,7 @@
   {
    "org": "사회복지공동모금회",
    "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "4 공지사항 8월 나눔인사이트 Summer School - ’사회이슈분석 2027’ 참가신청 안내(마감) 등록자 모금회 조회수 978",
+   "title": "8월 나눔인사이트 Summer School - ’사회이슈분석 2027’ 참가신청 안내(마감)",
    "date": "2026-07-20",
    "dates": "",
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
@@ -292,7 +116,7 @@
   {
    "org": "사회복지공동모금회",
    "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "5 공지사항 계약직 채용 서류전형 합격자 발표(사회공헌) 등록자 모금회 조회수 543",
+   "title": "계약직 채용 서류전형 합격자 발표(사회공헌)",
    "date": "2026-07-14",
    "dates": "",
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
@@ -300,7 +124,7 @@
   {
    "org": "사회복지공동모금회",
    "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "6 공지사항 사회복지공동모금회 사무총장(상근이사) 초빙 등록자 모금회 조회수 1003",
+   "title": "사회복지공동모금회 사무총장(상근이사) 초빙",
    "date": "2026-07-08",
    "dates": "",
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
@@ -308,7 +132,7 @@
   {
    "org": "사회복지공동모금회",
    "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "7 공지사항 [모집] 2026 사회복지공동모금회(중앙회) ‘배분사업 평가지원단 모집결과’ 안내 등록자 모금회 조회수 1550",
+   "title": "[모집] 2026 사회복지공동모금회(중앙회) ‘배분사업 평가지원단 모집결과’ 안내",
    "date": "2026-06-30",
    "dates": "",
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
@@ -316,7 +140,7 @@
   {
    "org": "사회복지공동모금회",
    "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "8 공지사항 계약직 직원 채용(사회공헌) 등록자 모금회 조회수 879",
+   "title": "계약직 직원 채용(사회공헌)",
    "date": "2026-06-29",
    "dates": "",
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
@@ -324,7 +148,7 @@
   {
    "org": "사회복지공동모금회",
    "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "9 공지사항 2027년 배분기준 안내 등록자 모금회 조회수 2348",
+   "title": "2027년 배분기준 안내",
    "date": "2026-06-29",
    "dates": "",
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
@@ -332,7 +156,7 @@
   {
    "org": "사회복지공동모금회",
    "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "10 공지사항 2026년 베네수엘라 지진 피해 지원 특별모금 등록자 모금회 조회수 1483",
+   "title": "2026년 베네수엘라 지진 피해 지원 특별모금",
    "date": "2026-06-27",
    "dates": "",
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
@@ -340,7 +164,7 @@
   {
    "org": "사회복지공동모금회",
    "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "11 공지사항 2026년 하반기 사회복지공동모금회 공모사업 일정 안내 등록자 모금회 조회수 1906",
+   "title": "2026년 하반기 사회복지공동모금회 공모사업 일정 안내",
    "date": "2026-06-26",
    "dates": "",
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
@@ -348,143 +172,15 @@
   {
    "org": "사회복지공동모금회",
    "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "12 공지사항 계약직 직원 채용 최종 합격자 발표(모금/배분, 연구) 등록자 모금회 조회수 472",
+   "title": "계약직 직원 채용 최종 합격자 발표(모금/배분, 연구)",
    "date": "2026-06-19",
    "dates": "",
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
   },
   {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "[긴급] 2024학년도 한일장신대학교 통학버스 용역업체 선정 입찰 공고",
-   "date": "2024-02-19",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=98224#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "양궁부 훈련용품 구매 입찰 공고(수정)",
-   "date": "2023-08-02",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=96223#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "양궁부 훈련용품(소모품) 구입 견적 요청",
-   "date": "2023-07-18",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=96153#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "실험·실습 기자재 구매 입찰(재공고)",
-   "date": "2023-02-09",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=91878#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "실험·실습 기자재 구매 입찰",
-   "date": "2023-01-26",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=91701#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "<긴급>실험·실습 기자재 구매 견적 제출 공고",
-   "date": "2023-01-25",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=91692#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "양궁부 훈련용품(소모품) 구입 견적 요청",
-   "date": "2022-08-09",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=89544#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "교내 지하수 연장허가 신청을 위한 환경영향평가 및 허가신청 용역 견적요청",
-   "date": "2022-03-24",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=88824#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "구내식당 위탁 운영업체 선정",
-   "date": "2022-01-26",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=88272#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "양궁부 훈련용품(소모품) 구입 견적요청",
-   "date": "2021-08-20",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=86886#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "교내 화재보험 가입을 위한 견적요청.",
-   "date": "2021-04-26",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=86194#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "발전계획 성과관리체계 구축 및 특성화 전략 구축 용역",
-   "date": "2021-03-26",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=86059#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "본교 미디어 스튜디오 구축을 위한 공사 및 장비구입 견적 의뢰",
-   "date": "2021-02-02",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=85718#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "한일장신대학교 학습관리시스템(LMS) 구축",
-   "date": "2021-01-15",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=85616#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "한일장신대학교",
-   "site": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "title": "한일장신대학교 핵심역량 기반 교육과정 체계 구축 용역",
-   "date": "2020-12-28",
-   "dates": "",
-   "link": "https://www.hanil.ac.kr/portal/default/bbs/view.do?menuId=M0004000100050000&boardSeq=85381#{%22searchCondition%22:%221%22,%22searchKeyword%22:%22%22}"
-  },
-  {
-   "org": "강남대학교",
-   "site": "https://gumae.kangnam.ac.kr/",
-   "title": "More Info",
-   "date": "2026-09-20",
-   "dates": "2026-09-20 2026-09-18 2026-09-18 2026-09-20",
-   "link": "https://gumae.kangnam.ac.kr/gumae/gumae/gumaeList.jsp"
-  },
-  {
    "org": "한국여자농구연맹",
    "site": "https://www.wkbl.or.kr/m/news/notice_list.asp",
-   "title": "2026~2027시즌 여자프로농구 WKBL 비디오 분석관 모집 공고 작성일",
+   "title": "2026~2027시즌 여자프로농구 WKBL 비디오 분석관 모집 공고",
    "date": "2026-09-18",
    "dates": "",
    "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=54401&page=1"
@@ -492,7 +188,7 @@
   {
    "org": "한국여자농구연맹",
    "site": "https://www.wkbl.or.kr/m/news/notice_list.asp",
-   "title": "2026-2027시즌 BNK썸 시그니처 굿즈 기획 제작 용역 입찰공고 작성일",
+   "title": "2026-2027시즌 BNK썸 시그니처 굿즈 기획 제작 용역 입찰공고",
    "date": "2026-08-26",
    "dates": "",
    "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=54199&page=1"
@@ -500,7 +196,7 @@
   {
    "org": "한국여자농구연맹",
    "site": "https://www.wkbl.or.kr/m/news/notice_list.asp",
-   "title": "2026~2027 WKBL 신인선수 드래프트 결과 및 컴바인 측정 결과 안내 작성일",
+   "title": "2026~2027 WKBL 신인선수 드래프트 결과 및 컴바인 측정 결과 안내",
    "date": "2026-08-19",
    "dates": "",
    "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=54111&page=1"
@@ -508,7 +204,7 @@
   {
    "org": "한국여자농구연맹",
    "site": "https://www.wkbl.or.kr/m/news/notice_list.asp",
-   "title": "WKBL 경기요원 모집 공고 작성일",
+   "title": "WKBL 경기요원 모집 공고",
    "date": "2026-08-05",
    "dates": "",
    "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=53963&page=1"
@@ -516,7 +212,7 @@
   {
    "org": "한국여자농구연맹",
    "site": "https://www.wkbl.or.kr/m/news/notice_list.asp",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 (재공고) 작성일",
+   "title": "KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 (재공고)",
    "date": "2026-08-03",
    "dates": "",
    "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=53903&page=1"
@@ -524,7 +220,7 @@
   {
    "org": "한국여자농구연맹",
    "site": "https://www.wkbl.or.kr/m/news/notice_list.asp",
-   "title": "2026~2027 WKBL 신인선수 드래프트 안내 작성일",
+   "title": "2026~2027 WKBL 신인선수 드래프트 안내",
    "date": "2026-07-16",
    "dates": "",
    "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=53552&page=1"
@@ -532,7 +228,7 @@
   {
    "org": "한국여자농구연맹",
    "site": "https://www.wkbl.or.kr/m/news/notice_list.asp",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일",
+   "title": "KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고",
    "date": "2026-07-13",
    "dates": "",
    "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=53516&page=1"
@@ -540,7 +236,7 @@
   {
    "org": "한국여자농구연맹",
    "site": "https://www.wkbl.or.kr/m/news/notice_list.asp",
-   "title": "프로스포츠 산업 아카데미 6기 수강생 모집 안내(~7/31) 작성일",
+   "title": "프로스포츠 산업 아카데미 6기 수강생 모집 안내(~7/31)",
    "date": "2026-07-09",
    "dates": "",
    "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=53500&page=1"
@@ -548,7 +244,7 @@
   {
    "org": "한국여자농구연맹",
    "site": "https://www.wkbl.or.kr/m/news/notice_list.asp",
-   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일",
+   "title": "KB스타즈 유튜브 대행사 입찰공고",
    "date": "2026-06-29",
    "dates": "",
    "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=53426&page=1"
@@ -556,7 +252,7 @@
   {
    "org": "한국여자농구연맹",
    "site": "https://www.wkbl.or.kr/m/news/notice_list.asp",
-   "title": "2026-2027시즌 하나은행 여자농구단 홍보마케팅 대행사 입찰공고 작성일",
+   "title": "2026-2027시즌 하나은행 여자농구단 홍보마케팅 대행사 입찰공고",
    "date": "2026-06-11",
    "dates": "",
    "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=53358&page=1"
@@ -792,64 +488,89 @@
    "date": "2026-04-17",
    "dates": "",
    "link": "https://www.stu.ac.kr/CmsHome/stu06_03_04.eznic"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고] 산학협력단 제2026-29호(재공고) (동의대학교 산학협력단) 심자외선 마이크로라만/광발광 매핑 시스템 장비 구매 건 자세히 보기",
+   "date": "2026-09-17",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=470048&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고] 산학협력단 제2026-28호(재공고) (동의대학교 산학협력단) 2026년 파워반도체 공유대학 운영 용역 자세히 보기",
+   "date": "2026-09-17",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=470044&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고] 산학협력단 제2026-27호(재공고) (동의대학교 산학협력단) AI 교육용 키트 제작 및 교육 컨텐츠 제작 건 자세히 보기",
+   "date": "2026-09-17",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=470040&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고]제2026-16호_[대학혁신지원사업] 교육혁신원 Google Workspace for Education Plus 라이선스 구입 입찰 재공고 자세히 보기",
+   "date": "2026-09-15",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=464162&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고] 산학협력단 제2026-26호 (동의대학교 산학협력단) 심자외선 마이크로라만/광발광 매핑 시스템 장비 구매 건 자세히 보기",
+   "date": "2026-09-01",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=91085&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고] 산학협력단 제2026-25호 (동의대학교 산학협력단) 2026년 신발제조 AX 디자인 아이디어 고도화 프로젝트 운영 자세히 보기",
+   "date": "2026-09-01",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=91084&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고] 산학협력단 제2026-24호 (동의대학교 산학협력단) 2026년 파워반도체 공유대학 운영 용역 자세히 보기",
+   "date": "2026-09-01",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=91083&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고] 산학협력단 제2026-23호 (동의대학교 산학협력단)AI 교육용 키트 제작 및 교육 컨텐츠 제작 건 자세히 보기",
+   "date": "2026-09-01",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=91082&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고]제2026-16호_[대학혁신지원사업] 교육혁신원 Google Workspace for Education Plus 라이선스 구입 입찰공고 자세히 보기",
+   "date": "2026-08-31",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=90940&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고]제2026-13호_[간호대학실습교육지원사업] 간호 시뮬레이션 교육센터 클라우드 기반 디브리핑 시스템(재공고) 자세히 보기",
+   "date": "2026-08-28",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=90787&article.offset=0&articleLimit=10"
   }
  ],
  "report": [
-  {
-   "org": "한국제약바이오협회",
-   "url": "https://www.kpbma.or.kr/info/bid/list",
-   "code": 200,
-   "rows": 1,
-   "sample": [
-    "2026-08-28 34 AI Pharma Korea Conference 2026 운영업체 선정 공고 1. 사업개요 가. 사 업 명 : AI Pharma Korea Conference 2026 운영 대행 나. 수요기관 : (사)한국제약바이오협회 AI신약연구원 다. 사업취지 : 인공지능 활용 신약개발과 관련한 국내·외 최신 연구동향 및 인공지능 적용 사례를 국내 제약바이오산업 연구자 간 공유함으로써 산·학 네트워크 강화 및 협업 생태계 활성화 라. 사업기간 : 계약체결일 ~ 2026.11 마. 사업비 : 22,000,000원 (부가세 포함), (* 최종 사업비는 상호협의를 거쳐 확정) 바. 계약방법 : 경쟁입찰 ※ 경쟁입찰을 원칙으로 하며, 여성기업 등 관련 법령상 수의계약 요건 충족 시 수의계약 진행가능 2. 참여방법 가. 제출방법 : 이메일 접수 나. 제출기한 : 2026년 8월 28일 오후 5시 다. 제 출 처 : cis@kpbma.or.kr 라. 업체 선정 : 제출한 제안서 평가를 통해 선정 3. 제출서류 가. 사업자등록증 사본 1부 나. 제안서(ppt 양식, 기획/구성안, 회사소개, 포트폴리오 등 10장 이내) 다. 견적서 AI신약연구원"
-   ]
-  },
-  {
-   "org": "한국통신사업자연합회",
-   "url": "https://www.ktoa.or.kr/ko/notice/bidding/list",
-   "code": 200,
-   "rows": 11,
-   "sample": [
-    "2026-09-01 714 「2026 모험·도전적 AI 스타트업 투자대상 발굴 경진대회」 참가기업 모집공고",
-    "2026-09-01 718 2026년 KIF투자조합 자펀드 업무집행조합원 선정 결과",
-    "2026-08-11 717 2026년 KIF투자조합 업무집행조합원 1차 심의 결과"
-   ]
-  },
-  {
-   "org": "한국경영자총협회",
-   "url": "https://www.kefplaza.com/web/pages/gc75749b.do",
-   "code": 200,
-   "rows": 10,
-   "sample": [
-    "2026-09-09 「제3회 안전문화혁신대상」 응모 안내",
-    "2026-08-25 [경총-고용노동부] 2026년 채용문화 우수기업 어워즈 개최 안내",
-    "2026-06-18 2026 서울시 시원차림 복장 가이드라인"
-   ]
-  },
-  {
-   "org": "한국배구연맹",
-   "url": "https://kovo.co.kr/KOVO/news/notice",
-   "code": 200,
-   "rows": 0,
-   "sample": [],
-   "debug": {
-    "title": "한국배구연맹 공식 홈페이지",
-    "finalUrl": "https://kovo.co.kr/KOVO/news/notice",
-    "textLen": 530,
-    "dates": 0,
-    "head": "커뮤니티 티켓 팀 경기 기록 뉴스 미디어 KOVO 유소년 스토어 로그인 전체 남자부 여자부 페이지를 찾을 수 없습니다. 원하시는 결과를 찾을 수 없습니다. 올바른 URL을 입력하였는지 확인해주세요. The desired result could not be found. Please make sure you have entered the correct URL."
-   },
-   "xhr": [
-    "GET 200 https://log.kbl.or.kr/static/10007/install.js?ver=1789862400000",
-    "GET 200 https://log.kbl.or.kr/nlog/log/event?s=wc.kovo.co.kr&u=https%3A%2F%2Fkovo.co.kr%2FKOVO%2Fnews%2Fnotice&a=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x6",
-    "GET 200 https://user-api.kovo.co.kr/member",
-    "GET 200 https://user-api.kovo.co.kr/sites?type=CLUB",
-    "GET 200 https://user-api.kovo.co.kr/sites",
-    "GET 200 https://user-api.kovo.co.kr/menus",
-    "GET 200 https://log.kbl.or.kr/nlog/log/event?s=wc.kovo.co.kr&u=https%3A%2F%2Fkovo.co.kr%2FKOVO%2Fnews%2Fnotice&a=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x6",
-    "POST 204 https://www.google-analytics.com/g/collect?v=2&tid=G-YN9TZPRYLL&gtm=45je69g1v9130756608za200zd9130756608xf1&_p=1789890121635&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=79"
-   ]
-  },
   {
    "org": "기아대책",
    "url": "https://www.kfhi.or.kr/about/news/notice?category=notice",
@@ -867,9 +588,53 @@
    "code": 200,
    "rows": 12,
    "sample": [
-    "2026-08-18 1 공지사항 2026년 호우 피해 특별모금 실시 안내(종료) 등록자 모금회 조회수 2607",
-    "2026-07-23 2 공지사항 MBC 지금은라디오시대 X 사랑의열매 30주년 감사음악회 “우리가 사랑한 이야기” 참석 신청 안내 등록자 모금회 조회수 1250",
-    "2026-07-22 3 공지사항 계약직 직원 채용 최종 합격자 발표(사회공헌) 등록자 모금회 조회수 902"
+    "2026-08-18 2026년 호우 피해 특별모금 실시 안내(종료)",
+    "2026-07-23 MBC 지금은라디오시대 X 사랑의열매 30주년 감사음악회 “우리가 사랑한 이야기” 참석 신청 안내",
+    "2026-07-22 계약직 직원 채용 최종 합격자 발표(사회공헌)"
+   ]
+  },
+  {
+   "org": "한국여자농구연맹",
+   "url": "https://www.wkbl.or.kr/m/news/notice_list.asp",
+   "code": 200,
+   "rows": 10,
+   "sample": [
+    "2026-09-18 2026~2027시즌 여자프로농구 WKBL 비디오 분석관 모집 공고",
+    "2026-08-26 2026-2027시즌 BNK썸 시그니처 굿즈 기획 제작 용역 입찰공고",
+    "2026-08-19 2026~2027 WKBL 신인선수 드래프트 결과 및 컴바인 측정 결과 안내"
+   ]
+  },
+  {
+   "org": "하나금융그룹",
+   "url": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "code": 200,
+   "rows": 9,
+   "sample": [
+    "2026-09-22 [입찰공고] 하나금융그룹 '연결회계시스템 구축 사업’ 제안 재공고 제안서 및 입찰서류 제출기한 : 2026년 9월 22일(화요일) 오전 11시까지",
+    "2026-09-04 하나 파워 온 스토어 - 소상공인 디지털 전환 기기 지원 전국의 소상공인 사장님들 이제 스마트하게 영업해보세요!",
+    "2026-08-13 [에너지절약 캠페인] 일상 속 작은 실천으로 에너지 절약에 동참하세요! * 참여기간:"
+   ]
+  },
+  {
+   "org": "을지대학교",
+   "url": "https://www.eulji.ac.kr/?menuno=3161",
+   "code": 200,
+   "rows": 10,
+   "sample": [
+    "2026-09-11 을지대학교 성남캠퍼스 구내식당 및 편의시설(카페 및 매점) 운영업체 선정(재공고)",
+    "2026-09-10 을지재단 기관별 배터리 교체를 위한 단가계약(재공고)",
+    "2026-09-03 을지재단 기관별 배터리 교체를 위한 단가계약"
+   ]
+  },
+  {
+   "org": "서울신학대학교",
+   "url": "https://www.stu.ac.kr/CmsHome/stu06_03_04.eznic",
+   "code": 200,
+   "rows": 10,
+   "sample": [
+    "2026-08-14 서울신학대학교 학생식당 위탁 운영 사업자 선정",
+    "2026-08-12 서울신학대학교 2026학년도 축제 행사 대행 용역 사업자 선정",
+    "2026-07-20 서울신학대학교 이명헌기념관 장애인용 승강기 설치 공사(재공고)"
    ]
   },
   {
@@ -890,324 +655,58 @@
    ]
   },
   {
-   "org": "서원대학교",
-   "url": "https://www.seowon.ac.kr/seowon/437/subview.do",
+   "org": "동아대학교",
+   "url": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170",
    "code": 200,
    "rows": 0,
    "sample": [],
    "debug": {
-    "title": "입찰공고 | 공지사항 | 소통채널 | 서원대학교",
-    "finalUrl": "https://www.seowon.ac.kr/seowon/437/subview.do",
-    "textLen": 621,
+    "title": "통합정보시스템 - 입찰공고확인(외부)",
+    "finalUrl": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170",
+    "textLen": 19,
     "dates": 0,
-    "head": "Skip Navigation 본문 바로가기 주메뉴 바로가기 서원대학교 로그인 KOR 맞 춤 메 뉴 대학소개 입학안내 교육정보 취·창업/산학 학사안내 대학생활 소통채널 전체메뉴 열기 검색 열기 소통채널 COMMUNICATION 소통채널 공지사항 입찰공고 소통채널 공지사항 공지사항 입찰공고 채용공고 정보보호공지 민원게시판 참여게시판 나의게시물 시설물사용신청 서"
+    "head": "Button00 입찰공고확인(외부)"
    },
    "xhr": [
-    "POST 200 https://www.seowon.ac.kr/kurl.do",
-    "POST 200 https://www.seowon.ac.kr/indvdinfoAgreNtcn/check.do",
-    "POST 200 https://www.seowon.ac.kr/ktext.do",
-    "POST 200 https://www.seowon.ac.kr/kurl.do",
-    "POST 200 https://www.seowon.ac.kr/pwdChangeNtcn/check.do",
-    "POST 200 https://www.seowon.ac.kr/ktext.do"
+    "GET 200 https://dx.donga.ac.kr/nxui/CONFIG/hotfix.xjs.js",
+    "GET 200 https://dx.donga.ac.kr/nxui/CONFIG/overrides_config.xjs.js",
+    "GET 200 https://dx.donga.ac.kr/nxui/CONFIG/util_config.xjs.js",
+    "GET 404 https://dx.donga.ac.kr/nxui/MODULE/CONFIG_LOADER/config_loader.xjs.js",
+    "GET 200 https://dx.donga.ac.kr/nxui/MODULE/LAYOUT/layout.xjs.js",
+    "GET 200 https://dx.donga.ac.kr/nxui/MODULE/TAG/tag.xjs.js",
+    "GET 200 https://dx.donga.ac.kr/nxui/MODULE/TAG/TAGS/frame.xjs.js",
+    "GET 200 https://dx.donga.ac.kr/nxui/MODULE/TAG/TAGS/div.xjs.js"
    ]
   },
   {
-   "org": "한일장신대학교",
-   "url": "https://www.hanil.ac.kr/portal/default/bbs/list.do?menuId=M0004000100050000",
-   "code": 200,
-   "rows": 15,
-   "sample": [
-    "2024-02-19 [긴급] 2024학년도 한일장신대학교 통학버스 용역업체 선정 입찰 공고",
-    "2023-08-02 양궁부 훈련용품 구매 입찰 공고(수정)",
-    "2023-07-18 양궁부 훈련용품(소모품) 구입 견적 요청"
-   ]
-  },
-  {
-   "org": "강남대학교",
-   "url": "https://gumae.kangnam.ac.kr/",
-   "code": 200,
-   "rows": 1,
-   "sample": [
-    "2026-09-20 More Info"
-   ]
-  },
-  {
-   "org": "한국여자농구연맹",
-   "url": "https://www.wkbl.or.kr/m/news/notice_list.asp",
-   "code": 200,
-   "rows": 10,
-   "sample": [
-    "2026-09-18 2026~2027시즌 여자프로농구 WKBL 비디오 분석관 모집 공고 작성일",
-    "2026-08-26 2026-2027시즌 BNK썸 시그니처 굿즈 기획 제작 용역 입찰공고 작성일",
-    "2026-08-19 2026~2027 WKBL 신인선수 드래프트 결과 및 컴바인 측정 결과 안내 작성일"
-   ]
-  },
-  {
-   "org": "MBC",
-   "url": "https://hanul.mbc.co.kr/",
-   "code": 403,
-   "rows": 0,
-   "sample": [],
-   "debug": {
-    "title": "403 Forbidden",
-    "finalUrl": "https://hanul.mbc.co.kr/",
-    "textLen": 61,
-    "dates": 0,
-    "head": "Forbidden You don't have permission to access this resource."
-   },
-   "xhr": []
-  },
-  {
-   "org": "하나금융그룹",
-   "url": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
-   "code": 200,
-   "rows": 9,
-   "sample": [
-    "2026-09-22 [입찰공고] 하나금융그룹 '연결회계시스템 구축 사업’ 제안 재공고 제안서 및 입찰서류 제출기한 : 2026년 9월 22일(화요일) 오전 11시까지",
-    "2026-09-04 하나 파워 온 스토어 - 소상공인 디지털 전환 기기 지원 전국의 소상공인 사장님들 이제 스마트하게 영업해보세요!",
-    "2026-08-13 [에너지절약 캠페인] 일상 속 작은 실천으로 에너지 절약에 동참하세요! * 참여기간:"
-   ]
-  },
-  {
-   "org": "신한AITAS",
-   "url": "https://www.shinhanaitas.com/tender/",
-   "err": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.shinhanaitas.com/tender/\nCall log:\n  - navigating to \"https://www.shinhanaitas.com/tender/\", waiting until \"domcontentloaded\"\n"
-  },
-  {
-   "org": "우리카드",
-   "url": "https://sccd.wooribank.com/ccd/Dream?withyou=CDCNT0393",
-   "err": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://sccd.wooribank.com/ccd/Dream?withyou=CDCNT0393\nCall log:\n  - navigating to \"https://sccd.wooribank.com/ccd/Dream?withyou=CDCNT0393\", waiting until \"dom"
-  },
-  {
-   "org": "KB국민카드",
-   "url": "https://biz.kbcard.com/CXERCEPC0007.cms",
-   "code": 200,
-   "rows": 0,
-   "sample": [],
-   "debug": {
-    "title": "e-구매시스템 메인 | KB국민카드 (EW21)",
-    "finalUrl": "https://biz.kbcard.com/CXERCEPC0007.cms",
-    "textLen": 310,
-    "dates": 0,
-    "head": "본문 바로가기 KB국민카드 E구매서비스 구매알림 입찰공고 참여현황 계약현황 업체정보관리 고객서비스 e-구매시스템 메인 e-구매시스템 메인 는(은) 이용이 제한된 서비스입니다. ※ 기타 자세한 문의는 KB국민카드 고객센터(1588-1688)로 문의 주시기 바랍니다. 확인 국민생활의 힘 KB국민카드 회사소개 개인정보 처리방침 사이트맵 서울특별시 종로구 새문안로"
-   },
-   "xhr": [
-    "POST 200 https://www.google-analytics.com/j/collect?v=1&_v=j102&aip=1&a=1391360880&t=pageview&_s=1&dl=https%3A%2F%2Fbiz.kbcard.com%2FCXERCEPC0007.cms&ul=ko-kr&dt=e-%EA%B",
-    "GET 200 https://biz.kbcard.com/cxo/wizvera/delfino-g3/lang/delfino_lang_korean_b64.js?20181217&_=1789890147523",
-    "GET 204 https://bc.ad.daum.net/bc?d=%7B%22track_id%22%3A%226370762592280424929%22%2C%22event_code%22%3A%22PageView%22%2C%22params%22%3A%7B%22tag%22%3A%22kbkookmin_pc%22",
-    "POST 204 https://analytics.google.com/g/collect?v=2&tid=G-J03YB2TSBT&gtm=45je69g1v888384719z877791275za20gzb77791275zd77791275xf1&_p=1789890147701&_gaz=1&gcd=13l3l3l2l1l",
-    "POST 302 https://www.google.com/measurement/conversion?random=1789890148537&cv=11&tid=G-J03YB2TSBT&fst=1789890148537&fmt=8&en=session_start&gtm=45je69g1v888384719z877791",
-    "GET 200 https://www.google.com/measurement/1p-conversion/?random=22089327&cv=11&tid=G-J03YB2TSBT&fst=1789890148537&fmt=8&en=session_start&gtm=45je69g1v888384719z8777912"
-   ]
-  },
-  {
-   "org": "경운대학교",
-   "url": "https://www.ikw.ac.kr/board/list.tc?mn=3292&mngNo=190&pageSeq=2184",
+   "org": "우송대학교",
+   "url": "https://www.wsu.ac.kr/board/index.jsp?code=etc0302",
    "code": 200,
    "rows": 0,
    "sample": [],
    "debug": {
     "title": "",
-    "finalUrl": "about:blank",
+    "finalUrl": "https://www.wsu.ac.kr/board/index.jsp?code=etc0302",
     "textLen": 0,
     "dates": 0,
     "head": ""
    },
-   "xhr": [
-    "POST 200 https://www.ikw.ac.kr/common/loginCheck.json"
-   ]
-  },
-  {
-   "org": "위덕대학교",
-   "url": "https://www.uu.ac.kr/home/uu_notice_01/",
-   "code": 404,
-   "rows": 0,
-   "sample": [],
-   "debug": {
-    "title": "404 Not Found",
-    "finalUrl": "https://www.uu.ac.kr/home/uu_notice_01/",
-    "textLen": 78,
-    "dates": 0,
-    "head": "Not Found The requested URL /home/uu_notice_01/ was not found on this server."
-   },
    "xhr": []
   },
   {
-   "org": "대구가톨릭대학교",
-   "url": "https://www.cu.ac.kr/support/tender",
-   "code": 200,
-   "rows": 0,
-   "sample": [],
-   "debug": {
-    "title": "입찰공고 > DCU",
-    "finalUrl": "https://www.cu.ac.kr/support/tender",
-    "textLen": 578,
-    "dates": 0,
-    "head": "본문바로가기 DCU e-Advisor 교직원포털 발전기금 웹메일 로그인 Language 대학정보 대학/대학원 입학 교육/생활 국제 취업/경력 연구/산학 커뮤니티 DCU DAEGU CATHOLIC UNIVERSITY DCU 입찰공고 텍스트 크기 초기화 입찰공고 공개적이고 깨끗한 거래 대구가톨릭대학교의 입찰정보를 보실 수 있습니다. 구매 / 임대 / 용역 사전"
-   },
-   "xhr": [
-    "GET 200 https://nam.veta.naver.com/nac/2",
-    "POST 204 https://www.google-analytics.com/g/collect?v=2&tid=G-JHDM4DBEKX&gtm=45je69g1v9126786090za200zd9126786090xf1&_p=1789890157097&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=14"
-   ]
-  },
-  {
    "org": "대구가톨릭대학교 산학협력단",
-   "url": "https://iacf.cu.ac.kr/?menu_code=222",
-   "err": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://iacf.cu.ac.kr/?menu_code=222\", waiting until \"domcontentloaded\"\n"
+   "url": "https://iacf.cu.ac.kr/pages/board/list.php?board_sid=1&category_code1=&menu_code=211",
+   "err": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://iacf.cu.ac.kr/pages/board/list.php?board_sid=1&category_code1=&menu_code=211\", waiting until \"domcontentloaded\"\n"
   },
   {
    "org": "동의대학교",
    "url": "https://www.deu.ac.kr/www/deu-bids.do",
    "code": 200,
-   "rows": 0,
-   "sample": [],
-   "debug": {
-    "title": "",
-    "finalUrl": "https://www.deu.ac.kr/www/deu-bids.do",
-    "textLen": 215,
-    "dates": 1,
-    "head": " The request / response that are contrary to the Web firewall security policies have been blocked. Detect time 2026-09-20 16:42:47 Detect client IP 132.196.31.128 Detect URL https://www.deu.ac.kr/www/"
-   },
-   "xhr": []
-  },
-  {
-   "org": "경성대학교",
-   "url": "https://cms1.ks.ac.kr/kor/Board.do?mCode=MN0983",
-   "code": 404,
-   "rows": 0,
-   "sample": [],
-   "debug": {
-    "title": "페이지를 찾을 수 없습니다.",
-    "finalUrl": "https://cms1.ks.ac.kr/kor/Board.do?mCode=MN0983",
-    "textLen": 88,
-    "dates": 0,
-    "head": "PAGE NOT FOUND 죄송합니다. 요청하신 페이지를 찾을 수 없습니다. 서비스 이용에 불편을 드려 죄송합니다. 잠시 후 이전 화면으로 이동합니다."
-   },
-   "xhr": [
-    "GET 200 https://cms1.ks.ac.kr/common/css/common.css",
-    "GET 200 https://cms1.ks.ac.kr/common/css/error.css",
-    "GET 200 https://cms1.ks.ac.kr/common/css/common.css",
-    "GET 200 https://cms1.ks.ac.kr/common/css/error.css"
-   ]
-  },
-  {
-   "org": "인제대학교",
-   "url": "https://www.inje.ac.kr/kor/Template/Bsub_page.asp?Ltype=5&Ltype2=0&Ltype3=0&Tname=S_News&Ldir=board/S_News&div=12&d1n=5&d2n=1&d3n=7&d4n=0&Lpage=Tboard_L",
-   "code": 200,
-   "rows": 0,
-   "sample": [],
-   "debug": {
-    "title": "인제대학교::에러안내",
-    "finalUrl": "https://www.inje.ac.kr/kor/Template/Bsub_page.asp?Ltype=5&Ltype2=0&Ltype3=0&Tname=S_News&Ldir=board/S_News&div=12&d1n=5&d2n=1&d3n=7&d4n=0&Lpage=Tboard_L",
-    "textLen": 183,
-    "dates": 0,
-    "head": "요청하신 페이지를 찾을 수 없습니다 입력하신 주소가 정확하지 않거나 페이지가 이동 또는 삭제되어 접속할 수 없습니다. 대표 홈페이지 또는 통합검색을 이용해 원하는 정보를 다시 확인해 주시기바랍니다. 인제대홈페이지 이전 페이지로 이동 홈페이지 관련 문의 디지털정보원 055-320-3960 webmaster@inje.ac.kr"
-   },
-   "xhr": []
-  },
-  {
-   "org": "우송대학교",
-   "url": "https://www.wsu.ac.kr/page/index.jsp?code=setc0301",
-   "code": 200,
-   "rows": 0,
-   "sample": [],
-   "debug": {
-    "title": "입찰정보 : 우송대학교",
-    "finalUrl": "https://www.wsu.ac.kr/page/index.jsp?code=setc0301",
-    "textLen": 3144,
-    "dates": 0,
-    "head": "본문 바로가기 SolBridge Endicott College JCFS College IDegree KGSP 로그인 학사일정 대학정보시스템 KOR ENG 中文 대학소개 입학안내 대학·대학원 대학생활 커뮤니티우송 글로벌우송 구글검색 ETC 게시판 이용안내 게시판 이용안내 개인정보처리방침 개인정보처리방침 목적외이용 및 제3자제공현황 목적외이용 및 제3자제공현황"
-   },
-   "xhr": [
-    "POST 200 https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1357595244&t=pageview&_s=1&dl=https%3A%2F%2Fwww.wsu.ac.kr%2Fpage%2Findex.jsp%3Fcode%3Dsetc0301&ul=ko-kr",
-    "POST 200 https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1357595244&t=pageview&_s=1&dl=https%3A%2F%2Fwww.wsu.ac.kr%2Fpage%2Findex.jsp%3Fcode%3Dsetc0301&ul=ko-kr",
-    "POST 200 https://www.google.com/ccm/collect?rcb=15&frm=0&apvc=1&auid=653279353.1789890170&dt=%EC%9E%85%EC%B0%B0%EC%A0%95%EB%B3%B4%20%3A%20%EC%9A%B0%EC%86%A1%EB%8C%80%ED%",
-    "POST 200 https://www.google.com/rmkt/collect/796737747/?random=1789890169592&cv=11&fst=1789890169592&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be69g1za200xecx",
-    "POST 204 https://ad.doubleclick.net/ccm/s/collect?auid=653279353.1789890170&gtm=45be69g1za200xecxf1&fmt=8",
-    "POST 204 https://analytics.google.com/g/collect?v=2&tid=G-4Q3E86KVHM&gtm=45je69g1v9125686426za20gxf1&_p=1789890169425&_gaz=1&gcd=13l3l3l3l2l1&npa=0&dma=0&_eu=EBAIAGA&_ng",
-    "POST 204 https://www.google-analytics.com/g/collect?v=2&tid=G-Q3TE35GT6N&gtm=45je69g1h1v9114298892za20gxf1&_p=1789890169425&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EAAI&cid=530",
-    "POST 204 https://www.google-analytics.com/g/collect?v=2&tid=G-B1RTR8SVW0&gtm=45je69g1v9123634725za20gxf1&_p=1789890169425&gcd=13l3l3l3l2l1&npa=0&dma=0&_eu=EBAI&cid=53034"
-   ]
-  },
-  {
-   "org": "을지대학교",
-   "url": "https://www.eulji.ac.kr/?menuno=3161",
-   "code": 200,
    "rows": 10,
    "sample": [
-    "2026-09-11 을지대학교 성남캠퍼스 구내식당 및 편의시설(카페 및 매점) 운영업체 선정(재공고)",
-    "2026-09-10 을지재단 기관별 배터리 교체를 위한 단가계약(재공고)",
-    "2026-09-03 을지재단 기관별 배터리 교체를 위한 단가계약"
-   ]
-  },
-  {
-   "org": "유원대학교 산학협력단",
-   "url": "https://sanhak.u1.ac.kr/_prog/_board/index.php?code=sanhak_0309&site_dvs_cd=sanhak&menu_dvs_cd=0309",
-   "code": 404,
-   "rows": 0,
-   "sample": [],
-   "debug": {
-    "title": "Error",
-    "finalUrl": "https://sanhak.u1.ac.kr/_prog/_board/index.php?code=sanhak_0309&site_dvs_cd=sanhak&menu_dvs_cd=0309",
-    "textLen": 67,
-    "dates": 0,
-    "head": "404 요청하신 페이지를 찾을 수 없습니다. JiniWorks Web contents management system"
-   },
-   "xhr": []
-  },
-  {
-   "org": "호남대학교",
-   "url": "https://www.honam.ac.kr/GeneralNotice",
-   "err": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.honam.ac.kr/GeneralNotice\", waiting until \"domcontentloaded\"\n"
-  },
-  {
-   "org": "남서울대학교",
-   "url": "https://www.nsu.ac.kr/?m1=page_board_list&menu_id=207",
-   "code": 200,
-   "rows": 0,
-   "sample": [],
-   "debug": {
-    "title": "남서울대학교 홈페이지",
-    "finalUrl": "https://www.nsu.ac.kr/?m1=page_board_list&menu_id=207",
-    "textLen": 2281,
-    "dates": 0,
-    "head": "로그인 사이트맵 LANGUAGE 한국어 English 中文 Việt nam 언어 선택 가어 갈리시아어 과라니어 광둥어 구자라트어 그리스어 그린란드어 나우아틀어(동부 우아스테카) 네덜란드어 네팔바사어(네와르어) 네팔어 노르웨이어 누에르어 다리어 덴마크어 도그리어 독일어 돔베어 드율라어 디베히어 딩카어 라오어 라트갈레어 라트비아어 라틴어 러시아어 롬바르디아어 "
-   },
-   "xhr": [
-    "GET 200 https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
-    "GET 404 https://www.nsu.ac.kr/res/service/page/page_board_list.js?_=1789890186722",
-    "POST 200 https://www.nsu.ac.kr/api/website/getAvailableBannerList",
-    "POST 204 https://www.google-analytics.com/g/collect?v=2&tid=G-6XJ0MM2SXR&gtm=45je69g1v9109919601za20gxf1&_p=1789890188975&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EAAI&cid=18348",
-    "GET 200 https://www.nsu.ac.kr/res/service/popup/alert_popup.js?_=1789890186723",
-    "GET 200 https://www.nsu.ac.kr/res/service/popup/alert_popup.html?_=1789890186724"
-   ]
-  },
-  {
-   "org": "서울신학대학교",
-   "url": "https://www.stu.ac.kr/CmsHome/stu06_03_04.eznic",
-   "code": 200,
-   "rows": 10,
-   "sample": [
-    "2026-08-14 서울신학대학교 학생식당 위탁 운영 사업자 선정",
-    "2026-08-12 서울신학대학교 2026학년도 축제 행사 대행 용역 사업자 선정",
-    "2026-07-20 서울신학대학교 이명헌기념관 장애인용 승강기 설치 공사(재공고)"
-   ]
-  },
-  {
-   "org": "울산대학교",
-   "url": "https://www.ulsan.ac.kr/kor/CMS/HaksaProgramMgr/boardList01.do?mCode=MN115",
-   "code": 200,
-   "rows": 0,
-   "sample": [],
-   "debug": {
-    "title": "울산대학교>U-NEWS>공지사항>입찰공지 목록",
-    "finalUrl": "https://www.ulsan.ac.kr/kor/CMS/HaksaProgramMgr/boardList01.do?mCode=MN115",
-    "textLen": 681,
-    "dates": 0,
-    "head": "스킵네비게이션 본문바로가기 주메뉴바로가기 UWINS 학생포털시스템 UWIN UCLASS U-STEP U-CAREER UOASIS U-CAPSTONE U-NEXUS 글로컬대학 통합로그인 주요서비스 UOU 스토리 ENGLISH 대학소개 입학 교육 연구 산학 U-NEWS 대학생활 검색하기 사이트맵 Quick Menu U-NEWS University of Ulsa"
-   },
-   "xhr": [
-    "POST 204 https://www.google-analytics.com/g/collect?v=2&tid=G-TZ361LT837&gtm=45je69h0h2v878801849za200zd878801849xf1&_p=1789890199046&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=10"
+    "2026-09-17 [입찰공고] 산학협력단 제2026-29호(재공고) (동의대학교 산학협력단) 심자외선 마이크로라만/광발광 매핑 시스템 장비 구매 건 자세히 보기",
+    "2026-09-17 [입찰공고] 산학협력단 제2026-28호(재공고) (동의대학교 산학협력단) 2026년 파워반도체 공유대학 운영 용역 자세히 보기",
+    "2026-09-17 [입찰공고] 산학협력단 제2026-27호(재공고) (동의대학교 산학협력단) AI 교육용 키트 제작 및 교육 컨텐츠 제작 건 자세히 보기"
    ]
   }
  ]
