@@ -3,6 +3,7 @@
 // → Apps Script(H07_첨부.gs ghAtt_)가 이 목록을 읽어 드라이브 공고 폴더에 넣는다.
 //   우리카드: 목록 화면에서 공고를 눌러 들어가야 상세가 뜨고, 첨부는 RAON K 부품(AES로 암호화된 주소)으로만 받아짐
 //   하나금융그룹: 구글 서버에서 시간초과, 상세는 viewPage(번호) 로 여는 화면
+//   한국여자농구연맹: 구글 서버에 403
 import { chromium } from 'playwright';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -163,7 +164,54 @@ async function hanafn() {
   await page.close();
 }
 
-for (const job of [wooricard, hanafn]) {
+// ── 한국여자농구연맹(WKBL) ────────────────────────────────
+// 구글 서버는 403으로 막히지만 GitHub 브라우저로는 열림. 첨부는 /data/ 아래 그냥 파일 주소
+async function wkbl() {
+  const org = '한국여자농구연맹';
+  const LIST = 'https://www.wkbl.or.kr/m/news/notice_list.asp';
+  const page = await context.newPage();
+  await page.goto(LIST, { waitUntil: 'domcontentloaded', timeout: 60000 });
+  const list = await page.evaluate(() => Array.from(document.querySelectorAll('a[href*="notice_view"]')).map((a) => ({
+    id: (a.getAttribute('href').match(/num=(\d+)/) || [])[1], title: a.innerText.replace(/\s+/g, ' ').trim(), href: a.href
+  })).filter((x) => x.id));
+  const seen = new Set();
+  log(org, '목록', list.length);
+  for (const it of list.filter((x) => /입찰|제안|용역|선정/.test(x.title))) {
+    if (seen.has(it.id) || have.has(org + '|' + it.id)) continue;
+    seen.add(it.id);
+    if (Date.now() > DEADLINE) break;
+    const r = { org, id: it.id, title: it.title };
+    try {
+      await page.goto(it.href, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      const date = await page.evaluate(() => ((document.body.innerText.match(/(20\d{2})[.\-](\d{2})[.\-](\d{2})/) || [])[0] || '').replace(/\./g, '-'));
+      const links = await page.evaluate(() => Array.from(document.querySelectorAll('a[href]'))
+        .filter((a) => /\/data\/|\.(hwp|hwpx|pdf|zip|docx?|xlsx?|pptx?)$/i.test(decodeURI(a.href)))
+        .map((a) => a.href));
+      const dir = path.join(ROOT, 'att', 'wkbl', it.id);
+      const files = [];
+      for (const u of [...new Set(links)]) {
+        try {
+          const res = await page.request.get(u, { headers: { Referer: page.url() }, timeout: 120000 });
+          const body = await res.body();
+          if (!res.ok() || (/text\/html/i.test(res.headers()['content-type'] || '') && body.length < 50000)) continue;
+          const name = safe(decodeURIComponent(u.split('?')[0].split('/').pop()));
+          fs.mkdirSync(dir, { recursive: true });
+          const p = path.join(dir, name);
+          fs.writeFileSync(p, body);
+          files.push({ name, path: path.relative(path.join(ROOT, '..'), p).split(path.sep).join('/'), bytes: body.length });
+        } catch (e) { r.fileErr = (r.fileErr || '') + ' ' + String(e.message || e).slice(0, 80); }
+      }
+      upsert({ org, id: it.id, title: it.title, date, link: it.href, files, at: today });
+      r.files = files.length; r.links = links.length;
+      log(org, it.id, it.title.slice(0, 30), '파일', files.length);
+      saveMan();
+    } catch (e) { r.err = String(e.message || e).slice(0, 200); }
+    report.push(r);
+  }
+  await page.close();
+}
+
+for (const job of [wooricard, hanafn, wkbl]) {
   try { await job(); } catch (e) { report.push({ job: job.name, err: String(e.message || e).slice(0, 200) }); }
 }
 await browser.close();
