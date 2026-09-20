@@ -50,7 +50,7 @@ async function wooricard() {
   const page = await context.newPage();
   const resp = await page.request.post('https://pc.wooricard.com/dcpc/yh1/cmn/bbs/searchBbsList.pwkjson', {
     headers: { 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'Proworks-Body': 'Y', 'Proworks-Lang': 'ko' },
-    data: JSON.stringify({ bbsVo: { scBbsCode: '1012', bbsSearchKey: '', bbsSearchVal: '', pageIndex: '1', pageSize: 20 } })
+    data: JSON.stringify({ bbsVo: { scBbsCode: '1012', bbsSearchKey: '', bbsSearchVal: '', pageIndex: '1', pageSize: 40 } })
   });
   const list = ((await resp.json()).bbsList || [])
     .map((x) => ({ id: String(x.bbscttSn), title: String(x.sj || '').trim(), date: String(x.registDt || '').slice(0, 10).replace(/\./g, '-') }))
@@ -65,8 +65,8 @@ async function wooricard() {
       await page.goto(LIST, { waitUntil: 'domcontentloaded', timeout: 60000 });
       await page.waitForLoadState('networkidle', { timeout: 15000 }).catch(() => {});
       let link = page.locator('a', { hasText: it.title.slice(0, 25) }).first();
-      for (let pg = 2; pg <= 3 && !(await link.count()); pg++) {   // 첫 쪽에 없으면 2·3쪽
-        await page.locator('.paging a, .pagination a, .page a', { hasText: new RegExp('^' + pg + '$') }).first().click().catch(() => {});
+      for (let pg = 2; pg <= 5 && !(await link.count()); pg++) {   // 첫 쪽에 없으면 2~5쪽 (쪽 번호 글자는 '페이지 2' 모양)
+        await page.locator('[class*=pag] a', { hasText: new RegExp('(^|\\s)' + pg + '$') }).first().click().catch(() => {});
         await page.waitForTimeout(2000);
         link = page.locator('a', { hasText: it.title.slice(0, 25) }).first();
       }
