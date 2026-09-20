@@ -123,11 +123,11 @@ async function scrapeOne(s) {
   try {
     const urls = s.pages && s.pageUrl ? Array.from({ length: s.pages }, (_, i) => s.pageUrl.replace('{p}', i + 1)) : [s.url];
     for (const u of urls) {
-      const resp = await page.goto(u, { waitUntil: 'domcontentloaded', timeout: 45000 });
+      const resp = await page.goto(u, { waitUntil: 'domcontentloaded', timeout: 60000 });
       r.code = resp ? resp.status() : null;
       await page.waitForLoadState('networkidle', { timeout: 15000 }).catch(() => {});
       await page.waitForTimeout(s.wait || 2500);
-      if (s.mode === 'donga') await page.waitForFunction(() => /BD20\d{6}-\d{4}|총 0건/.test(document.body.innerText), null, { timeout: 40000 }).catch(() => {});   // 넥사크로 화면은 늦게 뜸
+      if (s.mode === 'donga') await page.waitForFunction(() => /BD20\d{6}-\d{4}/.test(document.body.innerText), null, { timeout: 40000 }).catch(() => {});   // 넥사크로 화면은 늦게 뜸
       const fn = s.mode === 'pikk' ? extractPikk : s.mode === 'donga' ? extractDonga : extractInPage;
       let got = await page.evaluate(fn, s.url);
       if (s.noDate) {   // 목록 날짜가 게시일이 아닌 곳(포항공대: 입찰개시일) → 게시일 = 오늘, 목록 날짜는 기타날짜로
