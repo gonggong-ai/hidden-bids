@@ -82,32 +82,59 @@ const context = await browser.newContext({
   ignoreHTTPSErrors: true
 });
 const out = { generatedAt: new Date().toISOString(), rows: [], report: [] };
+const todo = sites.filter((s) => !onlyOrg || s.org === onlyOrg);
 
-for (const s of sites) {
-  if (onlyOrg && s.org !== onlyOrg) continue;
+// 한 곳 읽기. 0행이면 원인 파악용으로 화면 제목·글자 수·날짜 개수·화면 뒤에서 부른 데이터 주소를 남긴다
+async function scrapeOne(s) {
   const page = await context.newPage();
   const r = { org: s.org, url: s.url };
+  const xhr = [];
+  page.on('response', (resp) => {
+    const t = resp.request().resourceType();
+    if ((t === 'xhr' || t === 'fetch') && xhr.length < 8) xhr.push(resp.request().method() + ' ' + resp.status() + ' ' + resp.url().slice(0, 160));
+  });
+  const rows = [];
   try {
     const urls = s.pages && s.pageUrl ? Array.from({ length: s.pages }, (_, i) => s.pageUrl.replace('{p}', i + 1)) : [s.url];
-    let rows = [];
     for (const u of urls) {
-      const resp = await page.goto(u, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      const resp = await page.goto(u, { waitUntil: 'domcontentloaded', timeout: 45000 });
       r.code = resp ? resp.status() : null;
-      await page.waitForLoadState('networkidle', { timeout: 20000 }).catch(() => {});
-      await page.waitForTimeout(2500);
-      rows = rows.concat(await page.evaluate(s.mode === 'pikk' ? extractPikk : extractInPage, s.url));
+      await page.waitForLoadState('networkidle', { timeout: 15000 }).catch(() => {});
+      await page.waitForTimeout(s.wait || 2500);
+      rows.push(...(await page.evaluate(s.mode === 'pikk' ? extractPikk : extractInPage, s.url)));
     }
     r.rows = rows.length;
     r.sample = rows.slice(0, 3).map((x) => `${x.date} ${x.org ? x.org + ' | ' : ''}${x.title}`);
-    for (const x of rows) out.rows.push({ org: s.org, site: s.url, ...x });   // pikk는 x.org(실제 발주기관)가 덮어씀
+    if (!rows.length) {
+      r.debug = await page.evaluate(() => {
+        const t = (document.body && document.body.innerText) || '';
+        const d = (t.match(/20\d{2}\s*[.\-\/]\s*\d{1,2}\s*[.\-\/]\s*\d{1,2}/g) || []).length;
+        return { title: document.title, finalUrl: location.href, textLen: t.length, dates: d, head: t.replace(/\s+/g, ' ').slice(0, 200) };
+      });
+      r.xhr = xhr;
+    }
   } catch (e) {
     r.err = String(e.message || e).slice(0, 200);
   }
+  await page.close();
+  return { r, rows };
+}
+
+// 4곳씩 동시에 (사이트가 늘어도 20분 안에 끝나도록)
+const results = new Array(todo.length);
+let next = 0;
+await Promise.all(Array.from({ length: Math.min(4, todo.length) }, async () => {
+  while (next < todo.length) { const i = next++; results[i] = await scrapeOne(todo[i]); }
+}));
+results.forEach(({ r, rows }, i) => {
+  const s = todo[i];
   out.report.push(r);
+  for (const x of rows) out.rows.push({ org: s.org, site: s.url, ...x });   // pikk는 x.org(실제 발주기관)가 덮어씀
   console.log(`${r.err ? '❌' : r.rows ? '✅' : '⚠️'} ${s.org} | HTTP ${r.code ?? '-'} | 행 ${r.rows ?? 0}${r.err ? ' | ' + r.err : ''}`);
   (r.sample || []).forEach((x) => console.log('    · ' + x));
-  await page.close();
-}
+  if (r.debug) console.log('    ? ' + JSON.stringify(r.debug));
+  (r.xhr || []).forEach((x) => console.log('    > ' + x));
+});
 await browser.close();
 
 fs.mkdirSync(new URL('./data/', import.meta.url), { recursive: true });
