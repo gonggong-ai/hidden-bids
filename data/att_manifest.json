@@ -239,107 +239,35 @@
     }
    ],
    "at": "2026-09-20"
+  },
+  {
+   "org": "하나금융그룹",
+   "id": "10000148",
+   "title": "[입찰공고] 하나금융그룹 '연결회계시스템 구축 사업’ 제안 재공고 제안서 및 입찰서류 제출기한 : 2026년 9월 22일(화요일) 오전 11시까지",
+   "date": "2026-09-15",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "files": [
+    {
+     "name": "하나금융그룹+연결회계시스템+구축+사업+제안참여+신청서.pdf",
+     "path": "data/att/hanafn/10000148/하나금융그룹+연결회계시스템+구축+사업+제안참여+신청서.pdf",
+     "bytes": 82654
+    }
+   ],
+   "at": "2026-09-20"
   }
  ],
- "generatedAt": "2026-09-20T11:54:44.519Z",
+ "generatedAt": "2026-09-20T12:01:49.470Z",
  "report": [
   {
-   "org": "우리카드",
-   "id": "20260907141639570",
-   "title": "[입찰공고] 소유 부동산 매각 및 대체부동산 임차 주관사 선정",
+   "job": "wooricard",
+   "err": "apiRequestContext.post: Timeout 30000ms exceeded.\nCall log:\n  - → POST https://pc.wooricard.com/dcpc/yh1/cmn/bbs/searchBbsList.pwkjson\n    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Apple"
+  },
+  {
+   "org": "하나금융그룹",
+   "id": "10000148",
+   "title": "[입찰공고] 하나금융그룹 '연결회계시스템 구축 사업’ 제안 재공고 제안서 및 입찰서류 제출기한 : 2026년 9월 22일(화요일) 오전 11시까지",
    "files": 1,
    "links": 1
-  },
-  {
-   "org": "우리카드",
-   "id": "20260904135338309",
-   "title": "[입찰공고] 기업카드 데이터 중계 시스템 內 개발 서버 추가 구축[Linux OS(Carepack 포함)]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20260825174102989",
-   "title": "[입찰공고]2026년도 SW연간 단가 도입[통합백업]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20260825173015379",
-   "title": "[입찰공고]2026년도 SW연간 단가 도입[OS백업]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20260821111314292",
-   "title": "[입찰재공고] AI 기반 지식관리시스템(KMS) 재구축[SW_DBMS]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20260811111423794",
-   "title": "[입찰공고] AI 기반 지식관리시스템(KMS) 재구축[OS백업]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20260811110709370",
-   "title": "[입찰공고] AI 기반 지식관리시스템(KMS) 재구축[SW_WAS]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20260811111212543",
-   "title": "[입찰공고] AI 기반 지식관리시스템(KMS) 재구축[Linux OS]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20260811110249619",
-   "title": "[입찰공고] AI 기반 지식관리시스템(KMS) 재구축[HW_x86서버]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20260811110943496",
-   "title": "[입찰공고] AI 기반 지식관리시스템(KMS) 재구축[SW_DBMS]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20260810110332067",
-   "title": "[입찰공고] 통합로그(인터페이스 로그) 서버 이전 구축",
-   "err": "목록에서 제목을 못 찾음"
-  },
-  {
-   "org": "우리카드",
-   "id": "20260806140942567",
-   "title": "[입찰공고] 미들웨어 EOS버전 업그레이드",
-   "err": "목록에서 제목을 못 찾음"
-  },
-  {
-   "org": "우리카드",
-   "id": "20260804111255159",
-   "title": "[제안공고] AI 기반 지식관리시스템(KMS) 재구축(종합평가)",
-   "err": "목록에서 제목을 못 찾음"
-  },
-  {
-   "org": "우리카드",
-   "id": "20260722150002208",
-   "title": "[제안공고] 국제 정보보호 인증 ISO27001/27017 심사기관 선정(종합평가)",
-   "err": "목록에서 제목을 못 찾음"
-  },
-  {
-   "job": "hanafn",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
   }
  ]
 }
