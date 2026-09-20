@@ -19,6 +19,9 @@ const today = new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);
 const cutoff = new Date(Date.now() + 9 * 3600e3 - MAX_AGE_DAYS * 86400e3).toISOString().slice(0, 10);
 const safe = (s) => String(s).replace(/[\\/:*?"<>|\r\n]/g, '_').replace(/\s+/g, ' ').trim().slice(0, 120);
 const report = [];
+const DEADLINE = Date.now() + 14 * 60e3;   // 전체 14분 안에 끝냄 (GitHub 작업 제한 30분)
+const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
+function saveMan() { fs.mkdirSync(ROOT, { recursive: true }); man.generatedAt = new Date().toISOString(); man.report = report; fs.writeFileSync(MAN, JSON.stringify(man, null, 1)); }
 
 const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {});
 const context = await browser.newContext({
@@ -52,9 +55,12 @@ async function wooricard() {
   const list = ((await resp.json()).bbsList || [])
     .map((x) => ({ id: String(x.bbscttSn), title: String(x.sj || '').trim(), date: String(x.registDt || '').slice(0, 10).replace(/\./g, '-') }))
     .filter((x) => BID.test(x.title) && !NOT_BID.test(x.title) && (!x.date || x.date >= cutoff));
+  log(org, '대상', list.length);
   for (const it of list) {
     if (have.has(org + '|' + it.id)) continue;
+    if (Date.now() > DEADLINE) { log('시간 다 됨 — 다음 실행 때 이어서'); break; }
     const r = { org, id: it.id, title: it.title };
+    log(org, it.id, it.title.slice(0, 40));
     try {
       await page.goto(LIST, { waitUntil: 'domcontentloaded', timeout: 60000 });
       await page.waitForLoadState('networkidle', { timeout: 15000 }).catch(() => {});
@@ -74,13 +80,16 @@ async function wooricard() {
       const files = [];
       for (let k = 0; k < n; k++) {
         try {
-          const [dl] = await Promise.all([page.waitForEvent('download', { timeout: 60000 }), links.nth(k).click()]);
+          const [dl] = await Promise.all([page.waitForEvent('download', { timeout: 30000 }), links.nth(k).click()]);
           files.push(await saveDownload(dl, dir));
-        } catch (e) { r.fileErr = (r.fileErr || '') + ` #${k}:${String(e.message || e).slice(0, 80)}`; }
+          log('   받음', files[files.length - 1].name, files[files.length - 1].bytes);
+        } catch (e) { r.fileErr = (r.fileErr || '') + ` #${k}:${String(e.message || e).slice(0, 80)}`; log('   실패', k, String(e.message || e).slice(0, 100)); if (!files.length) break; }
         await page.waitForTimeout(1500);
       }
       upsert({ org, id: it.id, title: it.title, date: it.date, link: LIST + '#sn=' + it.id, files, at: today });
       r.files = files.length; r.links = n;
+      log('   링크', n, '파일', files.length);
+      saveMan();
     } catch (e) { r.err = String(e.message || e).slice(0, 200); }
     report.push(r);
   }
@@ -100,9 +109,12 @@ async function hanafn() {
     const d = (t.match(/(20\d{2})[.\-](\d{2})[.\-](\d{2})/) || []);
     return { id, title: t.replace(/(20\d{2})[.\-]\d{2}[.\-]\d{2}.*$/, '').trim(), date: d[0] ? `${d[1]}-${d[2]}-${d[3]}` : '' };
   }).filter((x) => x.id));
+  log(org, '목록', list.length);
   for (const it of list.filter((x) => /입찰|제안/.test(x.title) && (!x.date || x.date >= cutoff))) {
     if (have.has(org + '|' + it.id)) continue;
+    if (Date.now() > DEADLINE) break;
     const r = { org, id: it.id, title: it.title };
+    log(org, it.id, it.title.slice(0, 40));
     try {
       await page.goto(LIST, { waitUntil: 'domcontentloaded', timeout: 60000 });
       await page.waitForLoadState('networkidle', { timeout: 20000 }).catch(() => {});
@@ -136,6 +148,8 @@ async function hanafn() {
       }
       upsert({ org, id: it.id, title: it.title, date: it.date, link: LIST, files, at: today });
       r.files = files.length; r.links = links.length;
+      log('   링크', links.length, '파일', files.length);
+      saveMan();
     } catch (e) { r.err = String(e.message || e).slice(0, 200); }
     report.push(r);
   }
@@ -154,9 +168,6 @@ man.items = man.items.filter((x) => {
   (x.files || []).forEach((f) => { try { fs.unlinkSync(path.join(ROOT, '..', f.path)); } catch (e) {} });
   return false;
 });
-man.generatedAt = new Date().toISOString();
-man.report = report;
-fs.mkdirSync(ROOT, { recursive: true });
-fs.writeFileSync(MAN, JSON.stringify(man, null, 1));
+saveMan();
 report.forEach((r) => console.log(`${r.err ? '❌' : '✅'} ${r.org || r.job} ${r.id || ''} ${(r.title || '').slice(0, 40)} | 링크 ${r.links ?? '-'} 파일 ${r.files ?? 0}${r.err ? ' | ' + r.err : ''}${r.fileErr ? ' | ' + r.fileErr : ''}`));
 console.log(`첨부 목록 ${man.items.length}건 → data/att_manifest.json`);
