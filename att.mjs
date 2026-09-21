@@ -211,7 +211,58 @@ async function wkbl() {
   await page.close();
 }
 
-for (const job of [wooricard, hanafn, wkbl]) {
+// ── 신한라이프 ───────────────────────────────────────────
+// 목록(cdhi0510)에서 제목을 눌러야 상세가 열리고, 첨부는 dp.Form.downloadShtm('DigitalPlattform','/repo/DigitalPlattform/…') 모양
+// 실제 파일 주소는 /repo/DigitalPlattform → /bizxpress 로 바꾼 주소
+async function shinhanlife() {
+  const org = '신한라이프';
+  const LIST = 'https://www.shinhanlife.co.kr/hp/cdhi0510.do';
+  const page = await context.newPage();
+  await page.goto(LIST, { waitUntil: 'domcontentloaded', timeout: 60000 });
+  await page.waitForSelector('a.tit', { timeout: 30000 }).catch(() => {});
+  const list = await page.evaluate(() => Array.from(document.querySelectorAll('li')).map((li) => {
+    const a = li.querySelector('a.tit'); if (!a) return null;
+    const d = (li.innerText.match(/(20\d{2})[.\-](\d{2})[.\-](\d{2})/) || []);
+    return { id: a.getAttribute('data-key') || '', title: a.innerText.replace(/\s+/g, ' ').trim(), date: d[0] ? `${d[1]}-${d[2]}-${d[3]}` : '' };
+  }).filter((x) => x && x.id));
+  log(org, '목록', list.length);
+  for (const it of list.filter((x) => !x.date || x.date >= cutoff)) {
+    if (have.has(org + '|' + it.id)) continue;
+    if (Date.now() > DEADLINE) break;
+    const r = { org, id: it.id, title: it.title };
+    try {
+      await page.goto(LIST, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      await page.waitForSelector('a.tit', { timeout: 30000 });
+      await Promise.all([page.waitForNavigation({ timeout: 30000 }).catch(() => {}), page.locator(`a.tit[data-key="${it.id}"]`).click()]);
+      await page.waitForTimeout(3000);
+      const files = await page.evaluate(() => Array.from(document.querySelectorAll('a[href*="downloadShtm"]')).map((a) => {
+        const m = a.getAttribute('href').match(/downloadShtm\(\s*'[^']*'\s*,\s*'([^']+)'\s*,\s*'([^']*)'/);
+        return m ? { url: location.origin + m[1].replace('/repo/DigitalPlattform', '/bizxpress'), name: m[2] || m[1].split('/').pop() } : null;
+      }).filter(Boolean));
+      const dir = path.join(ROOT, 'att', 'shinhanlife', it.id);
+      const got = [];
+      for (const f of files) {
+        try {
+          const res = await page.request.get(f.url, { headers: { Referer: page.url() }, timeout: 60000 });
+          const body = await res.body();
+          if (!res.ok() || body.length < 200) continue;
+          fs.mkdirSync(dir, { recursive: true });
+          const pth = path.join(dir, safe(f.name));
+          fs.writeFileSync(pth, body);
+          got.push({ name: safe(f.name), path: path.relative(path.join(ROOT, '..'), pth).split(path.sep).join('/'), bytes: body.length });
+        } catch (e) { r.fileErr = (r.fileErr || '') + ' ' + String(e.message || e).slice(0, 80); }
+      }
+      upsert({ org, id: it.id, title: it.title, date: it.date, link: LIST, files: got, at: today });
+      r.files = got.length; r.links = files.length;
+      log(org, it.title.slice(0, 28), '파일', got.length);
+      saveMan();
+    } catch (e) { r.err = String(e.message || e).slice(0, 200); }
+    report.push(r);
+  }
+  await page.close();
+}
+
+for (const job of [wooricard, hanafn, wkbl, shinhanlife]) {
   try { await job(); } catch (e) { report.push({ job: job.name, err: String(e.message || e).slice(0, 200) }); }
 }
 await browser.close();
