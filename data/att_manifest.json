@@ -1344,311 +1344,117 @@
     }
    ],
    "at": "2026-09-21"
+  },
+  {
+   "org": "원광대학교",
+   "id": "b75f1f4c0de143f3aea14fa9159f4696",
+   "title": "(재공고) 임실로코노미 오수반려누리 반려동물목욕실 건축공사",
+   "date": "2026-09-21",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "설계도서(공고용).zip",
+     "path": "data/att/wku/b75f1f4c0de143f3aea14fa9159f4696/설계도서(공고용).zip",
+     "bytes": 3495014
+    },
+    {
+     "name": "입찰유의서_공사.hwp",
+     "path": "data/att/wku/b75f1f4c0de143f3aea14fa9159f4696/입찰유의서_공사.hwp",
+     "bytes": 70656
+    },
+    {
+     "name": "(재공고)입찰공고문.hwp",
+     "path": "data/att/wku/b75f1f4c0de143f3aea14fa9159f4696/(재공고)입찰공고문.hwp",
+     "bytes": 61952
+    },
+    {
+     "name": "(재공고)입찰참가서류양식.hwp",
+     "path": "data/att/wku/b75f1f4c0de143f3aea14fa9159f4696/(재공고)입찰참가서류양식.hwp",
+     "bytes": 95744
+    }
+   ],
+   "at": "2026-09-22"
+  },
+  {
+   "org": "원광대학교",
+   "id": "3f9950703e7f4eef9dac4f53b6d1bef3",
+   "title": "AI통번역시스템(Tikita Caption) 연간사용권 구매",
+   "date": "2026-09-21",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "입찰공고문.hwp",
+     "path": "data/att/wku/3f9950703e7f4eef9dac4f53b6d1bef3/입찰공고문.hwp",
+     "bytes": 68096
+    },
+    {
+     "name": "규격서.pdf",
+     "path": "data/att/wku/3f9950703e7f4eef9dac4f53b6d1bef3/규격서.pdf",
+     "bytes": 70581
+    },
+    {
+     "name": "입찰관련서류양식.hwp",
+     "path": "data/att/wku/3f9950703e7f4eef9dac4f53b6d1bef3/입찰관련서류양식.hwp",
+     "bytes": 64000
+    }
+   ],
+   "at": "2026-09-22"
+  },
+  {
+   "org": "원광대학교",
+   "id": "874d83dc25044bd19a1f5105f28bbf1a",
+   "title": "2026학년도 실험실 안전점검(정밀안전진단) 용역",
+   "date": "2026-09-21",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문_2026학년도 실험실 안전점검(정밀안전진단) 용역.hwp",
+     "path": "data/att/wku/874d83dc25044bd19a1f5105f28bbf1a/공고문_2026학년도 실험실 안전점검(정밀안전진단) 용역.hwp",
+     "bytes": 148992
+    },
+    {
+     "name": "과업지시서_2026학년도 실험실 안전점검(정밀안전진단) 용역.hwp",
+     "path": "data/att/wku/874d83dc25044bd19a1f5105f28bbf1a/과업지시서_2026학년도 실험실 안전점검(정밀안전진단) 용역.hwp",
+     "bytes": 187904
+    },
+    {
+     "name": "2026학년도 실험실 안전점검(정밀안전진단) 대상 실험실_업로드용.xlsx",
+     "path": "data/att/wku/874d83dc25044bd19a1f5105f28bbf1a/2026학년도 실험실 안전점검(정밀안전진단) 대상 실험실_업로드용.xlsx",
+     "bytes": 44639
+    }
+   ],
+   "at": "2026-09-22"
   }
  ],
- "generatedAt": "2026-09-21T01:12:18.795Z",
+ "generatedAt": "2026-09-21T23:09:57.708Z",
  "report": [
   {
    "org": "한국여자농구연맹",
    "id": "53358",
-   "title": "2026-2027시즌 하나은행 여자농구단 홍보마케팅 대행사 입찰공고 작성일 2026-06-11 조회수 2048",
+   "title": "2026-2027시즌 하나은행 여자농구단 홍보마케팅 대행사 입찰공고 작성일 2026-06-11 조회수 2050",
    "files": 1,
    "links": 1
   },
   {
-   "org": "신한라이프",
-   "id": "72e726b81c394a08b3f2",
-   "title": "재무통합 스토리지 공급업체 선정",
-   "fileErr": " apiRequestContext.get: Timeout 60000ms exceeded.\nCall log:\n  - → GET https://www",
-   "files": 1,
-   "links": 2
-  },
-  {
-   "org": "신한라이프",
-   "id": "dcdf89fca47340c4a89b",
-   "title": "FC채널 Summer 시책물품 공급업체 선정(메달, 티셔츠, 비치타올)",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "신한라이프",
-   "id": "636fb2e0e64e48e39b45",
-   "title": "[연장공고] 사업소득 연말정산 업무대행 업체 선정",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "신한라이프",
-   "id": "2f1d67ccef0b4781a136",
-   "title": "[연장공고] AX기반 지능형 개발 Agent 구축사업 업체 선정",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "신한라이프",
-   "id": "d00dd6ad59874430be5e",
-   "title": "계리모델 업무지원(인력파견) 공급업체 선정",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "신한라이프",
-   "id": "167fbefc8ddd4312946e",
-   "title": "신한라이프 맞춤형 약관 및 3대서류 책자 제작 업체 선정",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "신한라이프",
-   "id": "8a7caff3bbff4951be91",
-   "title": "신한라이프 개인정보처리 기록관리 솔루션 H/W 납품 업체 선정",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "신한라이프",
-   "id": "dcdf844d7cee49369225",
-   "title": "빅데이터 플랫폼의 EoS 대응을 위한 SW 공급 업체 선정",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "신한라이프",
-   "id": "25af9aa3f5d34d29ae77",
-   "title": "빅데이터 플랫폼의 EoS 대응을 위한 HW 공급 업체 선정",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "신한라이프",
-   "id": "a3ca36c41858429e9814",
-   "title": "MS 제품 및 Prophet 관련 SW 버전 업그레이드 업체 선정",
-   "files": 2,
-   "links": 2
+   "org": "원광대학교",
+   "id": "b75f1f4c0de143f3aea14fa9159f4696",
+   "title": "(재공고) 임실로코노미 오수반려누리 반려동물목욕실 건축공사",
+   "files": 4,
+   "links": 4
   },
   {
    "org": "원광대학교",
-   "id": "a21c5820d6b7407785fee31a37f1ed56",
-   "title": "(재공고) 비침습인젝터 3대 외 2종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "892e66e1740f4109929d0e1a108b7b16",
-   "title": "(재공고) 스마트 자침 트레이닝 시스템 4대 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "0e9f1c6c00e94080b3ec8f289088088a",
-   "title": "[교육발전특구]2026년 더봄 힐링로드 원정대 운영 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "375bb8c7c5834feeafd41b3967e89027",
-   "title": "[교육발전특구]2026 찾아가는 연극교실 운영 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "586c5289cd9443319f57372d2d363c20",
-   "title": "[교육발전특구]찾아가는 진로 비전·취업 역량 강화 캠프 운영 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "bfa05b58b5604ea897e559700ab71593",
-   "title": "2026학년도 원광대학교 취업박람회 부스 설치외 영역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "360e53eba3324abca99d0e2e1205064e",
-   "title": "[교육발전특구]2026년 더봄 유소년 드론 스포츠 대회 운영 용역",
-   "files": 1,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "7748eeeeb03f4aabad4302678b72d78a",
-   "title": "2026년도 전북 청년축제 연계 청년이 머무는 JOB 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "eb6ae74b7b994bb2aa36468fa7f31088",
+   "id": "3f9950703e7f4eef9dac4f53b6d1bef3",
    "title": "AI통번역시스템(Tikita Caption) 연간사용권 구매",
-   "files": 2,
-   "links": 2
+   "files": 3,
+   "links": 3
   },
   {
    "org": "원광대학교",
-   "id": "50826f020c6b43c1b720e9ab48c0813f",
-   "title": "(재공고) 복합피부측정기 1대 외 3종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "c36d469582a343e4b6ca8bb439ae9863",
-   "title": "(재공고) 시기능 훈련장비 1SET 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "98bc46d642ba47f1880dfcc548813051",
-   "title": "2026년 특화역량 BI육성지원사업 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "1eb50d790ed54f519fba62d21c51fbc2",
-   "title": "임실로코노미 오수반려누리 반려동물목욕실 건축공사",
-   "files": 4,
-   "links": 4
-  },
-  {
-   "org": "원광대학교",
-   "id": "f6ca5aed3b834c2e922c254752833a15",
-   "title": "(재공고) 세계농업대학 새만금 실증단지 농경지 정비 및 경작 준비 용역",
-   "files": 4,
-   "links": 4
-  },
-  {
-   "org": "원광대학교",
-   "id": "aff420436d4c4ec4991af8f728ec24b4",
-   "title": "이온스퍼터코터 1대 외 1종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "b82b6e779e944a3ab7543146972d7ccf",
-   "title": "헤드테라피 종합기기 4대 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "ef21127c31ad49cf9de6a6a3e0a811ff",
-   "title": "학생생활관 용화관 창호 방수공사",
-   "files": 4,
-   "links": 4
-  },
-  {
-   "org": "원광대학교",
-   "id": "7224f00285eb4f0aab3e4364fdf26cff",
-   "title": "[국고-혁신] 2026학년도 2학기 문예창작 공모 대비 집중 창작교실 대관(숙박 및 세미나실)",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "0432ef23e795468bbde70ce9de7f384b",
-   "title": "[글로컬-지역상생사업] 2026 익산시 다이로움 외국인 유학생 정주지원 교류 프로그램 진행 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "4b2fca69911f406fa20e425ceb3451cc",
-   "title": "2026학년도 위험성평가 컨설팅 용역 계약요구",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "420e7a67b74b455c8df35c177add5250",
-   "title": "학생생활관 도덕관 창호 방수공사",
-   "files": 4,
-   "links": 4
-  },
-  {
-   "org": "원광대학교",
-   "id": "928067df26624879b38b2046d7a190d5",
-   "title": "도덕관 변전실 ACB 및 절연애자 교체공사",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "13334e305b0845698d9b2d71f4bc7c8b",
-   "title": "원체육관 지붕 파손보수공사(TPO시트)",
-   "files": 5,
-   "links": 5
-  },
-  {
-   "org": "원광대학교",
-   "id": "4508843b4c97423ab15f9bd53b0e1459",
-   "title": "[교육발전특구]2026 찾아가는 연극교실 운영 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "8fe09b0f0769473eb8a32e53077f891a",
-   "title": "글로컬 생명존중 숭산마음뜰 조성공사",
-   "files": 5,
-   "links": 5
-  },
-  {
-   "org": "원광대학교",
-   "id": "c233aa51922b49e1991387d00a35627a",
-   "title": "(3차공고) 학교법인 원광학원 임대업체 선정 입찰",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "09c3cd7ca35a465bbec587a381a0713f",
-   "title": "글로컬 생명존중 숭산마음뜰 조성 전기공사",
-   "files": 5,
-   "links": 5
-  },
-  {
-   "org": "원광대학교",
-   "id": "fff35824b71145c7b3a56820a8f28fea",
-   "title": "주변전실 노후 케이블헤드 및 특고압기기 교체공사",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "bb67a0b8214e436895f43c0b32e7889f",
-   "title": "[앵커(RISE)] 모터 구동 기반 발목운동장치의 설계 및 제작 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "441be8857a6144348a32ea67625d745b",
-   "title": "2026년 JOB플레이 취업역량강화 캠프 운영 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "09f7ef2aa7e04c4d806103f3e93a004e",
-   "title": "생명도덕 기초교육 교육콘텐츠 개발 및 고도화 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "1ca08ff4c4094582b623a6068cd7ac2a",
-   "title": "비침습인젝터 3대 외 2종 구입",
-   "files": 2,
-   "links": 2
+   "id": "874d83dc25044bd19a1f5105f28bbf1a",
+   "title": "2026학년도 실험실 안전점검(정밀안전진단) 용역",
+   "files": 3,
+   "links": 3
   }
  ]
 }
