@@ -262,7 +262,63 @@ async function shinhanlife() {
   await page.close();
 }
 
-for (const job of [wooricard, hanafn, wkbl, shinhanlife]) {
+// ── 원광대학교 ───────────────────────────────────────────
+// 목록(cntrc.jsp)에서 돋보기 버튼(fn_read)을 눌러야 상세가 열리고, 파일 목록은 화면에서 그려짐
+// 내려받기는 POST /services/adapters/adapter_down_wfile.jsp (worklinkno·worklinkgub·filemngno·ofilename)
+async function wku() {
+  const org = '원광대학교';
+  const LIST = 'https://intra.wku.ac.kr/services/contract/cntrc.jsp';
+  const page = await context.newPage();
+  for (const state of ['I', 'E']) {
+    if (Date.now() > DEADLINE) break;
+    await page.goto(LIST + '?state=' + state, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    await page.waitForTimeout(2500);
+    const list = await page.evaluate(() => Array.from(document.querySelectorAll('.cards')).map((c) => {
+      const b = c.querySelector('button[onclick*="fn_read"]');
+      const t = c.querySelector('.title');
+      const d = (c.innerText.match(/(20\d{2})[.\-](\d{2})[.\-](\d{2})/) || []);
+      return b && t ? { id: (b.getAttribute('onclick').match(/fn_read\('([0-9a-f]{32})'\)/) || [])[1],
+                        title: t.innerText.replace(/\s+/g, ' ').trim(), date: d[0] ? `${d[1]}-${d[2]}-${d[3]}` : '' } : null;
+    }).filter((x) => x && x.id));
+    log(org, state, '목록', list.length);
+    for (const it of list.filter((x) => !x.date || x.date >= cutoff)) {
+      if (have.has(org + '|' + it.id)) continue;
+      if (Date.now() > DEADLINE) break;
+      const r = { org, id: it.id, title: it.title };
+      try {
+        await page.goto(LIST + '?state=' + state, { waitUntil: 'domcontentloaded', timeout: 60000 });
+        await page.waitForTimeout(1500);
+        await Promise.all([page.waitForNavigation({ timeout: 30000 }).catch(() => {}), page.evaluate((id) => window.fn_read(id), it.id)]);
+        await page.waitForTimeout(2500);
+        const files = await page.evaluate(() => Array.from(document.querySelectorAll('button[onclick*="fn_download"]')).map((b) => {
+          const m = b.getAttribute('onclick').match(/fn_download\(\s*"([^"]*)"\s*,\s*"([^"]*)"\s*,\s*"([^"]*)"\s*,\s*"([^"]*)"\s*\)/);
+          return m ? { worklinkno: m[1], worklinkgub: m[2], filemngno: m[3], ofilename: m[4] } : null;
+        }).filter(Boolean));
+        const dir = path.join(ROOT, 'att', 'wku', it.id);
+        const got = [];
+        for (const f of files) {
+          try {
+            const res = await page.request.post('https://intra.wku.ac.kr/services/adapters/adapter_down_wfile.jsp', { form: f, timeout: 60000 });
+            const body = await res.body();
+            if (!res.ok() || body.length < 500 || /rtn_code/.test(body.slice(0, 40).toString())) continue;
+            fs.mkdirSync(dir, { recursive: true });
+            const pth = path.join(dir, safe(f.ofilename));
+            fs.writeFileSync(pth, body);
+            got.push({ name: safe(f.ofilename), path: path.relative(path.join(ROOT, '..'), pth).split(path.sep).join('/'), bytes: body.length });
+          } catch (e) { r.fileErr = (r.fileErr || '') + ' ' + String(e.message || e).slice(0, 80); }
+        }
+        upsert({ org, id: it.id, title: it.title, date: it.date, link: LIST, files: got, at: today });
+        r.files = got.length; r.links = files.length;
+        log(org, it.title.slice(0, 26), '파일', got.length);
+        saveMan();
+      } catch (e) { r.err = String(e.message || e).slice(0, 200); }
+      report.push(r);
+    }
+  }
+  await page.close();
+}
+
+for (const job of [wooricard, hanafn, wkbl, shinhanlife, wku]) {
   try { await job(); } catch (e) { report.push({ job: job.name, err: String(e.message || e).slice(0, 200) }); }
 }
 await browser.close();
