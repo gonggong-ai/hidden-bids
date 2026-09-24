@@ -1881,25 +1881,14 @@
    "at": "2026-09-23"
   }
  ],
- "generatedAt": "2026-09-23T23:09:47.435Z",
+ "generatedAt": "2026-09-24T23:09:23.657Z",
  "report": [
   {
    "org": "한국여자농구연맹",
    "id": "53358",
-   "title": "2026-2027시즌 하나은행 여자농구단 홍보마케팅 대행사 입찰공고 작성일 2026-06-11 조회수 2053",
+   "title": "2026-2027시즌 하나은행 여자농구단 홍보마케팅 대행사 입찰공고 작성일 2026-06-11 조회수 2054",
    "files": 1,
    "links": 1
-  },
-  {
-   "job": "shinhanlife",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
-  },
-  {
-   "org": "원광대학교",
-   "id": "023793b452ac4ee88945072e4e20d0dc",
-   "title": "농생명융합대학 거점화 센터 구축에 따른 천장형냉난방기(GHP) 설치 공사",
-   "files": 5,
-   "links": 5
   }
  ]
 }
