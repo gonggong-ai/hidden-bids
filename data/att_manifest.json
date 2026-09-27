@@ -1881,18 +1881,14 @@
    "at": "2026-09-23"
   }
  ],
- "generatedAt": "2026-09-26T23:09:43.310Z",
+ "generatedAt": "2026-09-27T23:09:12.889Z",
  "report": [
   {
    "org": "한국여자농구연맹",
    "id": "53358",
-   "title": "2026-2027시즌 하나은행 여자농구단 홍보마케팅 대행사 입찰공고 작성일 2026-06-11 조회수 2061",
+   "title": "2026-2027시즌 하나은행 여자농구단 홍보마케팅 대행사 입찰공고 작성일 2026-06-11 조회수 2065",
    "files": 1,
    "links": 1
-  },
-  {
-   "job": "shinhanlife",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
   }
  ]
 }
