@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-27T23:07:52.402Z",
+ "generatedAt": "2026-09-28T23:08:15.140Z",
  "rows": [
   {
    "org": "기아대책",
@@ -332,6 +332,14 @@
   {
    "org": "을지대학교",
    "site": "https://www.eulji.ac.kr/?menuno=3161",
+   "title": "[대학혁신지원사업]을지대학교(성남 캠퍼스) 박애관, 을지관 및 뉴밀레니엄센터 옥상 방...",
+   "date": "2026-09-28",
+   "dates": "",
+   "link": "https://www.eulji.ac.kr/?menuno=3161"
+  },
+  {
+   "org": "을지대학교",
+   "site": "https://www.eulji.ac.kr/?menuno=3161",
    "title": "을지대학교 성남캠퍼스 구내식당 및 편의시설(카페 및 매점) 운영업체 선정(재공고)",
    "date": "2026-09-11",
    "dates": "",
@@ -397,14 +405,6 @@
    "org": "을지대학교",
    "site": "https://www.eulji.ac.kr/?menuno=3161",
    "title": "[의과대학교육혁신지원사업(RISE) 0-2] 디지털 슬라이드 스캐너 구축",
-   "date": "2026-08-04",
-   "dates": "",
-   "link": "https://www.eulji.ac.kr/?menuno=3161"
-  },
-  {
-   "org": "을지대학교",
-   "site": "https://www.eulji.ac.kr/?menuno=3161",
-   "title": "[의과대학교육혁신지원사업(RISE) 0-2] 실시간 세포 이미징 시스템(Image ExFluorer-S(Ph/T)) 구축",
    "date": "2026-08-04",
    "dates": "",
    "link": "https://www.eulji.ac.kr/?menuno=3161"
@@ -492,8 +492,120 @@
   {
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)[재공고](12046) SSS빔라인 CCD용 Al filter 구매",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-08",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)[재공고](52714)근태관리시스템 솔루션",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-12",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)[재공고](52754) MK용 CCPS 시스템 1SET 예비품 구매",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-07",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)[재공고](52580) RSXS Pneumatic UHV Gatevalve 구매",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-07",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[52819]저응력 크리프 테스터",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-06",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "대학)[52816]고응력 크리프 테스터",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-06",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "대학)[재공고][52663]개교40주년 동문 홈커밍데이 및 자녀캠프",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-12",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[재공고][52610]Apple 제조업 R&D 지원센터 홍보 대행 용역",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-12",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[재공고][52597]Apple제조업R&D지원센터 SME Day/Week 운영 용역",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-12",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "대학)[52814]GPU",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-07",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)(52801)4채널 고속 디지타이저 모듈 교체품 구매",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-08",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[52790]포토레지스트 노광기",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-06",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[52785]표면 단차 측정기",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-07",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[재공고][52701]서버용 메모리 및 하드디스크 구매",
+   "date": "2026-09-29",
+   "dates": "마감 2026-10-05",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "가속기)(52671) 이동형 진동센서 교정기 구매",
-   "date": "2026-09-28",
+   "date": "2026-09-29",
    "dates": "마감 2026-10-14",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -501,7 +613,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[재공고][52676]바이오 데이터 연산 클러스터 노드 파트",
-   "date": "2026-09-28",
+   "date": "2026-09-29",
    "dates": "마감 2026-09-29",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -509,7 +621,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "가속기)[재공고](52649) MicroTCA 플랫폼용 AMC CPU 카드 구매",
-   "date": "2026-09-28",
+   "date": "2026-09-29",
    "dates": "마감 2026-10-02",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -517,7 +629,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[52761]2026년 연구실 정기점검",
-   "date": "2026-09-28",
+   "date": "2026-09-29",
    "dates": "마감 2026-10-01",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -525,7 +637,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[재공고][52705]X-ray Diffraction Optics System",
-   "date": "2026-09-28",
+   "date": "2026-09-29",
    "dates": "마감 2026-10-01",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -533,121 +645,25 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[52800]AI 연산용 고성능 GPU 가속 모듈 (48GB급 GDDR6 메모리)",
-   "date": "2026-09-28",
+   "date": "2026-09-29",
    "dates": "마감 2026-10-01",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
   {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)(52795) 이용자숙소 비대면 체크인 스마트 도어락 구매",
+   "org": "동아대학교",
+   "site": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170",
+   "title": "VLA 기반 돌봄 행위 에이전트 휴머노이드 로봇 연구플랫폼 구매",
    "date": "2026-09-28",
-   "dates": "마감 2026-10-07",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+   "dates": "공고번호 BD20260928-0001",
+   "link": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170"
   },
   {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "대학)[재공고][52646]개교 40주년 기념식 행사 용역",
-   "date": "2026-09-28",
-   "dates": "마감 2026-10-06",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "산학)[재공고][52688]NextServer",
-   "date": "2026-09-28",
-   "dates": "마감 2026-09-30",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)[재공고](52513) SRF Postmortem용 서버PC구매",
-   "date": "2026-09-28",
-   "dates": "마감 2026-10-02",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "대학)[재공고][52657][52658]무인보트 구매",
-   "date": "2026-09-28",
-   "dates": "마감 2026-09-30",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)[재공고][KLS](52576) 4포트 서큘레이터 및 더미로드",
-   "date": "2026-09-28",
-   "dates": "마감 2026-10-01",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "산학)[52699]BOIC 클린부스 항온항습기 설치공사",
-   "date": "2026-09-28",
-   "dates": "마감 2026-09-30",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)(52760) PLS-II 노후 공기압축기 및 부대설비 교체",
-   "date": "2026-09-28",
-   "dates": "마감 2026-10-21",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "대학)[재공고][52621]멀티빔 소나 센서 구매요청",
-   "date": "2026-09-28",
-   "dates": "마감 2026-09-30",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)(52411)맞춤형 전기화학 홀더 제작",
-   "date": "2026-09-28",
-   "dates": "마감 2026-10-07",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "산학)[11-12052]재제조(리퍼비시드)된 카멜레온 디스커버리 헤드",
-   "date": "2026-09-28",
-   "dates": "마감 2026-09-29",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "산학)[52806]Signal and Spectrum Analyzer 구입 건",
-   "date": "2026-09-28",
-   "dates": "마감 2026-09-30",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "산학)[재공고][52514]12` Dummy wafer 외 10종",
-   "date": "2026-09-28",
-   "dates": "마감 2026-09-30",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)(52736)XFEL RMS 예비품 구매",
-   "date": "2026-09-28",
-   "dates": "마감 2026-09-30",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+   "org": "동아대학교",
+   "site": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170",
+   "title": "동아대학교 2026학년도 해외봉사활동 용역",
+   "date": "2026-09-22",
+   "dates": "공고번호 BD20260922-0003",
+   "link": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170"
   },
   {
    "org": "동아대학교",
@@ -695,14 +711,6 @@
    "title": "2026 DA-ANCHOR FAIR 행사 운영 용역",
    "date": "2026-09-14",
    "dates": "공고번호 BD20260914-0003",
-   "link": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170"
-  },
-  {
-   "org": "동아대학교",
-   "site": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170",
-   "title": "(새공고)승학캠퍼스 생명자원과학대학 및 건강과학대학 바이오헬스 동물실험실 조성공사(기계 및 건축)",
-   "date": "2026-09-14",
-   "dates": "공고번호 BD20260914-0002",
    "link": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170"
   }
  ],
@@ -757,9 +765,9 @@
    "code": 200,
    "rows": 10,
    "sample": [
+    "2026-09-28 [대학혁신지원사업]을지대학교(성남 캠퍼스) 박애관, 을지관 및 뉴밀레니엄센터 옥상 방...",
     "2026-09-11 을지대학교 성남캠퍼스 구내식당 및 편의시설(카페 및 매점) 운영업체 선정(재공고)",
-    "2026-09-10 을지재단 기관별 배터리 교체를 위한 단가계약(재공고)",
-    "2026-09-03 을지재단 기관별 배터리 교체를 위한 단가계약"
+    "2026-09-10 을지재단 기관별 배터리 교체를 위한 단가계약(재공고)"
    ]
   },
   {
@@ -779,20 +787,20 @@
    "code": 200,
    "rows": 20,
    "sample": [
-    "2026-09-28 가속기)(52671) 이동형 진동센서 교정기 구매",
-    "2026-09-28 산학)[재공고][52676]바이오 데이터 연산 클러스터 노드 파트",
-    "2026-09-28 가속기)[재공고](52649) MicroTCA 플랫폼용 AMC CPU 카드 구매"
+    "2026-09-29 가속기)[재공고](12046) SSS빔라인 CCD용 Al filter 구매",
+    "2026-09-29 가속기)[재공고](52714)근태관리시스템 솔루션",
+    "2026-09-29 가속기)[재공고](52754) MK용 CCPS 시스템 1SET 예비품 구매"
    ]
   },
   {
    "org": "동아대학교",
    "url": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170",
    "code": 200,
-   "rows": 7,
+   "rows": 8,
    "sample": [
-    "2026-09-22 개교 80주년 기념 행사 특설무대 설치(운영) 및 가수 섭외 용역",
-    "2026-09-22 (재공고)B-헤리티지 웹 아카이빙 플랫폼 구축 용역",
-    "2026-09-21 G-램프(LAMP)사업단 고성능 계산용 GPU 구매"
+    "2026-09-28 VLA 기반 돌봄 행위 에이전트 휴머노이드 로봇 연구플랫폼 구매",
+    "2026-09-22 동아대학교 2026학년도 해외봉사활동 용역",
+    "2026-09-22 개교 80주년 기념 행사 특설무대 설치(운영) 및 가수 섭외 용역"
    ]
   },
   {
