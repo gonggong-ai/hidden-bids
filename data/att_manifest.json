@@ -2161,116 +2161,25 @@
    "at": "2026-09-29"
   }
  ],
- "generatedAt": "2026-09-28T23:12:37.726Z",
+ "generatedAt": "2026-09-30T01:51:05.739Z",
  "report": [
   {
    "org": "한국여자농구연맹",
+   "id": "53426",
+   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1300",
+   "files": 1,
+   "links": 1
+  },
+  {
+   "org": "한국여자농구연맹",
    "id": "53358",
-   "title": "2026-2027시즌 하나은행 여자농구단 홍보마케팅 대행사 입찰공고 작성일 2026-06-11 조회수 2067",
+   "title": "2026-2027시즌 하나은행 여자농구단 홍보마케팅 대행사 입찰공고 작성일 2026-06-11 조회수 2069",
    "files": 1,
    "links": 1
   },
   {
    "job": "shinhanlife",
    "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
-  },
-  {
-   "org": "원광대학교",
-   "id": "f57d73faa9cb4bb2af3e1341f84cd111",
-   "title": "WON+PBL 교과 및 비교과 역량진단 도구 개발",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "4c4ecae27d6043bb902e96445f291539",
-   "title": "전북형 성장사다리 AX 얼라이언스 발대식 프로그램 운영 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "72d96db89c6443cc8238c70c16513c7d",
-   "title": "제 2회 전북특별자치도 지·산·학·병·연 협력 생명산업 국제 심포지엄 운영 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "04c13e58d49c4ee2bee9057169489de7",
-   "title": "컬러디지털복합기 3대 구매",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "6856f6332ffb479b99808dabfb0c5893",
-   "title": "파티션 5종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "44b1fffbfb324ec5b95f06d5b872c804",
-   "title": "3D프린터 유해가스정화장치 1대 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "48af1019c30c48db93c18697bb6f88a5",
-   "title": "샴푸대 5대 외 2종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "1d58383bb3e74b2eb55d05c650695ea5",
-   "title": "WON+PBL 교과 및 비교과 역량진단 도구 개발",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "e48be15b58134b7087aa0d6706e00158",
-   "title": "WON+PBL 교과 및 비교과 역량진단 도구 개발",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "5e286618709c42179dce0b701de89b6d",
-   "title": "WON+PBL 교과 및 비교과 역량진단 도구 개발",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "dc42c8dcbc884184a4a227f8a8c60502",
-   "title": "글로컬]학생회관 대강당 무대조명 구매설치",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "원광대학교",
-   "id": "f05dd53885b64f86b53a2e211b80a914",
-   "title": "학생회관 대강당 LED전광판 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "6436878ce8a8482198dd88b12f4806a2",
-   "title": "고압멸균기 1대 외 16종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "4a2621054ea44280aa81443ab8184ecd",
-   "title": "원광대학교 시민개방형 체육시설 야구장 보수공사",
-   "files": 4,
-   "links": 4
   }
  ]
 }
