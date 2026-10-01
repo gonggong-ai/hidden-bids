@@ -2159,27 +2159,220 @@
     }
    ],
    "at": "2026-09-29"
+  },
+  {
+   "org": "우리카드",
+   "id": "20260930105504097",
+   "title": "[제안공고] 네트워크 APT 시스템 고도화(종합평가)",
+   "date": "2026-09-30",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20260930105504097",
+   "files": [
+    {
+     "name": "3_1. 입찰(제안)참가신청서_네트워크 APT 시스템 고도화.docx",
+     "path": "data/att/wooricard/20260930105504097/3_1. 입찰(제안)참가신청서_네트워크 APT 시스템 고도화.docx",
+     "bytes": 67770
+    },
+    {
+     "name": "3_2. 가격제안서 및 제안참가 서약서_네트워크 APT 시스템 고도화.docx",
+     "path": "data/att/wooricard/20260930105504097/3_2. 가격제안서 및 제안참가 서약서_네트워크 APT 시스템 고도화.docx",
+     "bytes": 20194
+    },
+    {
+     "name": "3_3. 제안발표 참여업체 정보_네트워크 APT 시스템 고도화.docx",
+     "path": "data/att/wooricard/20260930105504097/3_3. 제안발표 참여업체 정보_네트워크 APT 시스템 고도화.docx",
+     "bytes": 18337
+    },
+    {
+     "name": "3_4. 제안요청서(RFP)수령 서약서_네트워크 APT 시스템 고도화.docx",
+     "path": "data/att/wooricard/20260930105504097/3_4. 제안요청서(RFP)수령 서약서_네트워크 APT 시스템 고도화.docx",
+     "bytes": 19606
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20260930105504097/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-10-01"
+  },
+  {
+   "org": "원광대학교",
+   "id": "9a825a4572284159bc02c5a6c231c419",
+   "title": "원심분리기 1대 외 8종 구입",
+   "date": "2026-09-30",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-원심분리기.hwp",
+     "path": "data/att/wku/9a825a4572284159bc02c5a6c231c419/공고문-원심분리기.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-원심분리기.pdf",
+     "path": "data/att/wku/9a825a4572284159bc02c5a6c231c419/규격서-원심분리기.pdf",
+     "bytes": 271367
+    }
+   ],
+   "at": "2026-10-01"
+  },
+  {
+   "org": "원광대학교",
+   "id": "22aa519925404fc3836eebfc9c78c8de",
+   "title": "(재공고) 클린벤치 2대 구매",
+   "date": "2026-09-30",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "재공고문-클린벤치 2대.hwp",
+     "path": "data/att/wku/22aa519925404fc3836eebfc9c78c8de/재공고문-클린벤치 2대.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "구매규격서-클린벤치 2대.pdf",
+     "path": "data/att/wku/22aa519925404fc3836eebfc9c78c8de/구매규격서-클린벤치 2대.pdf",
+     "bytes": 120301
+    }
+   ],
+   "at": "2026-10-01"
+  },
+  {
+   "org": "원광대학교",
+   "id": "ab2122e98b034f9c8e5099d6175ce858",
+   "title": "플라즈마토치 1대 구입",
+   "date": "2026-09-30",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-플라즈마토치.hwp",
+     "path": "data/att/wku/ab2122e98b034f9c8e5099d6175ce858/공고문-플라즈마토치.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-플라즈마토치 1대 구입.pdf",
+     "path": "data/att/wku/ab2122e98b034f9c8e5099d6175ce858/규격서-플라즈마토치 1대 구입.pdf",
+     "bytes": 100179
+    }
+   ],
+   "at": "2026-10-01"
+  },
+  {
+   "org": "원광대학교",
+   "id": "3faff3c7f1004db78018f69a2d48389a",
+   "title": "마인드케어 2대 외 1종 구입",
+   "date": "2026-09-30",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-마인드케어.hwp",
+     "path": "data/att/wku/3faff3c7f1004db78018f69a2d48389a/공고문-마인드케어.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-마인드케어.pdf",
+     "path": "data/att/wku/3faff3c7f1004db78018f69a2d48389a/규격서-마인드케어.pdf",
+     "bytes": 133995
+    }
+   ],
+   "at": "2026-10-01"
+  },
+  {
+   "org": "원광대학교",
+   "id": "4e2ef0885a2f426bbfdb4d6d97644cb1",
+   "title": "분체밀도측정기 1대 외 8종 구입",
+   "date": "2026-09-30",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-분체밀도측정기.hwp",
+     "path": "data/att/wku/4e2ef0885a2f426bbfdb4d6d97644cb1/공고문-분체밀도측정기.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-분체밀도측정기 1대.pdf",
+     "path": "data/att/wku/4e2ef0885a2f426bbfdb4d6d97644cb1/규격서-분체밀도측정기 1대.pdf",
+     "bytes": 288401
+    }
+   ],
+   "at": "2026-10-01"
+  },
+  {
+   "org": "원광대학교",
+   "id": "084182a497f9460483a1b0676761f992",
+   "title": "(재공고) 메이크업의자 10점 외 3종 구입",
+   "date": "2026-09-30",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "재공고문-메이크업의자.hwp",
+     "path": "data/att/wku/084182a497f9460483a1b0676761f992/재공고문-메이크업의자.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-메이크업의자.pdf",
+     "path": "data/att/wku/084182a497f9460483a1b0676761f992/규격서-메이크업의자.pdf",
+     "bytes": 143044
+    }
+   ],
+   "at": "2026-10-01"
   }
  ],
- "generatedAt": "2026-09-30T01:51:05.739Z",
+ "generatedAt": "2026-10-01T01:50:19.197Z",
  "report": [
+  {
+   "org": "우리카드",
+   "id": "20260930105504097",
+   "title": "[제안공고] 네트워크 APT 시스템 고도화(종합평가)",
+   "files": 5,
+   "links": 5
+  },
   {
    "org": "한국여자농구연맹",
    "id": "53426",
-   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1300",
+   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1302",
    "files": 1,
    "links": 1
   },
   {
-   "org": "한국여자농구연맹",
-   "id": "53358",
-   "title": "2026-2027시즌 하나은행 여자농구단 홍보마케팅 대행사 입찰공고 작성일 2026-06-11 조회수 2069",
-   "files": 1,
-   "links": 1
+   "org": "원광대학교",
+   "id": "9a825a4572284159bc02c5a6c231c419",
+   "title": "원심분리기 1대 외 8종 구입",
+   "files": 2,
+   "links": 2
   },
   {
-   "job": "shinhanlife",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
+   "org": "원광대학교",
+   "id": "22aa519925404fc3836eebfc9c78c8de",
+   "title": "(재공고) 클린벤치 2대 구매",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "ab2122e98b034f9c8e5099d6175ce858",
+   "title": "플라즈마토치 1대 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "3faff3c7f1004db78018f69a2d48389a",
+   "title": "마인드케어 2대 외 1종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "4e2ef0885a2f426bbfdb4d6d97644cb1",
+   "title": "분체밀도측정기 1대 외 8종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "084182a497f9460483a1b0676761f992",
+   "title": "(재공고) 메이크업의자 10점 외 3종 구입",
+   "files": 2,
+   "links": 2
   }
  ]
 }
