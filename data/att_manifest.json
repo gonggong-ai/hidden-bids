@@ -2316,63 +2316,18 @@
    "at": "2026-10-01"
   }
  ],
- "generatedAt": "2026-10-01T01:50:19.197Z",
+ "generatedAt": "2026-10-02T01:59:47.271Z",
  "report": [
-  {
-   "org": "우리카드",
-   "id": "20260930105504097",
-   "title": "[제안공고] 네트워크 APT 시스템 고도화(종합평가)",
-   "files": 5,
-   "links": 5
-  },
   {
    "org": "한국여자농구연맹",
    "id": "53426",
-   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1302",
+   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1307",
    "files": 1,
    "links": 1
   },
   {
-   "org": "원광대학교",
-   "id": "9a825a4572284159bc02c5a6c231c419",
-   "title": "원심분리기 1대 외 8종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "22aa519925404fc3836eebfc9c78c8de",
-   "title": "(재공고) 클린벤치 2대 구매",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "ab2122e98b034f9c8e5099d6175ce858",
-   "title": "플라즈마토치 1대 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "3faff3c7f1004db78018f69a2d48389a",
-   "title": "마인드케어 2대 외 1종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "4e2ef0885a2f426bbfdb4d6d97644cb1",
-   "title": "분체밀도측정기 1대 외 8종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "084182a497f9460483a1b0676761f992",
-   "title": "(재공고) 메이크업의자 10점 외 3종 구입",
-   "files": 2,
-   "links": 2
+   "job": "shinhanlife",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
   }
  ]
 }
