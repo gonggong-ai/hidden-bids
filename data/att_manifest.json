@@ -2314,20 +2314,87 @@
     }
    ],
    "at": "2026-10-01"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261002150104446",
+   "title": "[입찰공고] '26년 우리카드 디지털 채널 접근성 인증 심사 기관 선정",
+   "date": "2026-10-02",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261002150104446",
+   "files": [
+    {
+     "name": "입찰(제안)참가신청서_우리카드 디지털채널 접근성 인증 심사_(2026년).hwp",
+     "path": "data/att/wooricard/20261002150104446/입찰(제안)참가신청서_우리카드 디지털채널 접근성 인증 심사_(2026년).hwp",
+     "bytes": 103424
+    }
+   ],
+   "at": "2026-10-03"
+  },
+  {
+   "org": "원광대학교",
+   "id": "f9e9526716fb43f6820d0af6646f0865",
+   "title": "[글로컬-지역상생] 2026 다이로움 외국인 유학생 멘토링 프로그램 ‘글로벌 서포터즈’ 운영 용역",
+   "date": "2026-10-02",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문.hwpx",
+     "path": "data/att/wku/f9e9526716fb43f6820d0af6646f0865/공고문.hwpx",
+     "bytes": 71414
+    },
+    {
+     "name": "1. 과업지시서.hwp",
+     "path": "data/att/wku/f9e9526716fb43f6820d0af6646f0865/1. 과업지시서.hwp",
+     "bytes": 19968
+    }
+   ],
+   "at": "2026-10-03"
+  },
+  {
+   "org": "원광대학교",
+   "id": "e6187d27971b4e8ba19dad66635bc0c8",
+   "title": "2026. 단기 해외교육봉사 항공권 발권 및 부대업무 용역",
+   "date": "2026-10-02",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문(2026년 단기 해외교육봉사 항공권 발권 및 부대업무 대행 용역)_국고.pdf",
+     "path": "data/att/wku/e6187d27971b4e8ba19dad66635bc0c8/공고문(2026년 단기 해외교육봉사 항공권 발권 및 부대업무 대행 용역)_국고.pdf",
+     "bytes": 79415
+    }
+   ],
+   "at": "2026-10-03"
   }
  ],
- "generatedAt": "2026-10-02T01:59:47.271Z",
+ "generatedAt": "2026-10-03T01:43:47.312Z",
  "report": [
   {
-   "org": "한국여자농구연맹",
-   "id": "53426",
-   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1307",
+   "org": "우리카드",
+   "id": "20261002150104446",
+   "title": "[입찰공고] '26년 우리카드 디지털 채널 접근성 인증 심사 기관 선정",
    "files": 1,
    "links": 1
   },
   {
-   "job": "shinhanlife",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
+   "org": "한국여자농구연맹",
+   "id": "53426",
+   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1309",
+   "files": 1,
+   "links": 1
+  },
+  {
+   "org": "원광대학교",
+   "id": "f9e9526716fb43f6820d0af6646f0865",
+   "title": "[글로컬-지역상생] 2026 다이로움 외국인 유학생 멘토링 프로그램 ‘글로벌 서포터즈’ 운영 용역",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "e6187d27971b4e8ba19dad66635bc0c8",
+   "title": "2026. 단기 해외교육봉사 항공권 발권 및 부대업무 용역",
+   "files": 1,
+   "links": 1
   }
  ]
 }
