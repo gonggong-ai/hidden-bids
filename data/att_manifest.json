@@ -2366,35 +2366,22 @@
    "at": "2026-10-03"
   }
  ],
- "generatedAt": "2026-10-03T01:43:47.312Z",
+ "generatedAt": "2026-10-04T02:24:28.646Z",
  "report": [
   {
-   "org": "우리카드",
-   "id": "20261002150104446",
-   "title": "[입찰공고] '26년 우리카드 디지털 채널 접근성 인증 심사 기관 선정",
-   "files": 1,
-   "links": 1
+   "job": "hanafn",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
   },
   {
    "org": "한국여자농구연맹",
    "id": "53426",
-   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1309",
+   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1310",
    "files": 1,
    "links": 1
   },
   {
-   "org": "원광대학교",
-   "id": "f9e9526716fb43f6820d0af6646f0865",
-   "title": "[글로컬-지역상생] 2026 다이로움 외국인 유학생 멘토링 프로그램 ‘글로벌 서포터즈’ 운영 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "e6187d27971b4e8ba19dad66635bc0c8",
-   "title": "2026. 단기 해외교육봉사 항공권 발권 및 부대업무 용역",
-   "files": 1,
-   "links": 1
+   "job": "shinhanlife",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
   }
  ]
 }
