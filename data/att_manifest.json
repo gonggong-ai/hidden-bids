@@ -2364,24 +2364,57 @@
     }
    ],
    "at": "2026-10-03"
+  },
+  {
+   "org": "원광대학교",
+   "id": "b294d3f9ab8549c2bac9169e30f8a928",
+   "title": "대학본부 3층 총무처장실, 기획처장실 천장형냉난방기(EHP) 설치 공사",
+   "date": "2026-09-22",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "1.공개견적 관련 양식.hwp",
+     "path": "data/att/wku/b294d3f9ab8549c2bac9169e30f8a928/1.공개견적 관련 양식.hwp",
+     "bytes": 88064
+    },
+    {
+     "name": "2.특기시방서.hwp",
+     "path": "data/att/wku/b294d3f9ab8549c2bac9169e30f8a928/2.특기시방서.hwp",
+     "bytes": 57344
+    },
+    {
+     "name": "3. 도면.pdf",
+     "path": "data/att/wku/b294d3f9ab8549c2bac9169e30f8a928/3. 도면.pdf",
+     "bytes": 134804
+    },
+    {
+     "name": "4.현장설명 참가신청서.hwp",
+     "path": "data/att/wku/b294d3f9ab8549c2bac9169e30f8a928/4.현장설명 참가신청서.hwp",
+     "bytes": 72192
+    }
+   ],
+   "at": "2026-10-06"
   }
  ],
- "generatedAt": "2026-10-05T01:35:36.174Z",
+ "generatedAt": "2026-10-06T02:42:27.678Z",
  "report": [
-  {
-   "job": "hanafn",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
-  },
   {
    "org": "한국여자농구연맹",
    "id": "53426",
-   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1311",
+   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1312",
    "files": 1,
    "links": 1
   },
   {
    "job": "shinhanlife",
    "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+   "org": "원광대학교",
+   "id": "b294d3f9ab8549c2bac9169e30f8a928",
+   "title": "대학본부 3층 총무처장실, 기획처장실 천장형냉난방기(EHP) 설치 공사",
+   "files": 4,
+   "links": 4
   }
  ]
 }
