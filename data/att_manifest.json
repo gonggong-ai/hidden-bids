@@ -2394,14 +2394,74 @@
     }
    ],
    "at": "2026-10-06"
+  },
+  {
+   "org": "원광대학교",
+   "id": "d6b5bc7efc194dd4b7b2c97a48f521da",
+   "title": "모빌리티계열 프로브 인터페이스어댑터 3개 외 3종 구입",
+   "date": "2026-10-06",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-프로브 인터페이스어댑터.hwp",
+     "path": "data/att/wku/d6b5bc7efc194dd4b7b2c97a48f521da/공고문-프로브 인터페이스어댑터.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서-프로브 인터페이스어댑터.pdf",
+     "path": "data/att/wku/d6b5bc7efc194dd4b7b2c97a48f521da/규격서-프로브 인터페이스어댑터.pdf",
+     "bytes": 172424
+    }
+   ],
+   "at": "2026-10-07"
+  },
+  {
+   "org": "원광대학교",
+   "id": "4d2af8e1679844c19bff605092eb82d6",
+   "title": "공간 신호 증폭 시약 1SET 구매",
+   "date": "2026-10-06",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-공간증폭시약.hwp",
+     "path": "data/att/wku/4d2af8e1679844c19bff605092eb82d6/공고문-공간증폭시약.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서-공간증폭시약.pdf",
+     "path": "data/att/wku/4d2af8e1679844c19bff605092eb82d6/규격서-공간증폭시약.pdf",
+     "bytes": 150753
+    }
+   ],
+   "at": "2026-10-07"
+  },
+  {
+   "org": "원광대학교",
+   "id": "d17a5aa655fb4f258f60fa524b16f132",
+   "title": "워크메이트 1대 외 2종 구매",
+   "date": "2026-10-06",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-워크메이트.hwp",
+     "path": "data/att/wku/d17a5aa655fb4f258f60fa524b16f132/공고문-워크메이트.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-워크메이트.pdf",
+     "path": "data/att/wku/d17a5aa655fb4f258f60fa524b16f132/규격서-워크메이트.pdf",
+     "bytes": 99163
+    }
+   ],
+   "at": "2026-10-07"
   }
  ],
- "generatedAt": "2026-10-06T02:42:27.678Z",
+ "generatedAt": "2026-10-07T02:04:01.141Z",
  "report": [
   {
    "org": "한국여자농구연맹",
    "id": "53426",
-   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1312",
+   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1315",
    "files": 1,
    "links": 1
   },
@@ -2411,10 +2471,24 @@
   },
   {
    "org": "원광대학교",
-   "id": "b294d3f9ab8549c2bac9169e30f8a928",
-   "title": "대학본부 3층 총무처장실, 기획처장실 천장형냉난방기(EHP) 설치 공사",
-   "files": 4,
-   "links": 4
+   "id": "d6b5bc7efc194dd4b7b2c97a48f521da",
+   "title": "모빌리티계열 프로브 인터페이스어댑터 3개 외 3종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "4d2af8e1679844c19bff605092eb82d6",
+   "title": "공간 신호 증폭 시약 1SET 구매",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "d17a5aa655fb4f258f60fa524b16f132",
+   "title": "워크메이트 1대 외 2종 구매",
+   "files": 2,
+   "links": 2
   }
  ]
 }
