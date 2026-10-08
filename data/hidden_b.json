@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-07T02:01:27.016Z",
+ "generatedAt": "2026-10-08T02:25:51.143Z",
  "rows": [
   {
    "org": "기아대책",
@@ -80,6 +80,14 @@
    "date": "2026-03-03",
    "dates": "",
    "link": "https://www.kfhi.or.kr/about/news/notice/79160?page=1&rows=10&total=2096&lang=&keyword=&keywordType=&category=notice&type=&display=&from=&to=&sort=id,DESC"
+  },
+  {
+   "org": "사회복지공동모금회",
+   "site": "https://chest.or.kr/bbs/1000/initPostList.do",
+   "title": "2026년도 인턴 모집",
+   "date": "2026-10-07",
+   "dates": "",
+   "link": "https://chest.or.kr/bbs/1000/initPostList.do"
   },
   {
    "org": "사회복지공동모금회",
@@ -166,14 +174,6 @@
    "site": "https://chest.or.kr/bbs/1000/initPostList.do",
    "title": "[모집] 2026 사회복지공동모금회(중앙회) ‘배분사업 평가지원단 모집결과’ 안내",
    "date": "2026-06-30",
-   "dates": "",
-   "link": "https://chest.or.kr/bbs/1000/initPostList.do"
-  },
-  {
-   "org": "사회복지공동모금회",
-   "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "계약직 직원 채용(사회공헌)",
-   "date": "2026-06-29",
    "dates": "",
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
   },
@@ -492,8 +492,96 @@
   {
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[재공고][52852]전자동 플레이트 봉합기",
+   "date": "2026-10-08",
+   "dates": "마감 2026-10-15",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[52762]이중대역, 이중 방향 방사 위상 배열 안테나",
+   "date": "2026-10-08",
+   "dates": "마감 2026-10-16",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[11-12083]건조희석냉각기",
+   "date": "2026-10-08",
+   "dates": "마감 2026-10-15",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)(52916)초전도공동기 헬륨 챔버 과압 방지용 럽쳐 디스크 예비품 구매",
+   "date": "2026-10-08",
+   "dates": "마감 2026-10-21",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)(52907)2026년 연구소 홍보용 기념품 제작",
+   "date": "2026-10-08",
+   "dates": "마감 2026-10-19",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[52928]축자속 영구자석 모터 어셈블리(고정자 2종 교체형)",
+   "date": "2026-10-08",
+   "dates": "마감 2026-10-15",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)(52892) HX2 스크린카메라용 광송수신모듈",
+   "date": "2026-10-08",
+   "dates": "마감 2026-10-20",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)(52843) XFEL 진공게이지 컨트롤러 예비품 구매",
+   "date": "2026-10-08",
+   "dates": "마감 2026-10-19",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "대학)[재공고][52814]GPU",
+   "date": "2026-10-08",
+   "dates": "마감 2026-10-13",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)[재공고](52801)4채널 고속 디지타이저 모듈 교체품 구매",
+   "date": "2026-10-08",
+   "dates": "마감 2026-10-15",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[재공고][52785]표면 단차 측정기",
+   "date": "2026-10-08",
+   "dates": "마감 2026-10-13",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[52891][SCOUT] 2026년 창업교육 혁신 선도대학 공유 온라인 강좌 개발",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "dates": "마감 2026-10-26",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -501,7 +589,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[재공고][52819]저응력 크리프 테스터",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "dates": "마감 2026-10-13",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -509,7 +597,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "대학)[재공고][52816]고응력 크리프 테스터",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "dates": "마감 2026-10-13",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -517,7 +605,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[재공고][52790]포토레지스트 노광기",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "dates": "마감 2026-10-13",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -525,7 +613,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "가속기)(12069) XFEL 입사 레이저 빔 stabilizer 구매",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "dates": "마감 2026-10-20",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -533,7 +621,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "가속기)(52901) 6C 빔라인 현미경용 카메라 및 렌즈 구매",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "dates": "마감 2026-10-19",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -541,7 +629,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[52850]AI Training and Inference GPU Server",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "dates": "마감 2026-10-14",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -549,7 +637,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[52838]AI Compute GPU Accelerator Module set",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "dates": "마감 2026-10-14",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -557,96 +645,8 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[52899]GPU 구매",
-   "date": "2026-10-07",
+   "date": "2026-10-08",
    "dates": "마감 2026-10-14",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "산학)[52906]ALD용 고농도 오존발생장치",
-   "date": "2026-10-07",
-   "dates": "마감 2026-10-14",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "산학)[52884]마스크리스 얼라이너",
-   "date": "2026-10-07",
-   "dates": "마감 2026-10-14",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "산학)[52896]2026 중소기업 장기 정보화 전략 수립 컨설팅 운영 용역",
-   "date": "2026-10-07",
-   "dates": "마감 2026-10-23",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "산학)[52815][52824]Deep learning GPU",
-   "date": "2026-10-07",
-   "dates": "마감 2026-10-14",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)[재공고](52411)맞춤형 전기화학 홀더 제작",
-   "date": "2026-10-07",
-   "dates": "마감 2026-10-14",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "산학)[52598]EEM 근적외선 형광분광광도계",
-   "date": "2026-10-07",
-   "dates": "마감 2026-10-14",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "대학)[52720]교수아파트 노후 승강기 보수 사업",
-   "date": "2026-10-07",
-   "dates": "마감 2026-10-27",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)(52881)PAL DCM Crystal Gap 조정용 진공 리니어 스테이지 예비품",
-   "date": "2026-10-07",
-   "dates": "마감 2026-10-19",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)(52894) 6C 빔라인 머신러닝 AI 워크스테이션",
-   "date": "2026-10-07",
-   "dates": "마감 2026-10-19",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "대학)[52861]학습관리 시스템(PLMS) UX/UI 개편 및 기능 최적화 사업",
-   "date": "2026-10-07",
-   "dates": "마감 2026-10-23",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)(52793) 4B 빔라인 진단장치 및 미러 제어용 모터 제어기 모듈 구매",
-   "date": "2026-10-07",
-   "dates": "마감 2026-10-16",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
   {
@@ -764,9 +764,9 @@
    "code": 200,
    "rows": 12,
    "sample": [
+    "2026-10-07 2026년도 인턴 모집",
     "2026-10-01 계약직 직원 채용(임원수행)",
-    "2026-10-01 사무총장 공모결과 발표",
-    "2026-09-22 2026년 사랑의열매 복권기금 토크콘서트 ‘괜찮아, 넘어져도 돼’ 참가 신청 안내 (무료, 10/24 14:00)"
+    "2026-10-01 사무총장 공모결과 발표"
    ]
   },
   {
@@ -819,9 +819,9 @@
    "code": 200,
    "rows": 20,
    "sample": [
-    "2026-10-07 산학)[52891][SCOUT] 2026년 창업교육 혁신 선도대학 공유 온라인 강좌 개발",
-    "2026-10-07 산학)[재공고][52819]저응력 크리프 테스터",
-    "2026-10-07 대학)[재공고][52816]고응력 크리프 테스터"
+    "2026-10-08 산학)[재공고][52852]전자동 플레이트 봉합기",
+    "2026-10-08 산학)[52762]이중대역, 이중 방향 방사 위상 배열 안테나",
+    "2026-10-08 산학)[11-12083]건조희석냉각기"
    ]
   },
   {
