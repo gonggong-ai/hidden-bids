@@ -2569,62 +2569,148 @@
     }
    ],
    "at": "2026-10-08"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261008141310605",
+   "title": "[입찰공고] 웹방화벽(WAF) 시스템 고도화[웹방화벽, FOD]",
+   "date": "2026-10-08",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261008141310605",
+   "files": [
+    {
+     "name": "1_1. 제품도입 사양_웹방화벽(WAF) 시스템 고도화[웹방화벽, FOD].xlsx",
+     "path": "data/att/wooricard/20261008141310605/1_1. 제품도입 사양_웹방화벽(WAF) 시스템 고도화[웹방화벽, FOD].xlsx",
+     "bytes": 5247422
+    },
+    {
+     "name": "2_1. 입찰(제안)참가신청서_웹방화벽(WAF) 시스템 고도화[웹방화벽, FOD].docx",
+     "path": "data/att/wooricard/20261008141310605/2_1. 입찰(제안)참가신청서_웹방화벽(WAF) 시스템 고도화[웹방화벽, FOD].docx",
+     "bytes": 67580
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20261008141310605/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-10-09"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261008140507043",
+   "title": "[입찰공고] AI인프라 수급 리스크 대응 하드웨어 도입[x86서버]",
+   "date": "2026-10-08",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261008140507043",
+   "files": [
+    {
+     "name": "1_1. 제품도입 사양_AI인프라 수급 리스크 대응 하드웨어 도입[x86서버].xlsx",
+     "path": "data/att/wooricard/20261008140507043/1_1. 제품도입 사양_AI인프라 수급 리스크 대응 하드웨어 도입[x86서버].xlsx",
+     "bytes": 23450
+    },
+    {
+     "name": "2_1. 입찰(제안)참가신청서_AI인프라 수급 리스크 대응 하드웨어 도입[x86서버].docx",
+     "path": "data/att/wooricard/20261008140507043/2_1. 입찰(제안)참가신청서_AI인프라 수급 리스크 대응 하드웨어 도입[x86서버].docx",
+     "bytes": 69927
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20261008140507043/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-10-09"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261008140907183",
+   "title": "[입찰공고] AI인프라 수급 리스크 대응 하드웨어 도입[스위치]",
+   "date": "2026-10-08",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261008140907183",
+   "files": [
+    {
+     "name": "1_1. 제품도입 사양_AI인프라 수급 리스크 대응 하드웨어 도입[x86서버].xlsx",
+     "path": "data/att/wooricard/20261008140907183/1_1. 제품도입 사양_AI인프라 수급 리스크 대응 하드웨어 도입[x86서버].xlsx",
+     "bytes": 23450
+    },
+    {
+     "name": "2_1. 입찰(제안)참가신청서_AI인프라 수급 리스크 대응 하드웨어 도입[x86서버].docx",
+     "path": "data/att/wooricard/20261008140907183/2_1. 입찰(제안)참가신청서_AI인프라 수급 리스크 대응 하드웨어 도입[x86서버].docx",
+     "bytes": 69927
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20261008140907183/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-10-09"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261008140740021",
+   "title": "[입찰공고] AI인프라 수급 리스크 대응 하드웨어 도입[스토리지]",
+   "date": "2026-10-08",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261008140740021",
+   "files": [
+    {
+     "name": "1_1. 제품도입 사양_AI인프라 수급 리스크 대응 하드웨어 도입[x86서버].xlsx",
+     "path": "data/att/wooricard/20261008140740021/1_1. 제품도입 사양_AI인프라 수급 리스크 대응 하드웨어 도입[x86서버].xlsx",
+     "bytes": 23450
+    },
+    {
+     "name": "2_1. 입찰(제안)참가신청서_AI인프라 수급 리스크 대응 하드웨어 도입[x86서버].docx",
+     "path": "data/att/wooricard/20261008140740021/2_1. 입찰(제안)참가신청서_AI인프라 수급 리스크 대응 하드웨어 도입[x86서버].docx",
+     "bytes": 69927
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20261008140740021/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-10-09"
   }
  ],
- "generatedAt": "2026-10-08T02:29:20.763Z",
+ "generatedAt": "2026-10-09T02:47:17.690Z",
  "report": [
+  {
+   "org": "우리카드",
+   "id": "20261008141310605",
+   "title": "[입찰공고] 웹방화벽(WAF) 시스템 고도화[웹방화벽, FOD]",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "우리카드",
+   "id": "20261008140507043",
+   "title": "[입찰공고] AI인프라 수급 리스크 대응 하드웨어 도입[x86서버]",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "우리카드",
+   "id": "20261008140907183",
+   "title": "[입찰공고] AI인프라 수급 리스크 대응 하드웨어 도입[스위치]",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "우리카드",
+   "id": "20261008140740021",
+   "title": "[입찰공고] AI인프라 수급 리스크 대응 하드웨어 도입[스토리지]",
+   "files": 3,
+   "links": 3
+  },
   {
    "org": "한국여자농구연맹",
    "id": "53426",
-   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1320",
+   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1330",
    "files": 1,
    "links": 1
   },
   {
    "job": "shinhanlife",
    "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
-  },
-  {
-   "org": "원광대학교",
-   "id": "80e289f2f5c04b7bbe6a890bfc402aec",
-   "title": "원심분리기 1대 외 8종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "2cf588f1dc314b6e8e4858e5c60cce53",
-   "title": "식품교환단위모형 1SET 외 12종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "4c91fac319164599b3ea2824491e3a48",
-   "title": "(재공고) 플라즈마토치 1대 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "03ce971ce8574dd2aa5134cd89b8a4cf",
-   "title": "[교육발전특구]2026 교육발전특구사업단 성과공유회 운영 용역",
-   "files": 1,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "d5898e6ee8f9499ba699a2c57bf94e4e",
-   "title": "전자칠판 1대 외 1종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "70a15f93b4444b40bb83d8e36a2cecf1",
-   "title": "회전식분말혼합기 1SET 구입",
-   "files": 2,
-   "links": 2
   }
  ]
 }
