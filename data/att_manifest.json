@@ -2669,48 +2669,50 @@
     }
    ],
    "at": "2026-10-09"
+  },
+  {
+   "org": "신한라이프",
+   "id": "e85e966e74f644e39a79",
+   "title": "커피 원두 및 커피 머신 공급업체 선정",
+   "date": "2026-10-07",
+   "link": "https://www.shinhanlife.co.kr/hp/cdhi0510.do",
+   "files": [],
+   "at": "2026-10-10"
+  },
+  {
+   "org": "신한라이프",
+   "id": "20a0312a1e9541a3a4e2",
+   "title": "AI거버넌스 고도화 및 내재화 컨설팅 업체 선정",
+   "date": "2026-10-06",
+   "link": "https://www.shinhanlife.co.kr/hp/cdhi0510.do",
+   "files": [],
+   "at": "2026-10-10"
   }
  ],
- "generatedAt": "2026-10-09T02:47:17.690Z",
+ "generatedAt": "2026-10-10T02:05:18.607Z",
  "report": [
-  {
-   "org": "우리카드",
-   "id": "20261008141310605",
-   "title": "[입찰공고] 웹방화벽(WAF) 시스템 고도화[웹방화벽, FOD]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20261008140507043",
-   "title": "[입찰공고] AI인프라 수급 리스크 대응 하드웨어 도입[x86서버]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20261008140907183",
-   "title": "[입찰공고] AI인프라 수급 리스크 대응 하드웨어 도입[스위치]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20261008140740021",
-   "title": "[입찰공고] AI인프라 수급 리스크 대응 하드웨어 도입[스토리지]",
-   "files": 3,
-   "links": 3
-  },
   {
    "org": "한국여자농구연맹",
    "id": "53426",
-   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1330",
+   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1332",
    "files": 1,
    "links": 1
   },
   {
-   "job": "shinhanlife",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
+   "org": "신한라이프",
+   "id": "e85e966e74f644e39a79",
+   "title": "커피 원두 및 커피 머신 공급업체 선정",
+   "fileErr": " apiRequestContext.get: connect ECONNREFUSED 210.120.57.57:443\nCall log:\n  - → GE apiRequestContext.get: connect ECONNREFUSED 210.120.57.57:443\nCall log:\n  - → GE",
+   "files": 0,
+   "links": 2
+  },
+  {
+   "org": "신한라이프",
+   "id": "20a0312a1e9541a3a4e2",
+   "title": "AI거버넌스 고도화 및 내재화 컨설팅 업체 선정",
+   "fileErr": " apiRequestContext.get: connect ECONNREFUSED 210.120.57.57:443\nCall log:\n  - → GE apiRequestContext.get: connect ECONNREFUSED 210.120.57.57:443\nCall log:\n  - → GE",
+   "files": 0,
+   "links": 2
   }
  ]
 }
