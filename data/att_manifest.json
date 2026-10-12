@@ -401,21 +401,6 @@
    "at": "2026-09-20"
   },
   {
-   "org": "한국여자농구연맹",
-   "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 899",
-   "date": "2026-07-13",
-   "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=53516&page=1",
-   "files": [
-    {
-     "name": "2026 KB스타즈 대행사 선정 입찰 공고 (경기운영,홍보,마케팅).zip",
-     "path": "data/att/wkbl/53516/2026 KB스타즈 대행사 선정 입찰 공고 (경기운영,홍보,마케팅).zip",
-     "bytes": 603043
-    }
-   ],
-   "at": "2026-09-20"
-  },
-  {
    "org": "신한라이프",
    "id": "72e726b81c394a08b3f2",
    "title": "재무통합 스토리지 공급업체 선정",
@@ -2709,30 +2694,244 @@
     }
    ],
    "at": "2026-10-11"
+  },
+  {
+   "org": "원광대학교",
+   "id": "ce4a08fb8a624c80b9d4a2016bdc6231",
+   "title": "냉난방기 3대 설치 구매",
+   "date": "2026-10-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-냉난방기.hwp",
+     "path": "data/att/wku/ce4a08fb8a624c80b9d4a2016bdc6231/공고문-냉난방기.hwp",
+     "bytes": 128512
+    },
+    {
+     "name": "물품내역서 및 특별시방서.hwp",
+     "path": "data/att/wku/ce4a08fb8a624c80b9d4a2016bdc6231/물품내역서 및 특별시방서.hwp",
+     "bytes": 44032
+    },
+    {
+     "name": "도면.pdf",
+     "path": "data/att/wku/ce4a08fb8a624c80b9d4a2016bdc6231/도면.pdf",
+     "bytes": 350528
+    }
+   ],
+   "at": "2026-10-12"
+  },
+  {
+   "org": "원광대학교",
+   "id": "f0aca65a5d3e48f8a6527620015cccbb",
+   "title": "조립컴퓨터 1대 외 1종 구입",
+   "date": "2026-10-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-조립컴퓨터 외.hwp",
+     "path": "data/att/wku/f0aca65a5d3e48f8a6527620015cccbb/공고문-조립컴퓨터 외.hwp",
+     "bytes": 68608
+    },
+    {
+     "name": "구매규격서-조립컴퓨터 외.pdf",
+     "path": "data/att/wku/f0aca65a5d3e48f8a6527620015cccbb/구매규격서-조립컴퓨터 외.pdf",
+     "bytes": 153733
+    }
+   ],
+   "at": "2026-10-12"
+  },
+  {
+   "org": "원광대학교",
+   "id": "1def81dccbcc49b58a64901cb635074f",
+   "title": "노트북 1대 외 2종 구매",
+   "date": "2026-10-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-노트북외.hwp",
+     "path": "data/att/wku/1def81dccbcc49b58a64901cb635074f/공고문-노트북외.hwp",
+     "bytes": 128512
+    },
+    {
+     "name": "구매규격서-노트북외.pdf",
+     "path": "data/att/wku/1def81dccbcc49b58a64901cb635074f/구매규격서-노트북외.pdf",
+     "bytes": 139843
+    }
+   ],
+   "at": "2026-10-12"
+  },
+  {
+   "org": "원광대학교",
+   "id": "eed888341bd343658d3eab081810c586",
+   "title": "[앵커] 정주역량 강화를 위한 지역생활 탐구 및 다국어 콘텐츠 제작 프로젝트 운영 용역",
+   "date": "2026-10-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "과업지시서.pdf",
+     "path": "data/att/wku/eed888341bd343658d3eab081810c586/과업지시서.pdf",
+     "bytes": 171284
+    },
+    {
+     "name": "공고문.hwp",
+     "path": "data/att/wku/eed888341bd343658d3eab081810c586/공고문.hwp",
+     "bytes": 64000
+    }
+   ],
+   "at": "2026-10-12"
+  },
+  {
+   "org": "원광대학교",
+   "id": "e551f170eee1423c843b43e0ef7ac33f",
+   "title": "공간 신호 증폭 시약 1SET 구매",
+   "date": "2026-10-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-공간증폭시약.hwp",
+     "path": "data/att/wku/e551f170eee1423c843b43e0ef7ac33f/공고문-공간증폭시약.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서-공간신호증폭시약.pdf",
+     "path": "data/att/wku/e551f170eee1423c843b43e0ef7ac33f/규격서-공간신호증폭시약.pdf",
+     "bytes": 130795
+    }
+   ],
+   "at": "2026-10-12"
+  },
+  {
+   "org": "원광대학교",
+   "id": "ab2a6d4c764a4713bcc2ebaee923da31",
+   "title": "생활과학관 2~5층 외부 피난문 교체공사",
+   "date": "2026-09-28",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "4.현장설명 참가 신청서.hwp",
+     "path": "data/att/wku/ab2a6d4c764a4713bcc2ebaee923da31/4.현장설명 참가 신청서.hwp",
+     "bytes": 29184
+    },
+    {
+     "name": "2.시방서.pdf",
+     "path": "data/att/wku/ab2a6d4c764a4713bcc2ebaee923da31/2.시방서.pdf",
+     "bytes": 43293
+    },
+    {
+     "name": "5.개인정보 이용동의서.hwp",
+     "path": "data/att/wku/ab2a6d4c764a4713bcc2ebaee923da31/5.개인정보 이용동의서.hwp",
+     "bytes": 52224
+    },
+    {
+     "name": "1.공개견적 공고문.pdf",
+     "path": "data/att/wku/ab2a6d4c764a4713bcc2ebaee923da31/1.공개견적 공고문.pdf",
+     "bytes": 81998
+    },
+    {
+     "name": "3.도면.pdf",
+     "path": "data/att/wku/ab2a6d4c764a4713bcc2ebaee923da31/3.도면.pdf",
+     "bytes": 1860721
+    }
+   ],
+   "at": "2026-10-12"
+  },
+  {
+   "org": "원광대학교",
+   "id": "3f8740fcbe5f4a668c26170b7a66a58f",
+   "title": "생활과학관 1층 동측 출입문 앞 데크 설치공사",
+   "date": "2026-09-28",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "4.현장설명 참가 신청서.hwp",
+     "path": "data/att/wku/3f8740fcbe5f4a668c26170b7a66a58f/4.현장설명 참가 신청서.hwp",
+     "bytes": 29184
+    },
+    {
+     "name": "2.시방서.pdf",
+     "path": "data/att/wku/3f8740fcbe5f4a668c26170b7a66a58f/2.시방서.pdf",
+     "bytes": 43548
+    },
+    {
+     "name": "5.개인정보 이용동의서.hwp",
+     "path": "data/att/wku/3f8740fcbe5f4a668c26170b7a66a58f/5.개인정보 이용동의서.hwp",
+     "bytes": 52224
+    },
+    {
+     "name": "1.공개견적 공고문.pdf",
+     "path": "data/att/wku/3f8740fcbe5f4a668c26170b7a66a58f/1.공개견적 공고문.pdf",
+     "bytes": 81441
+    },
+    {
+     "name": "3.도면.pdf",
+     "path": "data/att/wku/3f8740fcbe5f4a668c26170b7a66a58f/3.도면.pdf",
+     "bytes": 1184000
+    }
+   ],
+   "at": "2026-10-12"
   }
  ],
- "generatedAt": "2026-10-11T01:33:44.520Z",
+ "generatedAt": "2026-10-12T02:05:30.825Z",
  "report": [
   {
    "org": "한국여자농구연맹",
    "id": "53426",
-   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1333",
+   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1335",
    "files": 1,
    "links": 1
   },
   {
-   "org": "신한라이프",
-   "id": "e85e966e74f644e39a79",
-   "title": "커피 원두 및 커피 머신 공급업체 선정",
+   "job": "shinhanlife",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+   "org": "원광대학교",
+   "id": "ce4a08fb8a624c80b9d4a2016bdc6231",
+   "title": "냉난방기 3대 설치 구매",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "원광대학교",
+   "id": "f0aca65a5d3e48f8a6527620015cccbb",
+   "title": "조립컴퓨터 1대 외 1종 구입",
    "files": 2,
    "links": 2
   },
   {
-   "org": "신한라이프",
-   "id": "20a0312a1e9541a3a4e2",
-   "title": "AI거버넌스 고도화 및 내재화 컨설팅 업체 선정",
+   "org": "원광대학교",
+   "id": "1def81dccbcc49b58a64901cb635074f",
+   "title": "노트북 1대 외 2종 구매",
    "files": 2,
    "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "eed888341bd343658d3eab081810c586",
+   "title": "[앵커] 정주역량 강화를 위한 지역생활 탐구 및 다국어 콘텐츠 제작 프로젝트 운영 용역",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "e551f170eee1423c843b43e0ef7ac33f",
+   "title": "공간 신호 증폭 시약 1SET 구매",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "ab2a6d4c764a4713bcc2ebaee923da31",
+   "title": "생활과학관 2~5층 외부 피난문 교체공사",
+   "files": 5,
+   "links": 5
+  },
+  {
+   "org": "원광대학교",
+   "id": "3f8740fcbe5f4a668c26170b7a66a58f",
+   "title": "생활과학관 1층 동측 출입문 앞 데크 설치공사",
+   "files": 5,
+   "links": 5
   }
  ]
 }
