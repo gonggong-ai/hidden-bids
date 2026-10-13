@@ -2869,14 +2869,125 @@
     }
    ],
    "at": "2026-10-12"
+  },
+  {
+   "org": "원광대학교",
+   "id": "6c0aed9aba4341a5a9460c50ac47ec8c",
+   "title": "인문관 3층 AI증강강의실 구축공사",
+   "date": "2026-10-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "입찰공고문.hwp",
+     "path": "data/att/wku/6c0aed9aba4341a5a9460c50ac47ec8c/입찰공고문.hwp",
+     "bytes": 58368
+    },
+    {
+     "name": "설계도서(공고용).zip",
+     "path": "data/att/wku/6c0aed9aba4341a5a9460c50ac47ec8c/설계도서(공고용).zip",
+     "bytes": 21869933
+    },
+    {
+     "name": "현장설명조서.hwp",
+     "path": "data/att/wku/6c0aed9aba4341a5a9460c50ac47ec8c/현장설명조서.hwp",
+     "bytes": 54784
+    },
+    {
+     "name": "입찰참가서류양식.hwp",
+     "path": "data/att/wku/6c0aed9aba4341a5a9460c50ac47ec8c/입찰참가서류양식.hwp",
+     "bytes": 51712
+    },
+    {
+     "name": "입찰유의서_공사.hwp",
+     "path": "data/att/wku/6c0aed9aba4341a5a9460c50ac47ec8c/입찰유의서_공사.hwp",
+     "bytes": 70656
+    }
+   ],
+   "at": "2026-10-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "e4dec9f27b6943b094fa356e9e7a4a90",
+   "title": "글로컬 생명존중 숭산마음뜰 조성(네트워크)공사",
+   "date": "2026-10-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "특기시방서.pdf",
+     "path": "data/att/wku/e4dec9f27b6943b094fa356e9e7a4a90/특기시방서.pdf",
+     "bytes": 43250
+    },
+    {
+     "name": "공개견적공고문.pdf",
+     "path": "data/att/wku/e4dec9f27b6943b094fa356e9e7a4a90/공개견적공고문.pdf",
+     "bytes": 74550
+    },
+    {
+     "name": "과업지시서.pdf",
+     "path": "data/att/wku/e4dec9f27b6943b094fa356e9e7a4a90/과업지시서.pdf",
+     "bytes": 76641
+    }
+   ],
+   "at": "2026-10-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "6264fbed2e284077b0f5c9fdbef8d9b2",
+   "title": "2026학년도 신문방송사 해외연수 운영위탁 용역",
+   "date": "2026-10-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "2026학년도_신문방송사_해외연수운영위탁용역_공개견적공고문.hwp",
+     "path": "data/att/wku/6264fbed2e284077b0f5c9fdbef8d9b2/2026학년도_신문방송사_해외연수운영위탁용역_공개견적공고문.hwp",
+     "bytes": 64000
+    },
+    {
+     "name": "2026학년도_신문방송사_해외연수운영위탁용역_과업지시서.hwp",
+     "path": "data/att/wku/6264fbed2e284077b0f5c9fdbef8d9b2/2026학년도_신문방송사_해외연수운영위탁용역_과업지시서.hwp",
+     "bytes": 214016
+    }
+   ],
+   "at": "2026-10-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "270bacf4da6b4364bc244e59e1347ece",
+   "title": "2026학년도 신문방송사 해외연수 운영위탁 용역",
+   "date": "2026-10-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "2026학년도_신문방송사_해외연수운영위탁용역_공개견적공고문.hwp",
+     "path": "data/att/wku/270bacf4da6b4364bc244e59e1347ece/2026학년도_신문방송사_해외연수운영위탁용역_공개견적공고문.hwp",
+     "bytes": 64000
+    },
+    {
+     "name": "2026학년도_신문방송사_해외연수운영위탁용역_과업지시서.hwp",
+     "path": "data/att/wku/270bacf4da6b4364bc244e59e1347ece/2026학년도_신문방송사_해외연수운영위탁용역_과업지시서.hwp",
+     "bytes": 214016
+    }
+   ],
+   "at": "2026-10-13"
   }
  ],
- "generatedAt": "2026-10-12T02:05:30.825Z",
+ "generatedAt": "2026-10-13T03:24:29.728Z",
  "report": [
+  {
+   "job": "hanafn",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+   "org": "한국여자농구연맹",
+   "id": "53516",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 941",
+   "files": 1,
+   "links": 1
+  },
   {
    "org": "한국여자농구연맹",
    "id": "53426",
-   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1335",
+   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1336",
    "files": 1,
    "links": 1
   },
@@ -2886,52 +2997,31 @@
   },
   {
    "org": "원광대학교",
-   "id": "ce4a08fb8a624c80b9d4a2016bdc6231",
-   "title": "냉난방기 3대 설치 구매",
+   "id": "6c0aed9aba4341a5a9460c50ac47ec8c",
+   "title": "인문관 3층 AI증강강의실 구축공사",
+   "files": 5,
+   "links": 5
+  },
+  {
+   "org": "원광대학교",
+   "id": "e4dec9f27b6943b094fa356e9e7a4a90",
+   "title": "글로컬 생명존중 숭산마음뜰 조성(네트워크)공사",
    "files": 3,
    "links": 3
   },
   {
    "org": "원광대학교",
-   "id": "f0aca65a5d3e48f8a6527620015cccbb",
-   "title": "조립컴퓨터 1대 외 1종 구입",
+   "id": "6264fbed2e284077b0f5c9fdbef8d9b2",
+   "title": "2026학년도 신문방송사 해외연수 운영위탁 용역",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "1def81dccbcc49b58a64901cb635074f",
-   "title": "노트북 1대 외 2종 구매",
+   "id": "270bacf4da6b4364bc244e59e1347ece",
+   "title": "2026학년도 신문방송사 해외연수 운영위탁 용역",
    "files": 2,
    "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "eed888341bd343658d3eab081810c586",
-   "title": "[앵커] 정주역량 강화를 위한 지역생활 탐구 및 다국어 콘텐츠 제작 프로젝트 운영 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "e551f170eee1423c843b43e0ef7ac33f",
-   "title": "공간 신호 증폭 시약 1SET 구매",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "ab2a6d4c764a4713bcc2ebaee923da31",
-   "title": "생활과학관 2~5층 외부 피난문 교체공사",
-   "files": 5,
-   "links": 5
-  },
-  {
-   "org": "원광대학교",
-   "id": "3f8740fcbe5f4a668c26170b7a66a58f",
-   "title": "생활과학관 1층 동측 출입문 앞 데크 설치공사",
-   "files": 5,
-   "links": 5
   }
  ]
 }
