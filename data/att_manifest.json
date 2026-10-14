@@ -2969,25 +2969,34 @@
     }
    ],
    "at": "2026-10-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "55dd1e87ebf14baebedcdba040cfdaa1",
+   "title": "원광대학교 대종로 리모델링 토목 및 조경공사 실시설계 용역",
+   "date": "2026-10-13",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "과업지시서(최종).hwp",
+     "path": "data/att/wku/55dd1e87ebf14baebedcdba040cfdaa1/과업지시서(최종).hwp",
+     "bytes": 629760
+    },
+    {
+     "name": "사전규격공고.hwp",
+     "path": "data/att/wku/55dd1e87ebf14baebedcdba040cfdaa1/사전규격공고.hwp",
+     "bytes": 65536
+    }
+   ],
+   "at": "2026-10-14"
   }
  ],
- "generatedAt": "2026-10-13T03:24:29.728Z",
+ "generatedAt": "2026-10-14T01:36:55.634Z",
  "report": [
-  {
-   "job": "hanafn",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
-  },
   {
    "org": "한국여자농구연맹",
    "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 941",
-   "files": 1,
-   "links": 1
-  },
-  {
-   "org": "한국여자농구연맹",
-   "id": "53426",
-   "title": "2026 KB스타즈 유튜브 대행사 입찰공고 작성일 2026-06-29 조회수 1336",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 943",
    "files": 1,
    "links": 1
   },
@@ -2997,29 +3006,8 @@
   },
   {
    "org": "원광대학교",
-   "id": "6c0aed9aba4341a5a9460c50ac47ec8c",
-   "title": "인문관 3층 AI증강강의실 구축공사",
-   "files": 5,
-   "links": 5
-  },
-  {
-   "org": "원광대학교",
-   "id": "e4dec9f27b6943b094fa356e9e7a4a90",
-   "title": "글로컬 생명존중 숭산마음뜰 조성(네트워크)공사",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "원광대학교",
-   "id": "6264fbed2e284077b0f5c9fdbef8d9b2",
-   "title": "2026학년도 신문방송사 해외연수 운영위탁 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "270bacf4da6b4364bc244e59e1347ece",
-   "title": "2026학년도 신문방송사 해외연수 운영위탁 용역",
+   "id": "55dd1e87ebf14baebedcdba040cfdaa1",
+   "title": "원광대학교 대종로 리모델링 토목 및 조경공사 실시설계 용역",
    "files": 2,
    "links": 2
   }
