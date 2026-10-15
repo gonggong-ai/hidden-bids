@@ -2989,25 +2989,144 @@
     }
    ],
    "at": "2026-10-14"
+  },
+  {
+   "org": "하나금융그룹",
+   "id": "10000150",
+   "title": "[입찰공고] 하나금융그룹 ‘2026 모두하나데이’ 행사 운영 대행사 선정 * 입찰 참가 신청서 및 제안서 접수 완료: 2026. 10. 20(화) 오전 10시까지",
+   "date": "2026-10-14",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "files": [
+    {
+     "name": "첨부.+제안요청서(RFP)_2026모두하나데이.docx",
+     "path": "data/att/hanafn/10000150/첨부.+제안요청서(RFP)_2026모두하나데이.docx",
+     "bytes": 270170
+    }
+   ],
+   "at": "2026-10-15"
+  },
+  {
+   "org": "원광대학교",
+   "id": "e1ee7c8f0b1f44ca95a820ab9d90d28f",
+   "title": "보리 재배용 비료 구입",
+   "date": "2026-10-14",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-비료.hwp",
+     "path": "data/att/wku/e1ee7c8f0b1f44ca95a820ab9d90d28f/공고문-비료.hwp",
+     "bytes": 139776
+    },
+    {
+     "name": "구매규격서-비료.pdf",
+     "path": "data/att/wku/e1ee7c8f0b1f44ca95a820ab9d90d28f/구매규격서-비료.pdf",
+     "bytes": 133836
+    }
+   ],
+   "at": "2026-10-15"
+  },
+  {
+   "org": "원광대학교",
+   "id": "4f2c129e27ad435eafb06cea0cbac858",
+   "title": "동결건조기 1대 구입",
+   "date": "2026-10-14",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-동결건조기.hwp",
+     "path": "data/att/wku/4f2c129e27ad435eafb06cea0cbac858/공고문-동결건조기.hwp",
+     "bytes": 70656
+    },
+    {
+     "name": "규격서-동결건조기.pdf",
+     "path": "data/att/wku/4f2c129e27ad435eafb06cea0cbac858/규격서-동결건조기.pdf",
+     "bytes": 102867
+    }
+   ],
+   "at": "2026-10-15"
+  },
+  {
+   "org": "원광대학교",
+   "id": "463aab5525cd4adf8ff2bcc8179b327a",
+   "title": "광학식치아우식진단장치 4대 외 1종 구입",
+   "date": "2026-10-14",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-광학식치아우식진단장치.hwp",
+     "path": "data/att/wku/463aab5525cd4adf8ff2bcc8179b327a/공고문-광학식치아우식진단장치.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-광학식치아우식진단장치.pdf",
+     "path": "data/att/wku/463aab5525cd4adf8ff2bcc8179b327a/규격서-광학식치아우식진단장치.pdf",
+     "bytes": 128255
+    }
+   ],
+   "at": "2026-10-15"
+  },
+  {
+   "org": "원광대학교",
+   "id": "821ccbfefdc44ec581f4e14558b76a3c",
+   "title": "AX 기술창업 부트캠프 운영 용역",
+   "date": "2026-10-14",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "붙임 2. ax 기술창업 부트캠프 운영 과업지시서.hwp",
+     "path": "data/att/wku/821ccbfefdc44ec581f4e14558b76a3c/붙임 2. ax 기술창업 부트캠프 운영 과업지시서.hwp",
+     "bytes": 32256
+    },
+    {
+     "name": "붙임 1. ax 기술창업 부트캠프 운영 용역 공개견적 안내.hwp",
+     "path": "data/att/wku/821ccbfefdc44ec581f4e14558b76a3c/붙임 1. ax 기술창업 부트캠프 운영 용역 공개견적 안내.hwp",
+     "bytes": 67072
+    }
+   ],
+   "at": "2026-10-15"
   }
  ],
- "generatedAt": "2026-10-14T01:36:55.634Z",
+ "generatedAt": "2026-10-15T01:13:57.547Z",
  "report": [
   {
-   "org": "한국여자농구연맹",
-   "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 943",
+   "org": "하나금융그룹",
+   "id": "10000150",
+   "title": "[입찰공고] 하나금융그룹 ‘2026 모두하나데이’ 행사 운영 대행사 선정 * 입찰 참가 신청서 및 제안서 접수 완료: 2026. 10. 20(화) 오전 10시까지",
    "files": 1,
    "links": 1
   },
   {
-   "job": "shinhanlife",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
+   "org": "한국여자농구연맹",
+   "id": "53516",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 947",
+   "files": 1,
+   "links": 1
   },
   {
    "org": "원광대학교",
-   "id": "55dd1e87ebf14baebedcdba040cfdaa1",
-   "title": "원광대학교 대종로 리모델링 토목 및 조경공사 실시설계 용역",
+   "id": "e1ee7c8f0b1f44ca95a820ab9d90d28f",
+   "title": "보리 재배용 비료 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "4f2c129e27ad435eafb06cea0cbac858",
+   "title": "동결건조기 1대 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "463aab5525cd4adf8ff2bcc8179b327a",
+   "title": "광학식치아우식진단장치 4대 외 1종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "821ccbfefdc44ec581f4e14558b76a3c",
+   "title": "AX 기술창업 부트캠프 운영 용역",
    "files": 2,
    "links": 2
   }
