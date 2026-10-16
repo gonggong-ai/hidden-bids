@@ -3084,49 +3084,230 @@
     }
    ],
    "at": "2026-10-15"
-  }
- ],
- "generatedAt": "2026-10-15T01:13:57.547Z",
- "report": [
+  },
+  {
+   "org": "우리카드",
+   "id": "20261015093729203",
+   "title": "[입찰공고] 2026년 전산기기 연간 물량 일괄 도입[카드발급기]",
+   "date": "2026-10-16",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261015093729203",
+   "files": [
+    {
+     "name": "4_1. 제품도입 사양.xlsx",
+     "path": "data/att/wooricard/20261015093729203/4_1. 제품도입 사양.xlsx",
+     "bytes": 13420
+    },
+    {
+     "name": "4_2. 입찰(제안)참가신청서.docx",
+     "path": "data/att/wooricard/20261015093729203/4_2. 입찰(제안)참가신청서.docx",
+     "bytes": 70205
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20261015093729203/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-10-16"
+  },
   {
    "org": "하나금융그룹",
-   "id": "10000150",
-   "title": "[입찰공고] 하나금융그룹 ‘2026 모두하나데이’ 행사 운영 대행사 선정 * 입찰 참가 신청서 및 제안서 접수 완료: 2026. 10. 20(화) 오전 10시까지",
+   "id": "10000149",
+   "title": "[입찰공고] '2027 하나금융그룹 출발행사' 대행사 선정 제안 요청 * 제안서 및 입찰서류 제출기한 : 2026. 10. 23(금) 오전 10:00까지",
+   "date": "2026-10-16",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "files": [
+    {
+     "name": "2027+그룹+출발행사+대행사+선정+제안요청서(RFP).docx",
+     "path": "data/att/hanafn/10000149/2027+그룹+출발행사+대행사+선정+제안요청서(RFP).docx",
+     "bytes": 348850
+    }
+   ],
+   "at": "2026-10-16"
+  },
+  {
+   "org": "원광대학교",
+   "id": "d7033f9ef2ea4a7fbe9fe3570c986c0d",
+   "title": "ANCHOR사업단 AI기반 웰니스 성과확산·복지체험존 운영 용역",
+   "date": "2026-10-15",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "과업지시서.pdf",
+     "path": "data/att/wku/d7033f9ef2ea4a7fbe9fe3570c986c0d/과업지시서.pdf",
+     "bytes": 160578
+    },
+    {
+     "name": "공고문.hwp",
+     "path": "data/att/wku/d7033f9ef2ea4a7fbe9fe3570c986c0d/공고문.hwp",
+     "bytes": 138752
+    }
+   ],
+   "at": "2026-10-16"
+  },
+  {
+   "org": "원광대학교",
+   "id": "5fc55c1acf074593b8e13b545cae60c0",
+   "title": "(재공고) 회전식분말혼합기 1SET 구입",
+   "date": "2026-10-15",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "재공고문-회전식분말혼합기.hwp",
+     "path": "data/att/wku/5fc55c1acf074593b8e13b545cae60c0/재공고문-회전식분말혼합기.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-회전식분말혼합기.pdf",
+     "path": "data/att/wku/5fc55c1acf074593b8e13b545cae60c0/규격서-회전식분말혼합기.pdf",
+     "bytes": 93429
+    }
+   ],
+   "at": "2026-10-16"
+  },
+  {
+   "org": "원광대학교",
+   "id": "2ca77067a73d475bb09ee478aa953adf",
+   "title": "[글로컬-지역상생사업] FarmIN Cloude Service 인터페이스 개발 용역",
+   "date": "2026-10-15",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문.hwpx",
+     "path": "data/att/wku/2ca77067a73d475bb09ee478aa953adf/공고문.hwpx",
+     "bytes": 70857
+    },
+    {
+     "name": "1. 과업지시서.pdf",
+     "path": "data/att/wku/2ca77067a73d475bb09ee478aa953adf/1. 과업지시서.pdf",
+     "bytes": 736431
+    }
+   ],
+   "at": "2026-10-16"
+  },
+  {
+   "org": "원광대학교",
+   "id": "64530880c9b04fd39dc43fdf2be36f22",
+   "title": "노트북 1대 외 7종 구입",
+   "date": "2026-10-15",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-노트북 1대 외.hwp",
+     "path": "data/att/wku/64530880c9b04fd39dc43fdf2be36f22/공고문-노트북 1대 외.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-노트북 1대 외.pdf",
+     "path": "data/att/wku/64530880c9b04fd39dc43fdf2be36f22/규격서-노트북 1대 외.pdf",
+     "bytes": 182081
+    }
+   ],
+   "at": "2026-10-16"
+  },
+  {
+   "org": "원광대학교",
+   "id": "0e962ebaf5b344d1b7d9621e5dbcd160",
+   "title": "GPU가속기 1대 외 1종 구매",
+   "date": "2026-10-15",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-gpu가속기.hwp",
+     "path": "data/att/wku/0e962ebaf5b344d1b7d9621e5dbcd160/공고문-gpu가속기.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서(gpu가속기).pdf",
+     "path": "data/att/wku/0e962ebaf5b344d1b7d9621e5dbcd160/규격서(gpu가속기).pdf",
+     "bytes": 115459
+    }
+   ],
+   "at": "2026-10-16"
+  },
+  {
+   "org": "원광대학교",
+   "id": "2bf313929d2f40658a48afdae7381971",
+   "title": "손이치아단계조각모형 40SET 외 5종 구입",
+   "date": "2026-10-15",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-손아치아단계조각모형.hwp",
+     "path": "data/att/wku/2bf313929d2f40658a48afdae7381971/공고문-손아치아단계조각모형.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서-손이치아단계조각모형 40set 외 5종 구입.pdf",
+     "path": "data/att/wku/2bf313929d2f40658a48afdae7381971/규격서-손이치아단계조각모형 40set 외 5종 구입.pdf",
+     "bytes": 508304
+    }
+   ],
+   "at": "2026-10-16"
+  }
+ ],
+ "generatedAt": "2026-10-16T01:02:53.643Z",
+ "report": [
+  {
+   "org": "우리카드",
+   "id": "20261015093729203",
+   "title": "[입찰공고] 2026년 전산기기 연간 물량 일괄 도입[카드발급기]",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "하나금융그룹",
+   "id": "10000149",
+   "title": "[입찰공고] '2027 하나금융그룹 출발행사' 대행사 선정 제안 요청 * 제안서 및 입찰서류 제출기한 : 2026. 10. 23(금) 오전 10:00까지",
    "files": 1,
    "links": 1
   },
   {
    "org": "한국여자농구연맹",
    "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 947",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 948",
    "files": 1,
    "links": 1
   },
   {
    "org": "원광대학교",
-   "id": "e1ee7c8f0b1f44ca95a820ab9d90d28f",
-   "title": "보리 재배용 비료 구입",
+   "id": "d7033f9ef2ea4a7fbe9fe3570c986c0d",
+   "title": "ANCHOR사업단 AI기반 웰니스 성과확산·복지체험존 운영 용역",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "4f2c129e27ad435eafb06cea0cbac858",
-   "title": "동결건조기 1대 구입",
+   "id": "5fc55c1acf074593b8e13b545cae60c0",
+   "title": "(재공고) 회전식분말혼합기 1SET 구입",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "463aab5525cd4adf8ff2bcc8179b327a",
-   "title": "광학식치아우식진단장치 4대 외 1종 구입",
+   "id": "2ca77067a73d475bb09ee478aa953adf",
+   "title": "[글로컬-지역상생사업] FarmIN Cloude Service 인터페이스 개발 용역",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "821ccbfefdc44ec581f4e14558b76a3c",
-   "title": "AX 기술창업 부트캠프 운영 용역",
+   "id": "64530880c9b04fd39dc43fdf2be36f22",
+   "title": "노트북 1대 외 7종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "0e962ebaf5b344d1b7d9621e5dbcd160",
+   "title": "GPU가속기 1대 외 1종 구매",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "2bf313929d2f40658a48afdae7381971",
+   "title": "손이치아단계조각모형 40SET 외 5종 구입",
    "files": 2,
    "links": 2
   }
