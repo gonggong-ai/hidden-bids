@@ -3244,72 +3244,100 @@
     }
    ],
    "at": "2026-10-16"
+  },
+  {
+   "org": "원광대학교",
+   "id": "9444c617bf4b42249ee8b707347afdc4",
+   "title": "의학관 4층 개방형실험실 개보수공사",
+   "date": "2026-10-16",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "입찰공고문.hwp",
+     "path": "data/att/wku/9444c617bf4b42249ee8b707347afdc4/입찰공고문.hwp",
+     "bytes": 58368
+    },
+    {
+     "name": "설계도서(공고용).zip",
+     "path": "data/att/wku/9444c617bf4b42249ee8b707347afdc4/설계도서(공고용).zip",
+     "bytes": 4657689
+    },
+    {
+     "name": "현장설명조서.hwp",
+     "path": "data/att/wku/9444c617bf4b42249ee8b707347afdc4/현장설명조서.hwp",
+     "bytes": 57856
+    },
+    {
+     "name": "입찰참가서류양식.hwp",
+     "path": "data/att/wku/9444c617bf4b42249ee8b707347afdc4/입찰참가서류양식.hwp",
+     "bytes": 51712
+    },
+    {
+     "name": "입찰유의서_공사.hwp",
+     "path": "data/att/wku/9444c617bf4b42249ee8b707347afdc4/입찰유의서_공사.hwp",
+     "bytes": 70656
+    }
+   ],
+   "at": "2026-10-17"
+  },
+  {
+   "org": "원광대학교",
+   "id": "5452898ecc7d4f06965eac5badbe2671",
+   "title": "학생생활관 삼동관 창호 방수공사",
+   "date": "2026-10-06",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "4.현장설명 참가 신청서.hwp",
+     "path": "data/att/wku/5452898ecc7d4f06965eac5badbe2671/4.현장설명 참가 신청서.hwp",
+     "bytes": 29184
+    },
+    {
+     "name": "2.시방서.pdf",
+     "path": "data/att/wku/5452898ecc7d4f06965eac5badbe2671/2.시방서.pdf",
+     "bytes": 43224
+    },
+    {
+     "name": "1.공개견적 공고문.pdf",
+     "path": "data/att/wku/5452898ecc7d4f06965eac5badbe2671/1.공개견적 공고문.pdf",
+     "bytes": 81178
+    },
+    {
+     "name": "5.개인정보 이용동의서.hwp",
+     "path": "data/att/wku/5452898ecc7d4f06965eac5badbe2671/5.개인정보 이용동의서.hwp",
+     "bytes": 52224
+    },
+    {
+     "name": "3.도면.pdf",
+     "path": "data/att/wku/5452898ecc7d4f06965eac5badbe2671/3.도면.pdf",
+     "bytes": 3692148
+    }
+   ],
+   "at": "2026-10-17"
   }
  ],
- "generatedAt": "2026-10-16T01:02:53.643Z",
+ "generatedAt": "2026-10-17T01:02:14.890Z",
  "report": [
-  {
-   "org": "우리카드",
-   "id": "20261015093729203",
-   "title": "[입찰공고] 2026년 전산기기 연간 물량 일괄 도입[카드발급기]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "하나금융그룹",
-   "id": "10000149",
-   "title": "[입찰공고] '2027 하나금융그룹 출발행사' 대행사 선정 제안 요청 * 제안서 및 입찰서류 제출기한 : 2026. 10. 23(금) 오전 10:00까지",
-   "files": 1,
-   "links": 1
-  },
   {
    "org": "한국여자농구연맹",
    "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 948",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 949",
    "files": 1,
    "links": 1
   },
   {
    "org": "원광대학교",
-   "id": "d7033f9ef2ea4a7fbe9fe3570c986c0d",
-   "title": "ANCHOR사업단 AI기반 웰니스 성과확산·복지체험존 운영 용역",
-   "files": 2,
-   "links": 2
+   "id": "9444c617bf4b42249ee8b707347afdc4",
+   "title": "의학관 4층 개방형실험실 개보수공사",
+   "files": 5,
+   "links": 5
   },
   {
    "org": "원광대학교",
-   "id": "5fc55c1acf074593b8e13b545cae60c0",
-   "title": "(재공고) 회전식분말혼합기 1SET 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "2ca77067a73d475bb09ee478aa953adf",
-   "title": "[글로컬-지역상생사업] FarmIN Cloude Service 인터페이스 개발 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "64530880c9b04fd39dc43fdf2be36f22",
-   "title": "노트북 1대 외 7종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "0e962ebaf5b344d1b7d9621e5dbcd160",
-   "title": "GPU가속기 1대 외 1종 구매",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "2bf313929d2f40658a48afdae7381971",
-   "title": "손이치아단계조각모형 40SET 외 5종 구입",
-   "files": 2,
-   "links": 2
+   "id": "5452898ecc7d4f06965eac5badbe2671",
+   "title": "학생생활관 삼동관 창호 방수공사",
+   "files": 5,
+   "links": 5
   }
  ]
 }
