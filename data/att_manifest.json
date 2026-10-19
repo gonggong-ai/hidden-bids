@@ -3314,16 +3314,66 @@
     }
    ],
    "at": "2026-10-17"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261016140442709",
+   "title": "검사정보시스템 재구축(종합평가)",
+   "date": "2026-10-19",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261016140442709",
+   "files": [
+    {
+     "name": "붙임3_1. 입찰(제안)참가신청서_검사정보시스템 재구축.hwp",
+     "path": "data/att/wooricard/20261016140442709/붙임3_1. 입찰(제안)참가신청서_검사정보시스템 재구축.hwp",
+     "bytes": 100864
+    },
+    {
+     "name": "붙임3_2. 가격 제안서 및 제안참가 서약서_검사정보시스템 재구축.hwp",
+     "path": "data/att/wooricard/20261016140442709/붙임3_2. 가격 제안서 및 제안참가 서약서_검사정보시스템 재구축.hwp",
+     "bytes": 36864
+    },
+    {
+     "name": "붙임3_3. 제안발표 참여업체 정보_검사정보시스템 재구축.hwp",
+     "path": "data/att/wooricard/20261016140442709/붙임3_3. 제안발표 참여업체 정보_검사정보시스템 재구축.hwp",
+     "bytes": 41984
+    },
+    {
+     "name": "붙임3_4. 우리카드 제안요청서(RFP) 수령 서약서_검사정보시스템 재구축.hwp",
+     "path": "data/att/wooricard/20261016140442709/붙임3_4. 우리카드 제안요청서(RFP) 수령 서약서_검사정보시스템 재구축.hwp",
+     "bytes": 60928
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20261016140442709/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-10-19"
   }
  ],
- "generatedAt": "2026-10-18T00:36:56.674Z",
+ "generatedAt": "2026-10-19T00:48:07.775Z",
  "report": [
+  {
+   "org": "우리카드",
+   "id": "20261016140442709",
+   "title": "검사정보시스템 재구축(종합평가)",
+   "files": 5,
+   "links": 5
+  },
+  {
+   "job": "hanafn",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
+  },
   {
    "org": "한국여자농구연맹",
    "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 951",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 953",
    "files": 1,
    "links": 1
+  },
+  {
+   "job": "shinhanlife",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
   }
  ]
 }
