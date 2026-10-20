@@ -3349,31 +3349,171 @@
     }
    ],
    "at": "2026-10-19"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261019155904021",
+   "title": "[재공고] '26년 우리카드 디지털 채널 접근성 인증 심사 기관 선정",
+   "date": "2026-10-19",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261019155904021",
+   "files": [
+    {
+     "name": "입찰(제안)참가신청서_우리카드 디지털채널 접근성 인증 심사_(2026년)_재공고.hwp",
+     "path": "data/att/wooricard/20261019155904021/입찰(제안)참가신청서_우리카드 디지털채널 접근성 인증 심사_(2026년)_재공고.hwp",
+     "bytes": 102400
+    }
+   ],
+   "at": "2026-10-20"
+  },
+  {
+   "org": "원광대학교",
+   "id": "fb1f9e206abe462db7b47720f74f9999",
+   "title": "원광대학교 대종로 리모델링 토목 및 조경공사 실시설계 용역",
+   "date": "2026-10-19",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "입찰공고문.hwp",
+     "path": "data/att/wku/fb1f9e206abe462db7b47720f74f9999/입찰공고문.hwp",
+     "bytes": 69632
+    },
+    {
+     "name": "과업지시서(최종).hwp",
+     "path": "data/att/wku/fb1f9e206abe462db7b47720f74f9999/과업지시서(최종).hwp",
+     "bytes": 629760
+    },
+    {
+     "name": "현장설명조서.hwp",
+     "path": "data/att/wku/fb1f9e206abe462db7b47720f74f9999/현장설명조서.hwp",
+     "bytes": 40448
+    },
+    {
+     "name": "기획설계 조감도.pdf",
+     "path": "data/att/wku/fb1f9e206abe462db7b47720f74f9999/기획설계 조감도.pdf",
+     "bytes": 585962
+    },
+    {
+     "name": "입찰관련서류양식.hwp",
+     "path": "data/att/wku/fb1f9e206abe462db7b47720f74f9999/입찰관련서류양식.hwp",
+     "bytes": 56832
+    },
+    {
+     "name": "입찰유의서_용역.hwp",
+     "path": "data/att/wku/fb1f9e206abe462db7b47720f74f9999/입찰유의서_용역.hwp",
+     "bytes": 59392
+    }
+   ],
+   "at": "2026-10-20"
+  },
+  {
+   "org": "원광대학교",
+   "id": "f348a938be354d1b9cff5833a2604dc3",
+   "title": "2027년 캘린더 제작 용역",
+   "date": "2026-10-19",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "입찰유의서_용역(제안서_평가).hwp",
+     "path": "data/att/wku/f348a938be354d1b9cff5833a2604dc3/입찰유의서_용역(제안서_평가).hwp",
+     "bytes": 49152
+    },
+    {
+     "name": "[붙임2-제안요청서]2027년캘린더.hwp",
+     "path": "data/att/wku/f348a938be354d1b9cff5833a2604dc3/[붙임2-제안요청서]2027년캘린더.hwp",
+     "bytes": 71680
+    },
+    {
+     "name": "[붙임1-공개견적공고문]2027년캘린더.hwp",
+     "path": "data/att/wku/f348a938be354d1b9cff5833a2604dc3/[붙임1-공개견적공고문]2027년캘린더.hwp",
+     "bytes": 78336
+    }
+   ],
+   "at": "2026-10-20"
+  },
+  {
+   "org": "원광대학교",
+   "id": "dfd088867aa240839123f10e598fbbb8",
+   "title": "체성분분석기 1대 외 4종",
+   "date": "2026-10-19",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-체성분분석기 외.hwp",
+     "path": "data/att/wku/dfd088867aa240839123f10e598fbbb8/공고문-체성분분석기 외.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-체성분분석기 외.pdf",
+     "path": "data/att/wku/dfd088867aa240839123f10e598fbbb8/규격서-체성분분석기 외.pdf",
+     "bytes": 209344
+    }
+   ],
+   "at": "2026-10-20"
+  },
+  {
+   "org": "원광대학교",
+   "id": "1eec2a1eecd44670ab7cdfdb3c776f24",
+   "title": "열화상카메라 1대 외 7종 구입",
+   "date": "2026-10-19",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-열화상카메라 외.hwp",
+     "path": "data/att/wku/1eec2a1eecd44670ab7cdfdb3c776f24/공고문-열화상카메라 외.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-열화상카메라 외.pdf",
+     "path": "data/att/wku/1eec2a1eecd44670ab7cdfdb3c776f24/규격서-열화상카메라 외.pdf",
+     "bytes": 335838
+    }
+   ],
+   "at": "2026-10-20"
   }
  ],
- "generatedAt": "2026-10-19T00:48:07.775Z",
+ "generatedAt": "2026-10-20T01:32:36.488Z",
  "report": [
   {
    "org": "우리카드",
-   "id": "20261016140442709",
-   "title": "검사정보시스템 재구축(종합평가)",
-   "files": 5,
-   "links": 5
-  },
-  {
-   "job": "hanafn",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
-  },
-  {
-   "org": "한국여자농구연맹",
-   "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 953",
+   "id": "20261019155904021",
+   "title": "[재공고] '26년 우리카드 디지털 채널 접근성 인증 심사 기관 선정",
    "files": 1,
    "links": 1
   },
   {
-   "job": "shinhanlife",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
+   "org": "한국여자농구연맹",
+   "id": "53516",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 954",
+   "files": 1,
+   "links": 1
+  },
+  {
+   "org": "원광대학교",
+   "id": "fb1f9e206abe462db7b47720f74f9999",
+   "title": "원광대학교 대종로 리모델링 토목 및 조경공사 실시설계 용역",
+   "files": 6,
+   "links": 6
+  },
+  {
+   "org": "원광대학교",
+   "id": "f348a938be354d1b9cff5833a2604dc3",
+   "title": "2027년 캘린더 제작 용역",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "원광대학교",
+   "id": "dfd088867aa240839123f10e598fbbb8",
+   "title": "체성분분석기 1대 외 4종",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "1eec2a1eecd44670ab7cdfdb3c776f24",
+   "title": "열화상카메라 1대 외 7종 구입",
+   "files": 2,
+   "links": 2
   }
  ]
 }
