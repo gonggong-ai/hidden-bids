@@ -341,36 +341,6 @@
    "at": "2026-09-20"
   },
   {
-   "org": "우리카드",
-   "id": "20260722150002208",
-   "title": "[제안공고] 국제 정보보호 인증 ISO27001/27017 심사기관 선정(종합평가)",
-   "date": "2026-07-22",
-   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20260722150002208",
-   "files": [
-    {
-     "name": "3_1. 입찰(제안)참가신청서.docx",
-     "path": "data/att/wooricard/20260722150002208/3_1. 입찰(제안)참가신청서.docx",
-     "bytes": 70664
-    },
-    {
-     "name": "3_2. 제안요청서(RFP).docx",
-     "path": "data/att/wooricard/20260722150002208/3_2. 제안요청서(RFP).docx",
-     "bytes": 64537
-    },
-    {
-     "name": "3_3. 제안발표 참여업체 정보.docx",
-     "path": "data/att/wooricard/20260722150002208/3_3. 제안발표 참여업체 정보.docx",
-     "bytes": 18433
-    },
-    {
-     "name": "3_4. 제안요청서(RFP)수령 서약서.docx",
-     "path": "data/att/wooricard/20260722150002208/3_4. 제안요청서(RFP)수령 서약서.docx",
-     "bytes": 19470
-    }
-   ],
-   "at": "2026-09-20"
-  },
-  {
    "org": "한국여자농구연맹",
    "id": "54199",
    "title": "2026-2027시즌 BNK썸 시그니처 굿즈 기획 제작 용역 입찰공고 작성일 2026-08-26 조회수 864",
@@ -3469,51 +3439,201 @@
     }
    ],
    "at": "2026-10-20"
+  },
+  {
+   "org": "원광대학교",
+   "id": "b614d1f3fbd742ff89702f4890d039b5",
+   "title": "2026 현장과 사회의 이해 프로그램 용역",
+   "date": "2026-10-20",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "◆ 용역 공개견적 공고 ◆.hwp",
+     "path": "data/att/wku/b614d1f3fbd742ff89702f4890d039b5/◆ 용역 공개견적 공고 ◆.hwp",
+     "bytes": 147456
+    },
+    {
+     "name": "과업지시서.hwp",
+     "path": "data/att/wku/b614d1f3fbd742ff89702f4890d039b5/과업지시서.hwp",
+     "bytes": 313856
+    }
+   ],
+   "at": "2026-10-21"
+  },
+  {
+   "org": "원광대학교",
+   "id": "956315f82442418ca7c68fbc96452298",
+   "title": "(재공고) [글로컬-지역상생사업] FarmIN Cloude Service 인터페이스 개발 용역",
+   "date": "2026-10-20",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문.hwpx",
+     "path": "data/att/wku/956315f82442418ca7c68fbc96452298/공고문.hwpx",
+     "bytes": 70857
+    },
+    {
+     "name": "1. 과업지시서.pdf",
+     "path": "data/att/wku/956315f82442418ca7c68fbc96452298/1. 과업지시서.pdf",
+     "bytes": 736431
+    }
+   ],
+   "at": "2026-10-21"
+  },
+  {
+   "org": "원광대학교",
+   "id": "aaaa2c79074b4d91a80636570caf9360",
+   "title": "LCD 3D프린터 2대 외 2종 구입",
+   "date": "2026-10-20",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-lcd 3d프린터 외.hwp",
+     "path": "data/att/wku/aaaa2c79074b4d91a80636570caf9360/공고문-lcd 3d프린터 외.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-lcd 3d프린터 외.pdf",
+     "path": "data/att/wku/aaaa2c79074b4d91a80636570caf9360/규격서-lcd 3d프린터 외.pdf",
+     "bytes": 95010
+    }
+   ],
+   "at": "2026-10-21"
+  },
+  {
+   "org": "원광대학교",
+   "id": "d90831926dbf46c8bc38a4389305596a",
+   "title": "구강스캐너 1대 외 1종 구입",
+   "date": "2026-10-20",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-구강스캐너 외.hwp",
+     "path": "data/att/wku/d90831926dbf46c8bc38a4389305596a/공고문-구강스캐너 외.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-구강스캐너 외.pdf",
+     "path": "data/att/wku/d90831926dbf46c8bc38a4389305596a/규격서-구강스캐너 외.pdf",
+     "bytes": 125101
+    }
+   ],
+   "at": "2026-10-21"
+  },
+  {
+   "org": "원광대학교",
+   "id": "38ffa6da253144ea8d11514ffd65648b",
+   "title": "미용의자 12대 구입",
+   "date": "2026-10-20",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-미용의자 12대.hwp",
+     "path": "data/att/wku/38ffa6da253144ea8d11514ffd65648b/공고문-미용의자 12대.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-미용의자 12대.pdf",
+     "path": "data/att/wku/38ffa6da253144ea8d11514ffd65648b/규격서-미용의자 12대.pdf",
+     "bytes": 105270
+    }
+   ],
+   "at": "2026-10-21"
+  },
+  {
+   "org": "원광대학교",
+   "id": "7d8d1a51c22f495fb29e0dcbec076774",
+   "title": "농생명융합관 WITH밸리 공간구축에 따른 칸막이 벽 설치공사",
+   "date": "2026-10-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "4.현장설명 참가 신청서.hwp",
+     "path": "data/att/wku/7d8d1a51c22f495fb29e0dcbec076774/4.현장설명 참가 신청서.hwp",
+     "bytes": 29184
+    },
+    {
+     "name": "1.공개견적 공고문.pdf",
+     "path": "data/att/wku/7d8d1a51c22f495fb29e0dcbec076774/1.공개견적 공고문.pdf",
+     "bytes": 82494
+    },
+    {
+     "name": "2.시방서.pdf",
+     "path": "data/att/wku/7d8d1a51c22f495fb29e0dcbec076774/2.시방서.pdf",
+     "bytes": 43830
+    },
+    {
+     "name": "5.개인정보 이용동의서.hwp",
+     "path": "data/att/wku/7d8d1a51c22f495fb29e0dcbec076774/5.개인정보 이용동의서.hwp",
+     "bytes": 52224
+    },
+    {
+     "name": "3.도면.pdf",
+     "path": "data/att/wku/7d8d1a51c22f495fb29e0dcbec076774/3.도면.pdf",
+     "bytes": 1746036
+    }
+   ],
+   "at": "2026-10-21"
   }
  ],
- "generatedAt": "2026-10-20T01:32:36.488Z",
+ "generatedAt": "2026-10-21T01:18:02.818Z",
  "report": [
   {
-   "org": "우리카드",
-   "id": "20261019155904021",
-   "title": "[재공고] '26년 우리카드 디지털 채널 접근성 인증 심사 기관 선정",
-   "files": 1,
-   "links": 1
+   "job": "hanafn",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
   },
   {
    "org": "한국여자농구연맹",
    "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 954",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 955",
    "files": 1,
    "links": 1
   },
   {
-   "org": "원광대학교",
-   "id": "fb1f9e206abe462db7b47720f74f9999",
-   "title": "원광대학교 대종로 리모델링 토목 및 조경공사 실시설계 용역",
-   "files": 6,
-   "links": 6
+   "job": "shinhanlife",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
   },
   {
    "org": "원광대학교",
-   "id": "f348a938be354d1b9cff5833a2604dc3",
-   "title": "2027년 캘린더 제작 용역",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "원광대학교",
-   "id": "dfd088867aa240839123f10e598fbbb8",
-   "title": "체성분분석기 1대 외 4종",
+   "id": "b614d1f3fbd742ff89702f4890d039b5",
+   "title": "2026 현장과 사회의 이해 프로그램 용역",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "1eec2a1eecd44670ab7cdfdb3c776f24",
-   "title": "열화상카메라 1대 외 7종 구입",
+   "id": "956315f82442418ca7c68fbc96452298",
+   "title": "(재공고) [글로컬-지역상생사업] FarmIN Cloude Service 인터페이스 개발 용역",
    "files": 2,
    "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "aaaa2c79074b4d91a80636570caf9360",
+   "title": "LCD 3D프린터 2대 외 2종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "d90831926dbf46c8bc38a4389305596a",
+   "title": "구강스캐너 1대 외 1종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "38ffa6da253144ea8d11514ffd65648b",
+   "title": "미용의자 12대 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "7d8d1a51c22f495fb29e0dcbec076774",
+   "title": "농생명융합관 WITH밸리 공간구축에 따른 칸막이 벽 설치공사",
+   "files": 5,
+   "links": 5
   }
  ]
 }
