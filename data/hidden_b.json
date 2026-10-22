@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T01:13:46.157Z",
+ "generatedAt": "2026-10-22T01:10:06.653Z",
  "rows": [
   {
    "org": "기아대책",
@@ -80,6 +80,14 @@
    "date": "2026-03-03",
    "dates": "",
    "link": "https://www.kfhi.or.kr/about/news/notice/79160?page=1&rows=10&total=2096&lang=&keyword=&keywordType=&category=notice&type=&display=&from=&to=&sort=id,DESC"
+  },
+  {
+   "org": "사회복지공동모금회",
+   "site": "https://chest.or.kr/bbs/1000/initPostList.do",
+   "title": "2026 베네수엘라 지진 특별모금 ＆ 호우 피해 특별모금 결과보고",
+   "date": "2026-10-13",
+   "dates": "",
+   "link": "https://chest.or.kr/bbs/1000/initPostList.do"
   },
   {
    "org": "사회복지공동모금회",
@@ -170,14 +178,6 @@
    "link": "https://chest.or.kr/bbs/1000/initPostList.do"
   },
   {
-   "org": "사회복지공동모금회",
-   "site": "https://chest.or.kr/bbs/1000/initPostList.do",
-   "title": "계약직 채용 서류전형 합격자 발표(사회공헌)",
-   "date": "2026-07-14",
-   "dates": "",
-   "link": "https://chest.or.kr/bbs/1000/initPostList.do"
-  },
-  {
    "org": "한국여자농구연맹",
    "site": "https://www.wkbl.or.kr/m/news/notice_list.asp",
    "title": "WKBL 홍보마케팅팀 사원 공개 채용 안내",
@@ -256,6 +256,78 @@
    "date": "2026-07-09",
    "dates": "",
    "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=53500&page=1"
+  },
+  {
+   "org": "하나금융그룹",
+   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "title": "[입찰공고] 2027년 하나금융그룹 임원 신년 행사 운영 대행사 선정 * 참가신청서 및 제안서 제출:",
+   "date": "2026-10-22",
+   "dates": "2026-10-29",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
+  },
+  {
+   "org": "하나금융그룹",
+   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "title": "[입찰공고] '2027 하나금융그룹 출발행사' 대행사 선정 제안 요청 * 제안서 및 입찰서류 제출기한 :",
+   "date": "2026-10-16",
+   "dates": "2026-10-23",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
+  },
+  {
+   "org": "하나금융그룹",
+   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "title": "하나 파워 온 스토어 - 소상공인 디지털 전환 기기 지원 전국의 소상공인 사장님들 이제 스마트하게 영업해보세요!",
+   "date": "2026-09-04",
+   "dates": "",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
+  },
+  {
+   "org": "하나금융그룹",
+   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "title": "분기배당 기준일 공고 상법 제354조 및 당사 정관 제44조에 의거하여 아래와 같이 분기배당 기준일을 공고합니다.",
+   "date": "2026-07-24",
+   "dates": "",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
+  },
+  {
+   "org": "하나금융그룹",
+   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "title": "하나 파워 온 스토어 - 소상공인 사업장 환경개선 지원 (~8/11) * 지원대상: 간판 및 실내보수 등 사업장 환경개선을 희망하는 전국 소상공인",
+   "date": "2026-07-21",
+   "dates": "",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
+  },
+  {
+   "org": "하나금융그룹",
+   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "title": "2026년 하나금융그룹과 함께하는 장애인 취업·직무 교육생 모집 (6/23~7/10) 교육기간: 2026년 7월 20일(월) ~ 2026년 10월 20일(화)",
+   "date": "2026-07-20",
+   "dates": "2026-10-20 2026-06-22",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
+  },
+  {
+   "org": "하나금융그룹",
+   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "title": "제20기 하나금융그룹 SMART 홍보대사 최종 합격자 발표 성함과 연락처 뒷자리를 통해 본인 확인이 가능합니다",
+   "date": "2026-06-22",
+   "dates": "",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
+  },
+  {
+   "org": "하나금융그룹",
+   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "title": "금융인재 성장 프로젝트 '하나 K-뉴딜 금융 아카데미' (~7/4) 모집기간:",
+   "date": "2026-06-18",
+   "dates": "2026-07-04 2026-06-18",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
+  },
+  {
+   "org": "하나금융그룹",
+   "site": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "title": "하나 파워 온 스토어 - 소상공인 사업장 고효율 에너지 기기 지원 (~7/2) * 지원대상: 고효율 에너지 기기 지원을 희망하는 전국 소상공인 * 모집기간:",
+   "date": "2026-06-11",
+   "dates": "2026-06-11",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do"
   },
   {
    "org": "을지대학교",
@@ -420,16 +492,96 @@
   {
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "대학)[52985]초고속 리눅스 클러스터 서버 & 대용량 스토리지 증설 구매 요청",
+   "date": "2026-10-22",
+   "dates": "마감 2026-10-30",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)(53077)빔라인 이용자 시료 스퍼터건용 전원 디지털 조절기 구매",
+   "date": "2026-10-22",
+   "dates": "마감 2026-11-02",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)(53099)1C 빔라인 미러 각도 센서 교체 및 위치이동 작업",
+   "date": "2026-10-22",
+   "dates": "마감 2026-11-02",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[11-12095]고성능 전자빔 리소그래피 시스템 유지보수 용역",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "dates": "마감 2026-10-29",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
   {
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)[재공고](52915)유로썸 온도 컨트롤러 예비품 구매",
+   "date": "2026-10-22",
+   "dates": "마감 2026-10-27",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "가속기)(52903) 12D 빔라인 Front-end 분해재조립 및 천공작업",
+   "date": "2026-10-22",
+   "dates": "마감 2026-10-30",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[52964] 냉동절편기",
+   "date": "2026-10-22",
+   "dates": "마감 2026-10-29",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[53052]재료 촉매 계산용 계산노드",
+   "date": "2026-10-22",
+   "dates": "마감 2026-10-29",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[53083]원자 현미경",
+   "date": "2026-10-22",
+   "dates": "마감 2026-10-29",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "대학)[13-4819][13-4820](P0025)경비 및 안전관리 용역",
+   "date": "2026-10-22",
+   "dates": "마감 2026-12-01",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[53085]세슘 기체 셀 외 6건",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
+   "dates": "마감 2026-10-29",
+   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+  },
+  {
+   "org": "포항공과대학교",
+   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
+   "title": "산학)[취소공고][53085]세슘 기체 셀 외 6건",
+   "date": "2026-10-22",
    "dates": "마감 2026-10-29",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -437,7 +589,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[11-12108]AC/DC 소스,전압 전기 계측 장비",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "dates": "마감 2026-10-28",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -445,7 +597,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "대학)[53032]인공지능연구원 4층 화장실 공사 (건축,설비)",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "dates": "마감 2026-11-05",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -453,7 +605,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "산학)[52978]핵융합 실증 모사 장치 전기계장공사",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "dates": "마감 2026-11-06",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -461,7 +613,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "가속기)(53004)PLS-II FPGA FOFB 제어기 교체",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "dates": "마감 2026-10-30",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -469,7 +621,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "가속기)[재공고](12069) XFEL 입사 레이저 빔 stabilizer 구매",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "dates": "마감 2026-10-28",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -477,7 +629,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "가속기)(53046)정밀 자장/전류 측정 시스템 검교정을 위한 다기능 교정기 구매",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "dates": "마감 2026-10-29",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -485,7 +637,7 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "가속기)(53074)저진동 Dry Vacuum pump 구매",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "dates": "마감 2026-10-28",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
@@ -493,89 +645,33 @@
    "org": "포항공과대학교",
    "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
    "title": "가속기)(53047)PLS-II 선형가속기 및 저장링 진공작업용 저진공 펌프 구매",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "dates": "마감 2026-10-28",
    "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
   },
   {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)(53061) 4B 광학장치용 Welded Bellows 구매",
+   "org": "동아대학교",
+   "site": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170",
+   "title": "(재공고)동아대학교 단체복 구매",
    "date": "2026-10-21",
-   "dates": "마감 2026-10-29",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+   "dates": "공고번호 BD20261021-0003",
+   "link": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170"
   },
   {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)[재공고](52941)연구소 안전교육 및 방사선 관리구역 출입 신청 홈페이지 서버 유지보수",
+   "org": "동아대학교",
+   "site": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170",
+   "title": "미래 모빌리티용 첨단 소재부품 공정장비 유지보수 및 챔버 설계·개선 용역",
    "date": "2026-10-21",
-   "dates": "마감 2026-10-29",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+   "dates": "공고번호 BD20261021-0002",
+   "link": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170"
   },
   {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "대학)[53058]Cluster system computing node",
+   "org": "동아대학교",
+   "site": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170",
+   "title": "앵커사업추진단 운동부하검사용 트래드밀 구매",
    "date": "2026-10-21",
-   "dates": "마감 2026-10-28",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)[재공고](52881)PAL DCM Crystal Gap 조정용 진공 리니어 스테이지 예비품",
-   "date": "2026-10-21",
-   "dates": "마감 2026-10-26",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)(53006) PAL-EUV 가속기용 Magnet Power Supply 구매",
-   "date": "2026-10-21",
-   "dates": "마감 2026-11-02",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "대학)[53035]액체헬륨 구매 및 충전",
-   "date": "2026-10-21",
-   "dates": "마감 2026-10-27",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "대학)[재공고][52854] Franka Robotics Research3",
-   "date": "2026-10-21",
-   "dates": "마감 2026-10-26",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "대학)[재공고][52720]교수아파트 노후 승강기 보수 사업",
-   "date": "2026-10-21",
-   "dates": "마감 2026-11-05",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)[재공고](52843) XFEL 진공게이지 컨트롤러 예비품 구매",
-   "date": "2026-10-21",
-   "dates": "마감 2026-10-26",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
-  },
-  {
-   "org": "포항공과대학교",
-   "site": "https://posbid.postech.ac.kr/web/comBidNoticeGuest",
-   "title": "가속기)[재공고](52892) HX2 스크린카메라용 광송수신모듈",
-   "date": "2026-10-21",
-   "dates": "마감 2026-10-26",
-   "link": "https://posbid.postech.ac.kr/web/comBidNoticeGuest"
+   "dates": "공고번호 BD20261021-0001",
+   "link": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170"
   },
   {
    "org": "동아대학교",
@@ -612,18 +708,90 @@
   {
    "org": "동아대학교",
    "site": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170",
-   "title": "동아대학교 단체복 구매",
-   "date": "2026-10-13",
-   "dates": "공고번호 BD20261013-0001",
-   "link": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170"
-  },
-  {
-   "org": "동아대학교",
-   "site": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170",
    "title": "(재공고) 동아대학교 2026학년도 해외봉사활동 용역",
    "date": "2026-09-22",
    "dates": "공고번호 BD20260922-0003",
    "link": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고] 산학협력단 제2026-33호 착용형 모션 캡처 장비 구입 건",
+   "date": "2026-10-21",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=506603&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고] 산학협력단 제2026-35호 설치류 수면 시 글림프시스템 활성 예측을 위한 HRV 활용성 검토 연구용역(재공고)",
+   "date": "2026-10-19",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=504267&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고]제2026-18호_[AI기본교육과정개발지원사업] K-MOOC 콘텐츠 개발 입찰공고(정정공고)",
+   "date": "2026-10-15",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=501183&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고]제2026-17호_[대학혁신지원사업/국고] 방사선학과 PACS 구입(재공고)",
+   "date": "2026-10-08",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=496892&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고] 산학협력단 제2026-34호 동의대학교 우수기술 발굴 및 기술사업화 성과창출 지원",
+   "date": "2026-10-07",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=496115&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고] 산학협력단 제2026-32호 설치류 수면 시 글림프시스템 활성 예측을 위한 HRV 활용성 검토 연구용역",
+   "date": "2026-10-07",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=496114&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고]제2026-19호_[대학혁신지원사업/국고] 로봇공학과 휴머노이드 로봇 구입 입찰공고",
+   "date": "2026-10-06",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=494246&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고]제2026-18호_[AI기본교육과정개발지원사업] K-MOOC 콘텐츠 개발 입찰공고",
+   "date": "2026-10-06",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=494237&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고] 산학협력단 제2026-31호 (동의대학교 산학협력단) 2026년 글로벌 AI 기업 탐방 및 Two Track 해커톤 교육프로그램 운영",
+   "date": "2026-09-29",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=489020&article.offset=0&articleLimit=10"
+  },
+  {
+   "org": "동의대학교",
+   "site": "https://www.deu.ac.kr/www/deu-bids.do",
+   "title": "[입찰공고] 산학협력단 제2026-30호 (동의대학교 산학협력단) [앵커] 지역 특화 AI 산업 연계형 「AI x Local」 융합 교육 프로그램 개발",
+   "date": "2026-09-28",
+   "dates": "",
+   "link": "https://www.deu.ac.kr/www/deu-bids.do?mode=view&articleNo=488503&article.offset=0&articleLimit=10"
   }
  ],
  "report": [
@@ -644,9 +812,9 @@
    "code": 200,
    "rows": 12,
    "sample": [
+    "2026-10-13 2026 베네수엘라 지진 특별모금 ＆ 호우 피해 특별모금 결과보고",
     "2026-10-19 계약직 직원 채용 최종 합격자 발표(임원수행 및 총무)",
-    "2026-10-14 계약직 채용 서류전형 합격자 발표(임원수행 및 총무)",
-    "2026-10-07 2026년도 인턴 모집"
+    "2026-10-14 계약직 채용 서류전형 합격자 발표(임원수행 및 총무)"
    ]
   },
   {
@@ -663,7 +831,13 @@
   {
    "org": "하나금융그룹",
    "url": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
+   "code": 200,
+   "rows": 9,
+   "sample": [
+    "2026-10-22 [입찰공고] 2027년 하나금융그룹 임원 신년 행사 운영 대행사 선정 * 참가신청서 및 제안서 제출:",
+    "2026-10-16 [입찰공고] '2027 하나금융그룹 출발행사' 대행사 선정 제안 요청 * 제안서 및 입찰서류 제출기한 :",
+    "2026-09-04 하나 파워 온 스토어 - 소상공인 디지털 전환 기기 지원 전국의 소상공인 사장님들 이제 스마트하게 영업해보세요!"
+   ]
   },
   {
    "org": "을지대학교",
@@ -693,26 +867,32 @@
    "code": 200,
    "rows": 20,
    "sample": [
-    "2026-10-21 산학)[11-12095]고성능 전자빔 리소그래피 시스템 유지보수 용역",
-    "2026-10-21 산학)[53085]세슘 기체 셀 외 6건",
-    "2026-10-21 산학)[11-12108]AC/DC 소스,전압 전기 계측 장비"
+    "2026-10-22 대학)[52985]초고속 리눅스 클러스터 서버 & 대용량 스토리지 증설 구매 요청",
+    "2026-10-22 가속기)(53077)빔라인 이용자 시료 스퍼터건용 전원 디지털 조절기 구매",
+    "2026-10-22 가속기)(53099)1C 빔라인 미러 각도 센서 교체 및 위치이동 작업"
    ]
   },
   {
    "org": "동아대학교",
    "url": "https://dx.donga.ac.kr/nxui/index.html?ui=simple#5170",
    "code": 200,
-   "rows": 6,
+   "rows": 8,
    "sample": [
-    "2026-10-15 Microsoft사 소프트웨어(OVS-ES) 임대 계약",
-    "2026-10-14 AI 교육·연구용 GPU 및 AI 활용환경 추가 구축",
-    "2026-10-14 G-램프(LAMP)사업단 홀측정기 구매"
+    "2026-10-21 (재공고)동아대학교 단체복 구매",
+    "2026-10-21 미래 모빌리티용 첨단 소재부품 공정장비 유지보수 및 챔버 설계·개선 용역",
+    "2026-10-21 앵커사업추진단 운동부하검사용 트래드밀 구매"
    ]
   },
   {
    "org": "동의대학교",
    "url": "https://www.deu.ac.kr/www/deu-bids.do",
-   "err": "page.goto: net::ERR_TIMED_OUT at https://www.deu.ac.kr/www/deu-bids.do\nCall log:\n  - navigating to \"https://www.deu.ac.kr/www/deu-bids.do\", waiting until \"domcontentloaded\"\n"
+   "code": 200,
+   "rows": 10,
+   "sample": [
+    "2026-10-21 [입찰공고] 산학협력단 제2026-33호 착용형 모션 캡처 장비 구입 건",
+    "2026-10-19 [입찰공고] 산학협력단 제2026-35호 설치류 수면 시 글림프시스템 활성 예측을 위한 HRV 활용성 검토 연구용역(재공고)",
+    "2026-10-15 [입찰공고]제2026-18호_[AI기본교육과정개발지원사업] K-MOOC 콘텐츠 개발 입찰공고(정정공고)"
+   ]
   }
  ]
 }

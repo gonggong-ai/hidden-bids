@@ -3574,18 +3574,120 @@
     }
    ],
    "at": "2026-10-21"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261020102550237",
+   "title": "[입찰공고]검사정보시스템 재구축[DBMS]",
+   "date": "2026-10-22",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261020102550237",
+   "files": [
+    {
+     "name": "4_1. 제품도입 사양[DBMS].xlsx",
+     "path": "data/att/wooricard/20261020102550237/4_1. 제품도입 사양[DBMS].xlsx",
+     "bytes": 26384
+    },
+    {
+     "name": "4_1. 입찰(제안)참가신청서[DBMS].docx",
+     "path": "data/att/wooricard/20261020102550237/4_1. 입찰(제안)참가신청서[DBMS].docx",
+     "bytes": 70016
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20261020102550237/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-10-22"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261020102925672",
+   "title": "[입찰공고]검사정보시스템 재구축[Linux OS]",
+   "date": "2026-10-22",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261020102925672",
+   "files": [
+    {
+     "name": "4_2. 제품도입 사양[Linux OS].xlsx",
+     "path": "data/att/wooricard/20261020102925672/4_2. 제품도입 사양[Linux OS].xlsx",
+     "bytes": 10127
+    },
+    {
+     "name": "4_2. 입찰(제안)참가신청서[Linux OS].docx",
+     "path": "data/att/wooricard/20261020102925672/4_2. 입찰(제안)참가신청서[Linux OS].docx",
+     "bytes": 70118
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20261020102925672/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-10-22"
+  },
+  {
+   "org": "하나금융그룹",
+   "id": "10000151",
+   "title": "[입찰공고] 2027년 하나금융그룹 임원 신년 행사 운영 대행사 선정 * 참가신청서 및 제안서 제출: 2026. 10. 29(목) 오후 17시까지",
+   "date": "2026-10-22",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "files": [
+    {
+     "name": "2027년+하나금융그룹+임원+신년+행사+운영+대행사+선정+제안요청서(RFP).docx",
+     "path": "data/att/hanafn/10000151/2027년+하나금융그룹+임원+신년+행사+운영+대행사+선정+제안요청서(RFP).docx",
+     "bytes": 235742
+    }
+   ],
+   "at": "2026-10-22"
+  },
+  {
+   "org": "원광대학교",
+   "id": "4bbe02c9f26d49b490b05791c7f6a392",
+   "title": "제4회 익산시 복지박람회 연계 특별세션 「AI 복지기업 특별전」 운영 용역",
+   "date": "2026-10-22",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "붙임 1. 공개견적 공고문.hwp",
+     "path": "data/att/wku/4bbe02c9f26d49b490b05791c7f6a392/붙임 1. 공개견적 공고문.hwp",
+     "bytes": 147968
+    },
+    {
+     "name": "붙임 2. 제4회 익산시 복지박람회 연계 특별세션 「ai 복지기업 특별전」 운영 용역 과업지시서.hwp",
+     "path": "data/att/wku/4bbe02c9f26d49b490b05791c7f6a392/붙임 2. 제4회 익산시 복지박람회 연계 특별세션 「ai 복지기업 특별전」 운영 용역 과업지시서.hwp",
+     "bytes": 243200
+    }
+   ],
+   "at": "2026-10-22"
   }
  ],
- "generatedAt": "2026-10-21T01:18:02.818Z",
+ "generatedAt": "2026-10-22T01:13:10.282Z",
  "report": [
   {
-   "job": "hanafn",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
+   "org": "우리카드",
+   "id": "20261020102550237",
+   "title": "[입찰공고]검사정보시스템 재구축[DBMS]",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "우리카드",
+   "id": "20261020102925672",
+   "title": "[입찰공고]검사정보시스템 재구축[Linux OS]",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "하나금융그룹",
+   "id": "10000151",
+   "title": "[입찰공고] 2027년 하나금융그룹 임원 신년 행사 운영 대행사 선정 * 참가신청서 및 제안서 제출: 2026. 10. 29(목) 오후 17시까지",
+   "files": 1,
+   "links": 1
   },
   {
    "org": "한국여자농구연맹",
    "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 955",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 961",
    "files": 1,
    "links": 1
   },
@@ -3595,45 +3697,10 @@
   },
   {
    "org": "원광대학교",
-   "id": "b614d1f3fbd742ff89702f4890d039b5",
-   "title": "2026 현장과 사회의 이해 프로그램 용역",
+   "id": "4bbe02c9f26d49b490b05791c7f6a392",
+   "title": "제4회 익산시 복지박람회 연계 특별세션 「AI 복지기업 특별전」 운영 용역",
    "files": 2,
    "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "956315f82442418ca7c68fbc96452298",
-   "title": "(재공고) [글로컬-지역상생사업] FarmIN Cloude Service 인터페이스 개발 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "aaaa2c79074b4d91a80636570caf9360",
-   "title": "LCD 3D프린터 2대 외 2종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "d90831926dbf46c8bc38a4389305596a",
-   "title": "구강스캐너 1대 외 1종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "38ffa6da253144ea8d11514ffd65648b",
-   "title": "미용의자 12대 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "7d8d1a51c22f495fb29e0dcbec076774",
-   "title": "농생명융합관 WITH밸리 공간구축에 따른 칸막이 벽 설치공사",
-   "files": 5,
-   "links": 5
   }
  ]
 }
