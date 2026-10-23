@@ -3659,35 +3659,98 @@
     }
    ],
    "at": "2026-10-22"
+  },
+  {
+   "org": "원광대학교",
+   "id": "fff63e81af4b4a36bd85e7962e3af108",
+   "title": "(재공고) GPU가속기 1대 외 1종 구매",
+   "date": "2026-10-23",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "재공고문-gpu가속기.hwp",
+     "path": "data/att/wku/fff63e81af4b4a36bd85e7962e3af108/재공고문-gpu가속기.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서(gpu가속기).pdf",
+     "path": "data/att/wku/fff63e81af4b4a36bd85e7962e3af108/규격서(gpu가속기).pdf",
+     "bytes": 115459
+    }
+   ],
+   "at": "2026-10-23"
+  },
+  {
+   "org": "원광대학교",
+   "id": "e9541555bed048839db51aa8166971af",
+   "title": "3D프린터유해가스정화장치 3대 외 1종 구입",
+   "date": "2026-10-22",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-3d프린터유해가스정화장치 외.hwp",
+     "path": "data/att/wku/e9541555bed048839db51aa8166971af/공고문-3d프린터유해가스정화장치 외.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서-3d프린터유해가스정화장치 외.pdf",
+     "path": "data/att/wku/e9541555bed048839db51aa8166971af/규격서-3d프린터유해가스정화장치 외.pdf",
+     "bytes": 293071
+    }
+   ],
+   "at": "2026-10-23"
+  },
+  {
+   "org": "원광대학교",
+   "id": "38a3b4ae2c5b403cb3bcbe5b20268f9f",
+   "title": "교육용로봇팔 4대 외 4종 구입",
+   "date": "2026-10-22",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-교육용로봇팔 외.hwp",
+     "path": "data/att/wku/38a3b4ae2c5b403cb3bcbe5b20268f9f/공고문-교육용로봇팔 외.hwp",
+     "bytes": 71168
+    },
+    {
+     "name": "규격서-교육용로봇팔 외.pdf",
+     "path": "data/att/wku/38a3b4ae2c5b403cb3bcbe5b20268f9f/규격서-교육용로봇팔 외.pdf",
+     "bytes": 192435
+    }
+   ],
+   "at": "2026-10-23"
+  },
+  {
+   "org": "원광대학교",
+   "id": "1ba1138512a04cf48bb706fc46b323e9",
+   "title": "컴퓨터 책상 18대 외 3종 구매",
+   "date": "2026-10-22",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-컴퓨터 책상 외.hwp",
+     "path": "data/att/wku/1ba1138512a04cf48bb706fc46b323e9/공고문-컴퓨터 책상 외.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "구매규격서-컴퓨터 책상 외.pdf",
+     "path": "data/att/wku/1ba1138512a04cf48bb706fc46b323e9/구매규격서-컴퓨터 책상 외.pdf",
+     "bytes": 867330
+    }
+   ],
+   "at": "2026-10-23"
   }
  ],
- "generatedAt": "2026-10-22T01:13:10.282Z",
+ "generatedAt": "2026-10-23T01:14:21.449Z",
  "report": [
   {
-   "org": "우리카드",
-   "id": "20261020102550237",
-   "title": "[입찰공고]검사정보시스템 재구축[DBMS]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20261020102925672",
-   "title": "[입찰공고]검사정보시스템 재구축[Linux OS]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "하나금융그룹",
-   "id": "10000151",
-   "title": "[입찰공고] 2027년 하나금융그룹 임원 신년 행사 운영 대행사 선정 * 참가신청서 및 제안서 제출: 2026. 10. 29(목) 오후 17시까지",
-   "files": 1,
-   "links": 1
+   "job": "hanafn",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
   },
   {
    "org": "한국여자농구연맹",
    "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 961",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 964",
    "files": 1,
    "links": 1
   },
@@ -3697,8 +3760,29 @@
   },
   {
    "org": "원광대학교",
-   "id": "4bbe02c9f26d49b490b05791c7f6a392",
-   "title": "제4회 익산시 복지박람회 연계 특별세션 「AI 복지기업 특별전」 운영 용역",
+   "id": "fff63e81af4b4a36bd85e7962e3af108",
+   "title": "(재공고) GPU가속기 1대 외 1종 구매",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "e9541555bed048839db51aa8166971af",
+   "title": "3D프린터유해가스정화장치 3대 외 1종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "38a3b4ae2c5b403cb3bcbe5b20268f9f",
+   "title": "교육용로봇팔 4대 외 4종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "1ba1138512a04cf48bb706fc46b323e9",
+   "title": "컴퓨터 책상 18대 외 3종 구매",
    "files": 2,
    "links": 2
   }
