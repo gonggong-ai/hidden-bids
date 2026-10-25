@@ -3761,21 +3761,18 @@
    "at": "2026-10-24"
   }
  ],
- "generatedAt": "2026-10-24T01:22:08.016Z",
+ "generatedAt": "2026-10-25T00:48:22.988Z",
  "report": [
   {
    "org": "한국여자농구연맹",
    "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 966",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 967",
    "files": 1,
    "links": 1
   },
   {
-   "org": "신한라이프",
-   "id": "20f44c3bd5224ffaaf2d",
-   "title": "MRO 사무용품 공급업체 선정",
-   "files": 2,
-   "links": 2
+   "job": "shinhanlife",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
   }
  ]
 }
