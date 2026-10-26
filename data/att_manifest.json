@@ -3761,12 +3761,16 @@
    "at": "2026-10-24"
   }
  ],
- "generatedAt": "2026-10-25T00:48:22.988Z",
+ "generatedAt": "2026-10-26T01:01:20.276Z",
  "report": [
+  {
+   "job": "hanafn",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
+  },
   {
    "org": "한국여자농구연맹",
    "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 967",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 968",
    "files": 1,
    "links": 1
   },
