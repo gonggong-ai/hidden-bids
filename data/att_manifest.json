@@ -3759,24 +3759,285 @@
     }
    ],
    "at": "2026-10-24"
+  },
+  {
+   "org": "원광대학교",
+   "id": "c63eb65a4fa9466f928b1e34d439ead5",
+   "title": "2026학년도 챌린지 액션 취업역량강화 캠프 운영 용역",
+   "date": "2026-10-26",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문.pdf",
+     "path": "data/att/wku/c63eb65a4fa9466f928b1e34d439ead5/공고문.pdf",
+     "bytes": 78412
+    },
+    {
+     "name": "2026학년도 챌린지 액션 취업역량강화 캠프 과업지시서.pdf",
+     "path": "data/att/wku/c63eb65a4fa9466f928b1e34d439ead5/2026학년도 챌린지 액션 취업역량강화 캠프 과업지시서.pdf",
+     "bytes": 258256
+    }
+   ],
+   "at": "2026-10-27"
+  },
+  {
+   "org": "원광대학교",
+   "id": "faf979507905498d8a9cd37e631f6e47",
+   "title": "전자칠판 1대 외 2종 구매",
+   "date": "2026-10-26",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-전자칠판 외.hwp",
+     "path": "data/att/wku/faf979507905498d8a9cd37e631f6e47/공고문-전자칠판 외.hwp",
+     "bytes": 68096
+    },
+    {
+     "name": "구매규격서-전자칠판 외.pdf",
+     "path": "data/att/wku/faf979507905498d8a9cd37e631f6e47/구매규격서-전자칠판 외.pdf",
+     "bytes": 144418
+    }
+   ],
+   "at": "2026-10-27"
+  },
+  {
+   "org": "원광대학교",
+   "id": "4d28a4a3096e405fb6defa85405a71d6",
+   "title": "AI스마트미러 1대 구매",
+   "date": "2026-10-26",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-ai스마트미러.hwp",
+     "path": "data/att/wku/4d28a4a3096e405fb6defa85405a71d6/공고문-ai스마트미러.hwp",
+     "bytes": 68096
+    },
+    {
+     "name": "규격서-ai스마트미러.pdf",
+     "path": "data/att/wku/4d28a4a3096e405fb6defa85405a71d6/규격서-ai스마트미러.pdf",
+     "bytes": 107391
+    }
+   ],
+   "at": "2026-10-27"
+  },
+  {
+   "org": "원광대학교",
+   "id": "b016a04411d64c0f8e910ff34e25e97d",
+   "title": "AI두피진단시스템 1대 외 1종 구매",
+   "date": "2026-10-26",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-ai두피진단시스템.hwp",
+     "path": "data/att/wku/b016a04411d64c0f8e910ff34e25e97d/공고문-ai두피진단시스템.hwp",
+     "bytes": 68608
+    },
+    {
+     "name": "규격서-ai두피진단시스템.pdf",
+     "path": "data/att/wku/b016a04411d64c0f8e910ff34e25e97d/규격서-ai두피진단시스템.pdf",
+     "bytes": 114432
+    }
+   ],
+   "at": "2026-10-27"
+  },
+  {
+   "org": "원광대학교",
+   "id": "32c96a4013634c498b4a2cefe698b561",
+   "title": "조립컴퓨터 2대 외 1종 구매",
+   "date": "2026-10-26",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [],
+   "at": "2026-10-27"
+  },
+  {
+   "org": "원광대학교",
+   "id": "087e770cd5aa406183114ef97cc48efa",
+   "title": "교합력측정기 1SET 구매",
+   "date": "2026-10-26",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-교합력측정기.hwp",
+     "path": "data/att/wku/087e770cd5aa406183114ef97cc48efa/공고문-교합력측정기.hwp",
+     "bytes": 68096
+    },
+    {
+     "name": "규격서-교합력측정기.pdf",
+     "path": "data/att/wku/087e770cd5aa406183114ef97cc48efa/규격서-교합력측정기.pdf",
+     "bytes": 130480
+    }
+   ],
+   "at": "2026-10-27"
+  },
+  {
+   "org": "원광대학교",
+   "id": "1cf81c3b328548d78f4ef49495c9482c",
+   "title": "습식석션기 5대 구매",
+   "date": "2026-10-26",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-습식석션기.hwp",
+     "path": "data/att/wku/1cf81c3b328548d78f4ef49495c9482c/공고문-습식석션기.hwp",
+     "bytes": 68096
+    },
+    {
+     "name": "규격서-습식석션기.pdf",
+     "path": "data/att/wku/1cf81c3b328548d78f4ef49495c9482c/규격서-습식석션기.pdf",
+     "bytes": 614122
+    }
+   ],
+   "at": "2026-10-27"
+  },
+  {
+   "org": "원광대학교",
+   "id": "692dd4f92b0a4453885ba2da14bf0ce0",
+   "title": "LED화장대 12대 구매",
+   "date": "2026-10-26",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-led화장대.hwp",
+     "path": "data/att/wku/692dd4f92b0a4453885ba2da14bf0ce0/공고문-led화장대.hwp",
+     "bytes": 68096
+    },
+    {
+     "name": "규격서-led화장대.pdf",
+     "path": "data/att/wku/692dd4f92b0a4453885ba2da14bf0ce0/규격서-led화장대.pdf",
+     "bytes": 86228
+    }
+   ],
+   "at": "2026-10-27"
+  },
+  {
+   "org": "원광대학교",
+   "id": "c6c89de13e8f4d83a3fc35f5ba9276f9",
+   "title": "2026학년도 영·호남 4개대학 교직원 체육대회 원광대학교 단체복 구매",
+   "date": "2026-10-26",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "입찰유의서_물품(협상에의한계약).hwp",
+     "path": "data/att/wku/c6c89de13e8f4d83a3fc35f5ba9276f9/입찰유의서_물품(협상에의한계약).hwp",
+     "bytes": 61440
+    },
+    {
+     "name": "1. 입찰공고문.hwp",
+     "path": "data/att/wku/c6c89de13e8f4d83a3fc35f5ba9276f9/1. 입찰공고문.hwp",
+     "bytes": 51200
+    },
+    {
+     "name": "2. 제안요청서.hwp",
+     "path": "data/att/wku/c6c89de13e8f4d83a3fc35f5ba9276f9/2. 제안요청서.hwp",
+     "bytes": 169472
+    }
+   ],
+   "at": "2026-10-27"
+  },
+  {
+   "org": "원광대학교",
+   "id": "b020dc358aa54dbdad6688688122344d",
+   "title": "2026학년도 영·호남 4개대학 교직원 체육대회 단체복 구매",
+   "date": "2026-10-26",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "1. 입찰공고문.hwp",
+     "path": "data/att/wku/b020dc358aa54dbdad6688688122344d/1. 입찰공고문.hwp",
+     "bytes": 51200
+    },
+    {
+     "name": "입찰유의서_물품(협상에의한계약).hwp",
+     "path": "data/att/wku/b020dc358aa54dbdad6688688122344d/입찰유의서_물품(협상에의한계약).hwp",
+     "bytes": 61440
+    },
+    {
+     "name": "2. 제안요청서.hwp",
+     "path": "data/att/wku/b020dc358aa54dbdad6688688122344d/2. 제안요청서.hwp",
+     "bytes": 169472
+    }
+   ],
+   "at": "2026-10-27"
   }
  ],
- "generatedAt": "2026-10-26T01:01:20.276Z",
+ "generatedAt": "2026-10-27T01:51:14.300Z",
  "report": [
-  {
-   "job": "hanafn",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
-  },
   {
    "org": "한국여자농구연맹",
    "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 968",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 970",
    "files": 1,
    "links": 1
   },
   {
-   "job": "shinhanlife",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
+   "org": "원광대학교",
+   "id": "c63eb65a4fa9466f928b1e34d439ead5",
+   "title": "2026학년도 챌린지 액션 취업역량강화 캠프 운영 용역",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "faf979507905498d8a9cd37e631f6e47",
+   "title": "전자칠판 1대 외 2종 구매",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "4d28a4a3096e405fb6defa85405a71d6",
+   "title": "AI스마트미러 1대 구매",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "b016a04411d64c0f8e910ff34e25e97d",
+   "title": "AI두피진단시스템 1대 외 1종 구매",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "32c96a4013634c498b4a2cefe698b561",
+   "title": "조립컴퓨터 2대 외 1종 구매",
+   "files": 0,
+   "links": 0
+  },
+  {
+   "org": "원광대학교",
+   "id": "087e770cd5aa406183114ef97cc48efa",
+   "title": "교합력측정기 1SET 구매",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "1cf81c3b328548d78f4ef49495c9482c",
+   "title": "습식석션기 5대 구매",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "692dd4f92b0a4453885ba2da14bf0ce0",
+   "title": "LED화장대 12대 구매",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "c6c89de13e8f4d83a3fc35f5ba9276f9",
+   "title": "2026학년도 영·호남 4개대학 교직원 체육대회 원광대학교 단체복 구매",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "원광대학교",
+   "id": "b020dc358aa54dbdad6688688122344d",
+   "title": "2026학년도 영·호남 4개대학 교직원 체육대회 단체복 구매",
+   "files": 3,
+   "links": 3
   }
  ]
 }
