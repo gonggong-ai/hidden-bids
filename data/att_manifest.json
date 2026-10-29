@@ -1632,26 +1632,6 @@
   },
   {
    "org": "원광대학교",
-   "id": "2421b3b1095044fd99dd0f3369fcdb9b",
-   "title": "앵커사업단 홍보물품(실리콘부항) 제작 용역",
-   "date": "2026-07-30",
-   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
-   "files": [
-    {
-     "name": "공고문.hwp",
-     "path": "data/att/wku/2421b3b1095044fd99dd0f3369fcdb9b/공고문.hwp",
-     "bytes": 81920
-    },
-    {
-     "name": "과업지시서.hwp",
-     "path": "data/att/wku/2421b3b1095044fd99dd0f3369fcdb9b/과업지시서.hwp",
-     "bytes": 114688
-    }
-   ],
-   "at": "2026-09-23"
-  },
-  {
-   "org": "원광대학교",
    "id": "abbdae5dcd2046eda826f5f6acfeb2c7",
    "title": "냉난방기 9대 구매 설치",
    "date": "2026-09-08",
@@ -4089,58 +4069,154 @@
     }
    ],
    "at": "2026-10-28"
+  },
+  {
+   "org": "원광대학교",
+   "id": "ca9d040a65344761ab1f60a55b81b737",
+   "title": "[글로컬-지역상생사업] 한의 진료수행 음성 데이터 구축 및 교육 콘텐츠 제작 용역",
+   "date": "2026-10-28",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "1. 공고문.hwp",
+     "path": "data/att/wku/ca9d040a65344761ab1f60a55b81b737/1. 공고문.hwp",
+     "bytes": 127488
+    },
+    {
+     "name": "1. 과업지시서.pdf",
+     "path": "data/att/wku/ca9d040a65344761ab1f60a55b81b737/1. 과업지시서.pdf",
+     "bytes": 124897
+    }
+   ],
+   "at": "2026-10-29"
+  },
+  {
+   "org": "원광대학교",
+   "id": "7810235eaa134aa2a66d55b2fec4ca54",
+   "title": "[글로컬-지역상생사업] 한의 모의진료 영상 데이터 구축 및 진단 성능평가 용역",
+   "date": "2026-10-28",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "1. 공고문.hwp",
+     "path": "data/att/wku/7810235eaa134aa2a66d55b2fec4ca54/1. 공고문.hwp",
+     "bytes": 127488
+    },
+    {
+     "name": "1. 과업지시서.pdf",
+     "path": "data/att/wku/7810235eaa134aa2a66d55b2fec4ca54/1. 과업지시서.pdf",
+     "bytes": 118930
+    }
+   ],
+   "at": "2026-10-29"
+  },
+  {
+   "org": "원광대학교",
+   "id": "4e3b35758b824e9dbddc7a6cde16409e",
+   "title": "보건과학관 간호대학 실습실 급,배수 신설 공사",
+   "date": "2026-10-21",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "1.공개견적 공고문.hwp",
+     "path": "data/att/wku/4e3b35758b824e9dbddc7a6cde16409e/1.공개견적 공고문.hwp",
+     "bytes": 76288
+    },
+    {
+     "name": "2.특기시방서.hwp",
+     "path": "data/att/wku/4e3b35758b824e9dbddc7a6cde16409e/2.특기시방서.hwp",
+     "bytes": 60416
+    },
+    {
+     "name": "3.도면.pdf",
+     "path": "data/att/wku/4e3b35758b824e9dbddc7a6cde16409e/3.도면.pdf",
+     "bytes": 3216216
+    },
+    {
+     "name": "4.현장설명 참가 신청서.hwp",
+     "path": "data/att/wku/4e3b35758b824e9dbddc7a6cde16409e/4.현장설명 참가 신청서.hwp",
+     "bytes": 38400
+    },
+    {
+     "name": "5.개인정보 이용동의서.hwp",
+     "path": "data/att/wku/4e3b35758b824e9dbddc7a6cde16409e/5.개인정보 이용동의서.hwp",
+     "bytes": 63488
+    }
+   ],
+   "at": "2026-10-29"
+  },
+  {
+   "org": "원광대학교",
+   "id": "75f2dd7df2584e298b73b143142bb698",
+   "title": "보건과학관 간호대학 실습실 급,배수 신설 공사",
+   "date": "2026-10-21",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "1.공개견적 공고문.hwp",
+     "path": "data/att/wku/75f2dd7df2584e298b73b143142bb698/1.공개견적 공고문.hwp",
+     "bytes": 76288
+    },
+    {
+     "name": "2.특기시방서.hwp",
+     "path": "data/att/wku/75f2dd7df2584e298b73b143142bb698/2.특기시방서.hwp",
+     "bytes": 60416
+    },
+    {
+     "name": "3.도면.pdf",
+     "path": "data/att/wku/75f2dd7df2584e298b73b143142bb698/3.도면.pdf",
+     "bytes": 3216216
+    },
+    {
+     "name": "4.현장설명 참가 신청서.hwp",
+     "path": "data/att/wku/75f2dd7df2584e298b73b143142bb698/4.현장설명 참가 신청서.hwp",
+     "bytes": 38400
+    },
+    {
+     "name": "5.개인정보 이용동의서.hwp",
+     "path": "data/att/wku/75f2dd7df2584e298b73b143142bb698/5.개인정보 이용동의서.hwp",
+     "bytes": 63488
+    }
+   ],
+   "at": "2026-10-29"
   }
  ],
- "generatedAt": "2026-10-28T02:03:33.907Z",
+ "generatedAt": "2026-10-29T02:06:36.181Z",
  "report": [
-  {
-   "org": "우리카드",
-   "id": "20261027144419018",
-   "title": "[제안공고] 정보보호관리시스템 재구축(종합평가)",
-   "files": 5,
-   "links": 5
-  },
-  {
-   "org": "우리카드",
-   "id": "20261027145245474",
-   "title": "[입찰공고] 정보보호관리시스템 재구축[이중화솔루션]",
-   "files": 3,
-   "links": 3
-  },
   {
    "org": "한국여자농구연맹",
    "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 971",
+   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 972",
    "files": 1,
    "links": 1
   },
   {
    "org": "원광대학교",
-   "id": "f98712458b5247b8b03423dc3533bdf6",
-   "title": "회의용 테이블 1대 외 16종 구입",
+   "id": "ca9d040a65344761ab1f60a55b81b737",
+   "title": "[글로컬-지역상생사업] 한의 진료수행 음성 데이터 구축 및 교육 콘텐츠 제작 용역",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "9207bc8dce314d78b655984a224908f6",
-   "title": "덕트리스후드 2대 외 8종 구입",
+   "id": "7810235eaa134aa2a66d55b2fec4ca54",
+   "title": "[글로컬-지역상생사업] 한의 모의진료 영상 데이터 구축 및 진단 성능평가 용역",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "20f79382835343cb95a2be1700b107e2",
-   "title": "노트북 2대 외 8종 구매",
-   "files": 2,
-   "links": 2
+   "id": "4e3b35758b824e9dbddc7a6cde16409e",
+   "title": "보건과학관 간호대학 실습실 급,배수 신설 공사",
+   "files": 5,
+   "links": 5
   },
   {
    "org": "원광대학교",
-   "id": "32c96a4013634c498b4a2cefe698b561",
-   "title": "조립컴퓨터 2대 외 1종 구매",
-   "files": 2,
-   "links": 2
+   "id": "75f2dd7df2584e298b73b143142bb698",
+   "title": "보건과학관 간호대학 실습실 급,배수 신설 공사",
+   "files": 5,
+   "links": 5
   }
  ]
 }
