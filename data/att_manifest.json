@@ -546,26 +546,6 @@
    "at": "2026-09-21"
   },
   {
-   "org": "신한라이프",
-   "id": "a3ca36c41858429e9814",
-   "title": "MS 제품 및 Prophet 관련 SW 버전 업그레이드 업체 선정",
-   "date": "2026-07-31",
-   "link": "https://www.shinhanlife.co.kr/hp/cdhi0510.do",
-   "files": [
-    {
-     "name": "첨부1.[MS 제품 및 Prophet 관련 SW 버전 업그레이드 추진] 비밀유지서약서.doc",
-     "path": "data/att/shinhanlife/a3ca36c41858429e9814/첨부1.[MS 제품 및 Prophet 관련 SW 버전 업그레이드 추진] 비밀유지서약서.doc",
-     "bytes": 47616
-    },
-    {
-     "name": "첨부2.[MS 제품 및 Prophet 관련 SW 버전 업그레이드 추진] 입찰참가신청서.doc",
-     "path": "data/att/shinhanlife/a3ca36c41858429e9814/첨부2.[MS 제품 및 Prophet 관련 SW 버전 업그레이드 추진] 입찰참가신청서.doc",
-     "bytes": 40448
-    }
-   ],
-   "at": "2026-09-21"
-  },
-  {
    "org": "원광대학교",
    "id": "a21c5820d6b7407785fee31a37f1ed56",
    "title": "(재공고) 비침습인젝터 3대 외 2종 구입",
@@ -4179,42 +4159,199 @@
     }
    ],
    "at": "2026-10-29"
+  },
+  {
+   "org": "원광대학교",
+   "id": "e146c30ab1614e3db795d4c28a79dbfe",
+   "title": "생명자원과학관 석면 철거 공사(농생명융합대학 거점화 센터 구축)(2차)",
+   "date": "2026-10-29",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "입찰유의서_공사.hwp",
+     "path": "data/att/wku/e146c30ab1614e3db795d4c28a79dbfe/입찰유의서_공사.hwp",
+     "bytes": 70656
+    },
+    {
+     "name": "입찰참가서류양식.hwp",
+     "path": "data/att/wku/e146c30ab1614e3db795d4c28a79dbfe/입찰참가서류양식.hwp",
+     "bytes": 48128
+    },
+    {
+     "name": "설계도서(공고용).zip",
+     "path": "data/att/wku/e146c30ab1614e3db795d4c28a79dbfe/설계도서(공고용).zip",
+     "bytes": 9230188
+    },
+    {
+     "name": "현장설명조서(공고문).hwp",
+     "path": "data/att/wku/e146c30ab1614e3db795d4c28a79dbfe/현장설명조서(공고문).hwp",
+     "bytes": 111104
+    },
+    {
+     "name": "입찰공고문.hwp",
+     "path": "data/att/wku/e146c30ab1614e3db795d4c28a79dbfe/입찰공고문.hwp",
+     "bytes": 61440
+    }
+   ],
+   "at": "2026-10-30"
+  },
+  {
+   "org": "원광대학교",
+   "id": "3f87399406ed4690b194f66eba0c4875",
+   "title": "(재공고) 미용의자 12대 구입",
+   "date": "2026-10-29",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "규격서-미용의자 12대.pdf",
+     "path": "data/att/wku/3f87399406ed4690b194f66eba0c4875/규격서-미용의자 12대.pdf",
+     "bytes": 105270
+    },
+    {
+     "name": "재공고문-미용의자 12대.hwp",
+     "path": "data/att/wku/3f87399406ed4690b194f66eba0c4875/재공고문-미용의자 12대.hwp",
+     "bytes": 140800
+    }
+   ],
+   "at": "2026-10-30"
+  },
+  {
+   "org": "원광대학교",
+   "id": "ed6a7ceafb55499b8172f013e02a1d6e",
+   "title": "각 관 소방 분말소화기(3.3kg) 및 축광표지(걸이포함) 설치공사",
+   "date": "2026-10-22",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "4.현장설명 참가 신청서.hwp",
+     "path": "data/att/wku/ed6a7ceafb55499b8172f013e02a1d6e/4.현장설명 참가 신청서.hwp",
+     "bytes": 29184
+    },
+    {
+     "name": "2.시방서.pdf",
+     "path": "data/att/wku/ed6a7ceafb55499b8172f013e02a1d6e/2.시방서.pdf",
+     "bytes": 38054
+    },
+    {
+     "name": "5.개인정보 이용동의서.hwp",
+     "path": "data/att/wku/ed6a7ceafb55499b8172f013e02a1d6e/5.개인정보 이용동의서.hwp",
+     "bytes": 52224
+    },
+    {
+     "name": "1.공개견적 공고문.pdf",
+     "path": "data/att/wku/ed6a7ceafb55499b8172f013e02a1d6e/1.공개견적 공고문.pdf",
+     "bytes": 79935
+    },
+    {
+     "name": "3.소화기 교체 현황.pdf",
+     "path": "data/att/wku/ed6a7ceafb55499b8172f013e02a1d6e/3.소화기 교체 현황.pdf",
+     "bytes": 2212864
+    }
+   ],
+   "at": "2026-10-30"
+  },
+  {
+   "org": "원광대학교",
+   "id": "5e68c48f730b449298f09b194a0d33e2",
+   "title": "경상관 외 3개관 변전실 절연유 교체공사",
+   "date": "2026-10-21",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공개견적 공고(개인정보동의서 포함).hwp",
+     "path": "data/att/wku/5e68c48f730b449298f09b194a0d33e2/공개견적 공고(개인정보동의서 포함).hwp",
+     "bytes": 28160
+    },
+    {
+     "name": "도면.pdf",
+     "path": "data/att/wku/5e68c48f730b449298f09b194a0d33e2/도면.pdf",
+     "bytes": 371555
+    }
+   ],
+   "at": "2026-10-30"
+  },
+  {
+   "org": "원광대학교",
+   "id": "e57e553acb8645ada63352f1cde98889",
+   "title": "학생회관 2층 신문방송사 스튜디오실 수장공사",
+   "date": "2026-10-22",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "4.현장설명 참가 신청서.hwp",
+     "path": "data/att/wku/e57e553acb8645ada63352f1cde98889/4.현장설명 참가 신청서.hwp",
+     "bytes": 29184
+    },
+    {
+     "name": "2.시방서.pdf",
+     "path": "data/att/wku/e57e553acb8645ada63352f1cde98889/2.시방서.pdf",
+     "bytes": 38015
+    },
+    {
+     "name": "5.개인정보 이용동의서.hwp",
+     "path": "data/att/wku/e57e553acb8645ada63352f1cde98889/5.개인정보 이용동의서.hwp",
+     "bytes": 52224
+    },
+    {
+     "name": "1.공개견적 공고문.pdf",
+     "path": "data/att/wku/e57e553acb8645ada63352f1cde98889/1.공개견적 공고문.pdf",
+     "bytes": 80447
+    },
+    {
+     "name": "3.도면.pdf",
+     "path": "data/att/wku/e57e553acb8645ada63352f1cde98889/3.도면.pdf",
+     "bytes": 2457480
+    }
+   ],
+   "at": "2026-10-30"
   }
  ],
- "generatedAt": "2026-10-29T02:06:36.181Z",
+ "generatedAt": "2026-10-30T02:30:34.955Z",
  "report": [
   {
-   "org": "한국여자농구연맹",
-   "id": "53516",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 작성일 2026-07-13 조회수 972",
-   "files": 1,
-   "links": 1
+   "job": "wooricard",
+   "err": "목록 데이터를 세 번 다 못 읽음"
+  },
+  {
+   "job": "hanafn",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+   "job": "shinhanlife",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
   },
   {
    "org": "원광대학교",
-   "id": "ca9d040a65344761ab1f60a55b81b737",
-   "title": "[글로컬-지역상생사업] 한의 진료수행 음성 데이터 구축 및 교육 콘텐츠 제작 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "7810235eaa134aa2a66d55b2fec4ca54",
-   "title": "[글로컬-지역상생사업] 한의 모의진료 영상 데이터 구축 및 진단 성능평가 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "4e3b35758b824e9dbddc7a6cde16409e",
-   "title": "보건과학관 간호대학 실습실 급,배수 신설 공사",
+   "id": "e146c30ab1614e3db795d4c28a79dbfe",
+   "title": "생명자원과학관 석면 철거 공사(농생명융합대학 거점화 센터 구축)(2차)",
    "files": 5,
    "links": 5
   },
   {
    "org": "원광대학교",
-   "id": "75f2dd7df2584e298b73b143142bb698",
-   "title": "보건과학관 간호대학 실습실 급,배수 신설 공사",
+   "id": "3f87399406ed4690b194f66eba0c4875",
+   "title": "(재공고) 미용의자 12대 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "ed6a7ceafb55499b8172f013e02a1d6e",
+   "title": "각 관 소방 분말소화기(3.3kg) 및 축광표지(걸이포함) 설치공사",
+   "files": 5,
+   "links": 5
+  },
+  {
+   "org": "원광대학교",
+   "id": "5e68c48f730b449298f09b194a0d33e2",
+   "title": "경상관 외 3개관 변전실 절연유 교체공사",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "e57e553acb8645ada63352f1cde98889",
+   "title": "학생회관 2층 신문방송사 스튜디오실 수장공사",
    "files": 5,
    "links": 5
   }
