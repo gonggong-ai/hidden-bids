@@ -4304,17 +4304,215 @@
     }
    ],
    "at": "2026-10-30"
-  }
- ],
- "generatedAt": "2026-10-30T02:30:34.955Z",
- "report": [
-  {
-   "job": "wooricard",
-   "err": "목록 데이터를 세 번 다 못 읽음"
   },
   {
-   "job": "hanafn",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
+   "org": "우리카드",
+   "id": "20261030105030164",
+   "title": "[제안공고] 서버 이상행위탐지(EDR) 시스템 구축(종합평가)",
+   "date": "2026-10-30",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261030105030164",
+   "files": [
+    {
+     "name": "1. 입찰(제안)참가신청서_서버 이상행위탐지(EDR) 시스템 구축.docx",
+     "path": "data/att/wooricard/20261030105030164/1. 입찰(제안)참가신청서_서버 이상행위탐지(EDR) 시스템 구축.docx",
+     "bytes": 67609
+    },
+    {
+     "name": "2. 가격제안서 및 제안참가 서약서_서버 이상행위탐지(EDR) 시스템 구축.docx",
+     "path": "data/att/wooricard/20261030105030164/2. 가격제안서 및 제안참가 서약서_서버 이상행위탐지(EDR) 시스템 구축.docx",
+     "bytes": 20183
+    },
+    {
+     "name": "3. 제안발표 참여업체 정보_서버 이상행위탐지(EDR) 시스템 구축.docx",
+     "path": "data/att/wooricard/20261030105030164/3. 제안발표 참여업체 정보_서버 이상행위탐지(EDR) 시스템 구축.docx",
+     "bytes": 18378
+    },
+    {
+     "name": "4. 제안요청서(RFP)수령 서약서_서버 이상행위탐지(EDR) 시스템 구축.docx",
+     "path": "data/att/wooricard/20261030105030164/4. 제안요청서(RFP)수령 서약서_서버 이상행위탐지(EDR) 시스템 구축.docx",
+     "bytes": 19622
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20261030105030164/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-10-31"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261029151845557",
+   "title": "[재공고]검사정보시스템 재구축(종합평가)",
+   "date": "2026-10-29",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261029151845557",
+   "files": [
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20261029151845557/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    },
+    {
+     "name": "붙임3_1. 입찰(제안)참가신청서_검사정보시스템 재구축.hwp",
+     "path": "data/att/wooricard/20261029151845557/붙임3_1. 입찰(제안)참가신청서_검사정보시스템 재구축.hwp",
+     "bytes": 200192
+    },
+    {
+     "name": "붙임3_2. 가격 제안서 및 제안참가 서약서_검사정보시스템 재구축.hwp",
+     "path": "data/att/wooricard/20261029151845557/붙임3_2. 가격 제안서 및 제안참가 서약서_검사정보시스템 재구축.hwp",
+     "bytes": 36864
+    },
+    {
+     "name": "붙임3_3. 제안발표 참여업체 정보_검사정보시스템 재구축.hwp",
+     "path": "data/att/wooricard/20261029151845557/붙임3_3. 제안발표 참여업체 정보_검사정보시스템 재구축.hwp",
+     "bytes": 41984
+    },
+    {
+     "name": "붙임3_4. 우리카드 제안요청서(RFP) 수령 서약서_검사정보시스템 재구축.hwp",
+     "path": "data/att/wooricard/20261029151845557/붙임3_4. 우리카드 제안요청서(RFP) 수령 서약서_검사정보시스템 재구축.hwp",
+     "bytes": 60928
+    }
+   ],
+   "at": "2026-10-31"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261029142018295",
+   "title": "[제안공고] 모바일 Web/App 고도화(종합평가)",
+   "date": "2026-10-29",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261029142018295",
+   "files": [
+    {
+     "name": "1. 입찰(제안)참가신청서_모바일 Web,App 고도화.docx",
+     "path": "data/att/wooricard/20261029142018295/1. 입찰(제안)참가신청서_모바일 Web,App 고도화.docx",
+     "bytes": 67643
+    },
+    {
+     "name": "2. 가격제안서 및 제안참가 서약서_모바일 Web,App 고도화.docx",
+     "path": "data/att/wooricard/20261029142018295/2. 가격제안서 및 제안참가 서약서_모바일 Web,App 고도화.docx",
+     "bytes": 20174
+    },
+    {
+     "name": "3. 제안발표 참여업체 정보_모바일 Web,App 고도화.docx",
+     "path": "data/att/wooricard/20261029142018295/3. 제안발표 참여업체 정보_모바일 Web,App 고도화.docx",
+     "bytes": 18371
+    },
+    {
+     "name": "4. 제안요청서(RFP)수령 서약서_모바일 Web,App 고도화.docx",
+     "path": "data/att/wooricard/20261029142018295/4. 제안요청서(RFP)수령 서약서_모바일 Web,App 고도화.docx",
+     "bytes": 19618
+    }
+   ],
+   "at": "2026-10-31"
+  },
+  {
+   "org": "원광대학교",
+   "id": "d1049c3e5bc54672a0e915ce925af8e6",
+   "title": "전북특별자치도 외국인 유학생 유치·관리·취업·정주 정책연구 제안서 평가위원(후보자) 모집 공고",
+   "date": "2026-10-30",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "전북특별자치도 외국인 유학생유치·관리·취업·정주 정책연구 제안서 평가위원후보자 모집 공고_최종.hwpx",
+     "path": "data/att/wku/d1049c3e5bc54672a0e915ce925af8e6/전북특별자치도 외국인 유학생유치·관리·취업·정주 정책연구 제안서 평가위원후보자 모집 공고_최종.hwpx",
+     "bytes": 85899
+    }
+   ],
+   "at": "2026-10-31"
+  },
+  {
+   "org": "원광대학교",
+   "id": "ea39e13a59d54aae8569bb8a0acd3137",
+   "title": "농식품융합대학 석면공사로 인한 물품 이전",
+   "date": "2026-10-30",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "2-1생명자원과학관 물품 이동 현황.xlsx",
+     "path": "data/att/wku/ea39e13a59d54aae8569bb8a0acd3137/2-1생명자원과학관 물품 이동 현황.xlsx",
+     "bytes": 84607
+    },
+    {
+     "name": "1공고문(농식품융합대학 석면공사로 인한 물품이전).hwp",
+     "path": "data/att/wku/ea39e13a59d54aae8569bb8a0acd3137/1공고문(농식품융합대학 석면공사로 인한 물품이전).hwp",
+     "bytes": 81920
+    },
+    {
+     "name": "2과업지시서(농식품융합대학 석면공사로 인한 물품이전).hwp",
+     "path": "data/att/wku/ea39e13a59d54aae8569bb8a0acd3137/2과업지시서(농식품융합대학 석면공사로 인한 물품이전).hwp",
+     "bytes": 80384
+    }
+   ],
+   "at": "2026-10-31"
+  },
+  {
+   "org": "원광대학교",
+   "id": "6960302e19d44121ab4f6bb7955f84b0",
+   "title": "실험 시약(Dextran 40 Pharmaceutical Quality EP 외 2종) 구매",
+   "date": "2026-10-30",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-실험 시약.hwp",
+     "path": "data/att/wku/6960302e19d44121ab4f6bb7955f84b0/공고문-실험 시약.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "구매규격서-실험 시약.pdf",
+     "path": "data/att/wku/6960302e19d44121ab4f6bb7955f84b0/구매규격서-실험 시약.pdf",
+     "bytes": 173731
+    }
+   ],
+   "at": "2026-10-31"
+  },
+  {
+   "org": "원광대학교",
+   "id": "36b6789465dc49cb8be88d17e5521735",
+   "title": "(재공고)2027년 캘린더 제작 용역",
+   "date": "2026-10-30",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "입찰유의서_용역(제안서_평가).hwp",
+     "path": "data/att/wku/36b6789465dc49cb8be88d17e5521735/입찰유의서_용역(제안서_평가).hwp",
+     "bytes": 49152
+    },
+    {
+     "name": "[붙임2-제안요청서]2027년캘린더(재공고).hwp",
+     "path": "data/att/wku/36b6789465dc49cb8be88d17e5521735/[붙임2-제안요청서]2027년캘린더(재공고).hwp",
+     "bytes": 71680
+    },
+    {
+     "name": "[붙임1-공개견적공고문]2027년캘린더(재공고).hwp",
+     "path": "data/att/wku/36b6789465dc49cb8be88d17e5521735/[붙임1-공개견적공고문]2027년캘린더(재공고).hwp",
+     "bytes": 78336
+    }
+   ],
+   "at": "2026-10-31"
+  }
+ ],
+ "generatedAt": "2026-10-31T02:01:55.550Z",
+ "report": [
+  {
+   "org": "우리카드",
+   "id": "20261030105030164",
+   "title": "[제안공고] 서버 이상행위탐지(EDR) 시스템 구축(종합평가)",
+   "files": 5,
+   "links": 5
+  },
+  {
+   "org": "우리카드",
+   "id": "20261029151845557",
+   "title": "[재공고]검사정보시스템 재구축(종합평가)",
+   "files": 5,
+   "links": 5
+  },
+  {
+   "org": "우리카드",
+   "id": "20261029142018295",
+   "title": "[제안공고] 모바일 Web/App 고도화(종합평가)",
+   "files": 4,
+   "links": 4
   },
   {
    "job": "shinhanlife",
@@ -4322,38 +4520,31 @@
   },
   {
    "org": "원광대학교",
-   "id": "e146c30ab1614e3db795d4c28a79dbfe",
-   "title": "생명자원과학관 석면 철거 공사(농생명융합대학 거점화 센터 구축)(2차)",
-   "files": 5,
-   "links": 5
+   "id": "d1049c3e5bc54672a0e915ce925af8e6",
+   "title": "전북특별자치도 외국인 유학생 유치·관리·취업·정주 정책연구 제안서 평가위원(후보자) 모집 공고",
+   "files": 1,
+   "links": 1
   },
   {
    "org": "원광대학교",
-   "id": "3f87399406ed4690b194f66eba0c4875",
-   "title": "(재공고) 미용의자 12대 구입",
+   "id": "ea39e13a59d54aae8569bb8a0acd3137",
+   "title": "농식품융합대학 석면공사로 인한 물품 이전",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "원광대학교",
+   "id": "6960302e19d44121ab4f6bb7955f84b0",
+   "title": "실험 시약(Dextran 40 Pharmaceutical Quality EP 외 2종) 구매",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "ed6a7ceafb55499b8172f013e02a1d6e",
-   "title": "각 관 소방 분말소화기(3.3kg) 및 축광표지(걸이포함) 설치공사",
-   "files": 5,
-   "links": 5
-  },
-  {
-   "org": "원광대학교",
-   "id": "5e68c48f730b449298f09b194a0d33e2",
-   "title": "경상관 외 3개관 변전실 절연유 교체공사",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "e57e553acb8645ada63352f1cde98889",
-   "title": "학생회관 2층 신문방송사 스튜디오실 수장공사",
-   "files": 5,
-   "links": 5
+   "id": "36b6789465dc49cb8be88d17e5521735",
+   "title": "(재공고)2027년 캘린더 제작 용역",
+   "files": 3,
+   "links": 3
   }
  ]
 }
