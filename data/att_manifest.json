@@ -356,21 +356,6 @@
    "at": "2026-09-20"
   },
   {
-   "org": "한국여자농구연맹",
-   "id": "53903",
-   "title": "2026 KB스타즈 경기 운영·홍보 및 마케팅 입찰 공고 (재공고) 작성일 2026-08-03 조회수 764",
-   "date": "2026-08-03",
-   "link": "https://www.wkbl.or.kr/m/news/notice_view.asp?num=53903&page=1",
-   "files": [
-    {
-     "name": "2026 KB스타즈 대행사 선정 입찰 재공고 (경기운영,홍보,마케팅).zip",
-     "path": "data/att/wkbl/53903/2026 KB스타즈 대행사 선정 입찰 재공고 (경기운영,홍보,마케팅).zip",
-     "bytes": 607246
-    }
-   ],
-   "at": "2026-09-20"
-  },
-  {
    "org": "신한라이프",
    "id": "72e726b81c394a08b3f2",
    "title": "재무통합 스토리지 공급업체 선정",
@@ -4511,14 +4496,11 @@
    "at": "2026-11-01"
   }
  ],
- "generatedAt": "2026-11-01T01:49:23.515Z",
+ "generatedAt": "2026-11-02T02:04:57.652Z",
  "report": [
   {
-   "org": "신한라이프",
-   "id": "97044552ec894c85859c",
-   "title": "2026년 지점 출입보안업체 선정",
-   "files": 2,
-   "links": 2
+   "job": "shinhanlife",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
   }
  ]
 }
