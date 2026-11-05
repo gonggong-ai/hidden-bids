@@ -281,31 +281,6 @@
    "at": "2026-09-20"
   },
   {
-   "org": "우리카드",
-   "id": "20260806140942567",
-   "title": "[입찰공고] 미들웨어 EOS버전 업그레이드",
-   "date": "2026-08-06",
-   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20260806140942567",
-   "files": [
-    {
-     "name": "1. 제품도입 사양_미들웨어 EOS버전 업그레이드.xlsx",
-     "path": "data/att/wooricard/20260806140942567/1. 제품도입 사양_미들웨어 EOS버전 업그레이드.xlsx",
-     "bytes": 25891
-    },
-    {
-     "name": "2. 입찰(제안)참가신청서_미들웨어 EOS버전 업그레이드.docx",
-     "path": "data/att/wooricard/20260806140942567/2. 입찰(제안)참가신청서_미들웨어 EOS버전 업그레이드.docx",
-     "bytes": 67521
-    },
-    {
-     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
-     "path": "data/att/wooricard/20260806140942567/WCPM_사용자매뉴얼(협력사용).pdf",
-     "bytes": 3391618
-    }
-   ],
-   "at": "2026-09-20"
-  },
-  {
    "org": "한국여자농구연맹",
    "id": "54199",
    "title": "2026-2027시즌 BNK썸 시그니처 굿즈 기획 제작 용역 입찰공고 작성일 2026-08-26 조회수 864",
@@ -4694,60 +4669,103 @@
     }
    ],
    "at": "2026-11-04"
+  },
+  {
+   "org": "신한라이프",
+   "id": "297d5ea81eb144fca335",
+   "title": "노후 OA기기(노트북)공급업체 선정",
+   "date": "2026-11-04",
+   "link": "https://www.shinhanlife.co.kr/hp/cdhi0510.do",
+   "files": [
+    {
+     "name": "첨부1. [노후 OA기기(노트북)교체] 비밀유지서약서.doc",
+     "path": "data/att/shinhanlife/297d5ea81eb144fca335/첨부1. [노후 OA기기(노트북)교체] 비밀유지서약서.doc",
+     "bytes": 51712
+    },
+    {
+     "name": "첨부2. [노후 OA기기(노트북)교체] 입찰참가신청서.doc",
+     "path": "data/att/shinhanlife/297d5ea81eb144fca335/첨부2. [노후 OA기기(노트북)교체] 입찰참가신청서.doc",
+     "bytes": 40448
+    }
+   ],
+   "at": "2026-11-05"
+  },
+  {
+   "org": "원광대학교",
+   "id": "7dc6842222994cc5bf5f7e2e58528d1f",
+   "title": "학생생활관 삼학관 천정텍스공사에 따른 소방시설 보수공사",
+   "date": "2026-10-27",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "1.공개견적 공고문.pdf",
+     "path": "data/att/wku/7dc6842222994cc5bf5f7e2e58528d1f/1.공개견적 공고문.pdf",
+     "bytes": 80110
+    },
+    {
+     "name": "4.현장설명 참가 신청서.hwp",
+     "path": "data/att/wku/7dc6842222994cc5bf5f7e2e58528d1f/4.현장설명 참가 신청서.hwp",
+     "bytes": 29184
+    },
+    {
+     "name": "2.시방서.pdf",
+     "path": "data/att/wku/7dc6842222994cc5bf5f7e2e58528d1f/2.시방서.pdf",
+     "bytes": 38320
+    },
+    {
+     "name": "5.개인정보 이용동의서.hwp",
+     "path": "data/att/wku/7dc6842222994cc5bf5f7e2e58528d1f/5.개인정보 이용동의서.hwp",
+     "bytes": 52224
+    },
+    {
+     "name": "3.도면.pdf",
+     "path": "data/att/wku/7dc6842222994cc5bf5f7e2e58528d1f/3.도면.pdf",
+     "bytes": 2635926
+    }
+   ],
+   "at": "2026-11-05"
+  },
+  {
+   "org": "원광대학교",
+   "id": "0011738bfaf04eea959dc489b3a191d7",
+   "title": "수덕호 주변 간선케이블 교체 전기공사",
+   "date": "2026-10-27",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공개견적 공고(개인정보동의서 포함).hwp",
+     "path": "data/att/wku/0011738bfaf04eea959dc489b3a191d7/공개견적 공고(개인정보동의서 포함).hwp",
+     "bytes": 50688
+    },
+    {
+     "name": "공사장소 평면도.pdf",
+     "path": "data/att/wku/0011738bfaf04eea959dc489b3a191d7/공사장소 평면도.pdf",
+     "bytes": 96303
+    }
+   ],
+   "at": "2026-11-05"
   }
  ],
- "generatedAt": "2026-11-04T02:55:57.749Z",
+ "generatedAt": "2026-11-05T03:06:17.752Z",
  "report": [
   {
-   "job": "shinhanlife",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
-  },
-  {
-   "org": "원광대학교",
-   "id": "82154557d0624b8699d40341d101eefd",
-   "title": "곤충 요리 숏폼 공모전 용역",
+   "org": "신한라이프",
+   "id": "297d5ea81eb144fca335",
+   "title": "노후 OA기기(노트북)공급업체 선정",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "16fbaee6e8734a9fb8e5aff40de9cc4e",
-   "title": "2026학년도 원광대학교 석면 건축물 공기질 측정 용역",
-   "files": 2,
-   "links": 2
+   "id": "7dc6842222994cc5bf5f7e2e58528d1f",
+   "title": "학생생활관 삼학관 천정텍스공사에 따른 소방시설 보수공사",
+   "files": 5,
+   "links": 5
   },
   {
    "org": "원광대학교",
-   "id": "3f48ff0d8cf645b7a7b36568217bd5b9",
-   "title": "(재공고) LCD 3D프린터 2대 외 2종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "6dbf945f594b4635b0dbdad0950cbd65",
-   "title": "(재공고) 구강스캐너 1대 외 1종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "ea90255d7b8e4d5587a3aee4bd79fde2",
-   "title": "L형 데스크 4대 외 15종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "ca571c3ec62b4eb68ad89b478e2866c9",
-   "title": "생물안전작업대 2대 외 5종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "b22aa20befce494d957834f92e58296b",
-   "title": "초순수제조장치 1대 외 39종 구입",
+   "id": "0011738bfaf04eea959dc489b3a191d7",
+   "title": "수덕호 주변 간선케이블 교체 전기공사",
    "files": 2,
    "links": 2
   }
