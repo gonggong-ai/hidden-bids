@@ -1477,26 +1477,6 @@
   },
   {
    "org": "원광대학교",
-   "id": "7720d9cb9fc24ca9ba44d01a49f4fd6c",
-   "title": "2027 신입학 홍보 브랜드 이모티콘 배포 캠페인 집행 대행 용역",
-   "date": "2026-08-07",
-   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
-   "files": [
-    {
-     "name": "공개견적 공고문(2027 신입학 홍보 브랜드 이모티콘 배포 캠페인 집행 대행).hwp",
-     "path": "data/att/wku/7720d9cb9fc24ca9ba44d01a49f4fd6c/공개견적 공고문(2027 신입학 홍보 브랜드 이모티콘 배포 캠페인 집행 대행).hwp",
-     "bytes": 155136
-    },
-    {
-     "name": "과업지시서(2027 신입학 홍보 브랜드 이모티콘배포 캠페인 집행 대행).hwp",
-     "path": "data/att/wku/7720d9cb9fc24ca9ba44d01a49f4fd6c/과업지시서(2027 신입학 홍보 브랜드 이모티콘배포 캠페인 집행 대행).hwp",
-     "bytes": 148480
-    }
-   ],
-   "at": "2026-09-23"
-  },
-  {
-   "org": "원광대학교",
    "id": "d5f4a688b73743fc9af0c4e53d50fa62",
    "title": "조립컴퓨터 1대 구매",
    "date": "2026-09-03",
@@ -1901,31 +1881,6 @@
      "name": "붙임2.과업지시서_won+pbl 교과 및 비교과 역량진단 도구 개발.hwpx",
      "path": "data/att/wku/5e286618709c42179dce0b701de89b6d/붙임2.과업지시서_won+pbl 교과 및 비교과 역량진단 도구 개발.hwpx",
      "bytes": 193765
-    }
-   ],
-   "at": "2026-09-29"
-  },
-  {
-   "org": "원광대학교",
-   "id": "dc42c8dcbc884184a4a227f8a8c60502",
-   "title": "글로컬]학생회관 대강당 무대조명 구매설치",
-   "date": "2026-08-07",
-   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
-   "files": [
-    {
-     "name": "1. 공고문(학생회관 대강당).hwp",
-     "path": "data/att/wku/dc42c8dcbc884184a4a227f8a8c60502/1. 공고문(학생회관 대강당).hwp",
-     "bytes": 143872
-    },
-    {
-     "name": "2. 구매규격서-학생회관 대강당 무대조명 .hwp",
-     "path": "data/att/wku/dc42c8dcbc884184a4a227f8a8c60502/2. 구매규격서-학생회관 대강당 무대조명 .hwp",
-     "bytes": 33280
-    },
-    {
-     "name": "3. 설치시방서-학생회관 대강당 무대조명.hwp",
-     "path": "data/att/wku/dc42c8dcbc884184a4a227f8a8c60502/3. 설치시방서-학생회관 대강당 무대조명.hwp",
-     "bytes": 16384
     }
    ],
    "at": "2026-09-29"
@@ -4744,28 +4699,115 @@
     }
    ],
    "at": "2026-11-05"
+  },
+  {
+   "org": "신한라이프",
+   "id": "4847eb5b41264f4eb33a",
+   "title": "EDW (Exadata) DB시스템 공급업체 선정",
+   "date": "2026-11-05",
+   "link": "https://www.shinhanlife.co.kr/hp/cdhi0510.do",
+   "files": [
+    {
+     "name": "(EDW DB시스템) 첨부 1. 비밀유지서약서.doc",
+     "path": "data/att/shinhanlife/4847eb5b41264f4eb33a/(EDW DB시스템) 첨부 1. 비밀유지서약서.doc",
+     "bytes": 47104
+    },
+    {
+     "name": "(EDW DB시스템) 첨부 2. 입찰참가신청서.doc",
+     "path": "data/att/shinhanlife/4847eb5b41264f4eb33a/(EDW DB시스템) 첨부 2. 입찰참가신청서.doc",
+     "bytes": 40448
+    }
+   ],
+   "at": "2026-11-06"
+  },
+  {
+   "org": "원광대학교",
+   "id": "d34dd971ed5f434ba86baf65969ef810",
+   "title": "2026 영호남 4개대학 대학일자리플러스센터 성과공유 워크숍 운영 용역",
+   "date": "2026-11-05",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "2026 영호남 4개대학 대학일자리플러스센터 성과공유 워크숍 과업지시서.pdf",
+     "path": "data/att/wku/d34dd971ed5f434ba86baf65969ef810/2026 영호남 4개대학 대학일자리플러스센터 성과공유 워크숍 과업지시서.pdf",
+     "bytes": 260647
+    },
+    {
+     "name": "공고문.pdf",
+     "path": "data/att/wku/d34dd971ed5f434ba86baf65969ef810/공고문.pdf",
+     "bytes": 77918
+    }
+   ],
+   "at": "2026-11-06"
+  },
+  {
+   "org": "원광대학교",
+   "id": "011c1a69d4b5437ebed61f5596150ce7",
+   "title": "(재공고) 덕트리스후드 2대 외 8종 구입",
+   "date": "2026-11-05",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "규격서-덕트리스후드 외.pdf",
+     "path": "data/att/wku/011c1a69d4b5437ebed61f5596150ce7/규격서-덕트리스후드 외.pdf",
+     "bytes": 215460
+    },
+    {
+     "name": "재공고문-덕트리스후드 외.hwp",
+     "path": "data/att/wku/011c1a69d4b5437ebed61f5596150ce7/재공고문-덕트리스후드 외.hwp",
+     "bytes": 140800
+    }
+   ],
+   "at": "2026-11-06"
+  },
+  {
+   "org": "원광대학교",
+   "id": "6a5fc1da589448b1b8d55a3c5ea363f8",
+   "title": "식품3D프린터 1대 구입",
+   "date": "2026-11-05",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-식품3d프린터.hwp",
+     "path": "data/att/wku/6a5fc1da589448b1b8d55a3c5ea363f8/공고문-식품3d프린터.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서-식품3d프린터.pdf",
+     "path": "data/att/wku/6a5fc1da589448b1b8d55a3c5ea363f8/규격서-식품3d프린터.pdf",
+     "bytes": 150509
+    }
+   ],
+   "at": "2026-11-06"
   }
  ],
- "generatedAt": "2026-11-05T03:06:17.752Z",
+ "generatedAt": "2026-11-06T03:06:37.651Z",
  "report": [
   {
    "org": "신한라이프",
-   "id": "297d5ea81eb144fca335",
-   "title": "노후 OA기기(노트북)공급업체 선정",
+   "id": "4847eb5b41264f4eb33a",
+   "title": "EDW (Exadata) DB시스템 공급업체 선정",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "7dc6842222994cc5bf5f7e2e58528d1f",
-   "title": "학생생활관 삼학관 천정텍스공사에 따른 소방시설 보수공사",
-   "files": 5,
-   "links": 5
+   "id": "d34dd971ed5f434ba86baf65969ef810",
+   "title": "2026 영호남 4개대학 대학일자리플러스센터 성과공유 워크숍 운영 용역",
+   "files": 2,
+   "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "0011738bfaf04eea959dc489b3a191d7",
-   "title": "수덕호 주변 간선케이블 교체 전기공사",
+   "id": "011c1a69d4b5437ebed61f5596150ce7",
+   "title": "(재공고) 덕트리스후드 2대 외 8종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "6a5fc1da589448b1b8d55a3c5ea363f8",
+   "title": "식품3D프린터 1대 구입",
    "files": 2,
    "links": 2
   }
