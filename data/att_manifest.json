@@ -256,31 +256,6 @@
    "at": "2026-09-20"
   },
   {
-   "org": "우리카드",
-   "id": "20260810110332067",
-   "title": "[입찰공고] 통합로그(인터페이스 로그) 서버 이전 구축",
-   "date": "2026-08-10",
-   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20260810110332067",
-   "files": [
-    {
-     "name": "1. 제품도입 사양_통합로그(인터페이스 로그) 서버 이전 구축.xlsx",
-     "path": "data/att/wooricard/20260810110332067/1. 제품도입 사양_통합로그(인터페이스 로그) 서버 이전 구축.xlsx",
-     "bytes": 24235
-    },
-    {
-     "name": "2. 입찰(제안)참가신청서_통합로그(인터페이스 로그) 서버 이전 구축.docx",
-     "path": "data/att/wooricard/20260810110332067/2. 입찰(제안)참가신청서_통합로그(인터페이스 로그) 서버 이전 구축.docx",
-     "bytes": 67491
-    },
-    {
-     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
-     "path": "data/att/wooricard/20260810110332067/WCPM_사용자매뉴얼(협력사용).pdf",
-     "bytes": 3391618
-    }
-   ],
-   "at": "2026-09-20"
-  },
-  {
    "org": "한국여자농구연맹",
    "id": "54199",
    "title": "2026-2027시즌 BNK썸 시그니처 굿즈 기획 제작 용역 입찰공고 작성일 2026-08-26 조회수 864",
@@ -4864,8 +4839,75 @@
     }
    ],
    "at": "2026-11-07"
+  },
+  {
+   "org": "원광대학교",
+   "id": "94e0fe93b8b24363a5692b6072f94134",
+   "title": "세계농업대학 새만금 실증단지 겉보리 파종 용역",
+   "date": "2026-11-10",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문.pdf",
+     "path": "data/att/wku/94e0fe93b8b24363a5692b6072f94134/공고문.pdf",
+     "bytes": 77322
+    },
+    {
+     "name": "세계농업대학 새만금 실증단지 겉보리 파종 용역 과업지시서.pdf",
+     "path": "data/att/wku/94e0fe93b8b24363a5692b6072f94134/세계농업대학 새만금 실증단지 겉보리 파종 용역 과업지시서.pdf",
+     "bytes": 86512
+    }
+   ],
+   "at": "2026-11-09"
+  },
+  {
+   "org": "원광대학교",
+   "id": "84302898ec244f24b92e0bc608097b51",
+   "title": "(재공고) 실험 시약(Dextran 40 Pharmaceutical Quality EP 외 2종) 구매",
+   "date": "2026-11-02",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "구매규격서-실험 시약.pdf",
+     "path": "data/att/wku/84302898ec244f24b92e0bc608097b51/구매규격서-실험 시약.pdf",
+     "bytes": 173731
+    },
+    {
+     "name": "재공고문-실험 시약.hwp",
+     "path": "data/att/wku/84302898ec244f24b92e0bc608097b51/재공고문-실험 시약.hwp",
+     "bytes": 140800
+    }
+   ],
+   "at": "2026-11-09"
   }
  ],
- "generatedAt": "2026-11-08T02:01:57.308Z",
- "report": []
+ "generatedAt": "2026-11-09T02:27:13.967Z",
+ "report": [
+  {
+   "job": "wooricard",
+   "err": "목록 데이터를 세 번 다 못 읽음"
+  },
+  {
+   "job": "hanafn",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+   "job": "shinhanlife",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+   "org": "원광대학교",
+   "id": "94e0fe93b8b24363a5692b6072f94134",
+   "title": "세계농업대학 새만금 실증단지 겉보리 파종 용역",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "84302898ec244f24b92e0bc608097b51",
+   "title": "(재공고) 실험 시약(Dextran 40 Pharmaceutical Quality EP 외 2종) 구매",
+   "files": 2,
+   "links": 2
+  }
+ ]
 }
