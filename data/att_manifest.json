@@ -191,56 +191,6 @@
    "at": "2026-09-20"
   },
   {
-   "org": "우리카드",
-   "id": "20260811110249619",
-   "title": "[입찰공고] AI 기반 지식관리시스템(KMS) 재구축[HW_x86서버]",
-   "date": "2026-08-11",
-   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20260811110249619",
-   "files": [
-    {
-     "name": "2_5. 입찰(제안)참가신청서[OS백업].docx",
-     "path": "data/att/wooricard/20260811110249619/2_5. 입찰(제안)참가신청서[OS백업].docx",
-     "bytes": 70174
-    },
-    {
-     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
-     "path": "data/att/wooricard/20260811110249619/WCPM_사용자매뉴얼(협력사용).pdf",
-     "bytes": 3391618
-    },
-    {
-     "name": "1_5. 제품도입 사양[OS백업].xlsx",
-     "path": "data/att/wooricard/20260811110249619/1_5. 제품도입 사양[OS백업].xlsx",
-     "bytes": 24906
-    }
-   ],
-   "at": "2026-09-20"
-  },
-  {
-   "org": "우리카드",
-   "id": "20260811110943496",
-   "title": "[입찰공고] AI 기반 지식관리시스템(KMS) 재구축[SW_DBMS]",
-   "date": "2026-08-11",
-   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20260811110943496",
-   "files": [
-    {
-     "name": "2_5. 입찰(제안)참가신청서[OS백업].docx",
-     "path": "data/att/wooricard/20260811110943496/2_5. 입찰(제안)참가신청서[OS백업].docx",
-     "bytes": 70174
-    },
-    {
-     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
-     "path": "data/att/wooricard/20260811110943496/WCPM_사용자매뉴얼(협력사용).pdf",
-     "bytes": 3391618
-    },
-    {
-     "name": "1_5. 제품도입 사양[OS백업].xlsx",
-     "path": "data/att/wooricard/20260811110943496/1_5. 제품도입 사양[OS백업].xlsx",
-     "bytes": 24906
-    }
-   ],
-   "at": "2026-09-20"
-  },
-  {
    "org": "하나금융그룹",
    "id": "10000148",
    "title": "[입찰공고] 하나금융그룹 '연결회계시스템 구축 사업’ 제안 재공고 제안서 및 입찰서류 제출기한 : 2026년 9월 22일(화요일) 오전 11시까지",
@@ -420,26 +370,6 @@
     {
      "name": "첨부2.[빅데이터 플랫폼의 EoS 대응을 위한 SW 공급 업체 선정] 입찰참가신청서.doc",
      "path": "data/att/shinhanlife/dcdf844d7cee49369225/첨부2.[빅데이터 플랫폼의 EoS 대응을 위한 SW 공급 업체 선정] 입찰참가신청서.doc",
-     "bytes": 40448
-    }
-   ],
-   "at": "2026-09-21"
-  },
-  {
-   "org": "신한라이프",
-   "id": "25af9aa3f5d34d29ae77",
-   "title": "빅데이터 플랫폼의 EoS 대응을 위한 HW 공급 업체 선정",
-   "date": "2026-08-11",
-   "link": "https://www.shinhanlife.co.kr/hp/cdhi0510.do",
-   "files": [
-    {
-     "name": "첨부1.[빅데이터 플랫폼의 EoS 대응을 위한 HW 공급 업체 선정] 비밀유지서약서.doc",
-     "path": "data/att/shinhanlife/25af9aa3f5d34d29ae77/첨부1.[빅데이터 플랫폼의 EoS 대응을 위한 HW 공급 업체 선정] 비밀유지서약서.doc",
-     "bytes": 47616
-    },
-    {
-     "name": "첨부2.[빅데이터 플랫폼의 EoS 대응을 위한 HW 공급업체 선정] 입찰참가신청서.doc",
-     "path": "data/att/shinhanlife/25af9aa3f5d34d29ae77/첨부2.[빅데이터 플랫폼의 EoS 대응을 위한 HW 공급업체 선정] 입찰참가신청서.doc",
      "bytes": 40448
     }
    ],
@@ -4879,17 +4809,176 @@
     }
    ],
    "at": "2026-11-09"
-  }
- ],
- "generatedAt": "2026-11-09T02:27:13.967Z",
- "report": [
-  {
-   "job": "wooricard",
-   "err": "목록 데이터를 세 번 다 못 읽음"
   },
   {
-   "job": "hanafn",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
+   "org": "하나금융그룹",
+   "id": "10000154",
+   "title": "[입찰공고] 하나금융그룹 및 하나은행 공동 종합광고대행사 선정 제안 제안서 접수 마감: 2026. 12. 03(목) 오후 4시까지",
+   "date": "2026-11-09",
+   "link": "https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do",
+   "files": [
+    {
+     "name": "[제안요청서]+하나금융그룹_하나은행+종합광고대행사+선정+제안요청서.docx",
+     "path": "data/att/hanafn/10000154/[제안요청서]+하나금융그룹_하나은행+종합광고대행사+선정+제안요청서.docx",
+     "bytes": 43226
+    },
+    {
+     "name": "입찰+참가+신청서+및+기타+공고로서+정한+서류.docx",
+     "path": "data/att/hanafn/10000154/입찰+참가+신청서+및+기타+공고로서+정한+서류.docx",
+     "bytes": 45197
+    }
+   ],
+   "at": "2026-11-10"
+  },
+  {
+   "org": "원광대학교",
+   "id": "79b3a73ec43242c6bc0bdbeb5df9926e",
+   "title": "(재공고) 교합력측정기 1SET 구매",
+   "date": "2026-11-10",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "규격서-교합력측정기.pdf",
+     "path": "data/att/wku/79b3a73ec43242c6bc0bdbeb5df9926e/규격서-교합력측정기.pdf",
+     "bytes": 130480
+    },
+    {
+     "name": "재공고문-교합력측정기.hwp",
+     "path": "data/att/wku/79b3a73ec43242c6bc0bdbeb5df9926e/재공고문-교합력측정기.hwp",
+     "bytes": 68608
+    }
+   ],
+   "at": "2026-11-10"
+  },
+  {
+   "org": "원광대학교",
+   "id": "fbb1369cda104d5c9b2170c7135e174a",
+   "title": "[생명존중 글로컬시민 캠프] 용역",
+   "date": "2026-11-10",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문_생명존중 글로컬시민 캠프.pdf",
+     "path": "data/att/wku/fbb1369cda104d5c9b2170c7135e174a/공고문_생명존중 글로컬시민 캠프.pdf",
+     "bytes": 81396
+    },
+    {
+     "name": "과업지시서_생명존중 글로컬시민 캠프.pdf",
+     "path": "data/att/wku/fbb1369cda104d5c9b2170c7135e174a/과업지시서_생명존중 글로컬시민 캠프.pdf",
+     "bytes": 138045
+    }
+   ],
+   "at": "2026-11-10"
+  },
+  {
+   "org": "원광대학교",
+   "id": "85352ad7961e48e99ae9855ab46446fc",
+   "title": "터치식포장기(9포용) 6대 외 6종 구입",
+   "date": "2026-11-09",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-터치식포장기 외.hwp",
+     "path": "data/att/wku/85352ad7961e48e99ae9855ab46446fc/공고문-터치식포장기 외.hwp",
+     "bytes": 74752
+    },
+    {
+     "name": "규격서-터치식포장기 외.pdf",
+     "path": "data/att/wku/85352ad7961e48e99ae9855ab46446fc/규격서-터치식포장기 외.pdf",
+     "bytes": 726717
+    }
+   ],
+   "at": "2026-11-10"
+  },
+  {
+   "org": "원광대학교",
+   "id": "686b214975d74c6aa2628f8a8276f452",
+   "title": "6축 협동로봇 1대 외 5종 구입",
+   "date": "2026-11-09",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-6축 협동로봇 외.hwp",
+     "path": "data/att/wku/686b214975d74c6aa2628f8a8276f452/공고문-6축 협동로봇 외.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서-6축 협동로봇 외.pdf",
+     "path": "data/att/wku/686b214975d74c6aa2628f8a8276f452/규격서-6축 협동로봇 외.pdf",
+     "bytes": 226710
+    }
+   ],
+   "at": "2026-11-10"
+  },
+  {
+   "org": "원광대학교",
+   "id": "6f5aa7d964454c60b9599222d77ddc52",
+   "title": "생물안전작업대 4대 외 1종 구입",
+   "date": "2026-11-09",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-생물안전작업대 외.hwp",
+     "path": "data/att/wku/6f5aa7d964454c60b9599222d77ddc52/공고문-생물안전작업대 외.hwp",
+     "bytes": 74752
+    },
+    {
+     "name": "규격서-생물안전작업대 외.pdf",
+     "path": "data/att/wku/6f5aa7d964454c60b9599222d77ddc52/규격서-생물안전작업대 외.pdf",
+     "bytes": 124539
+    }
+   ],
+   "at": "2026-11-10"
+  },
+  {
+   "org": "원광대학교",
+   "id": "729520c604924fa3838b75bcc2aaa53a",
+   "title": "전자동 정제분류포장시스템 1대 구입",
+   "date": "2026-11-09",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-전자동 정제분류포장시스템.hwp",
+     "path": "data/att/wku/729520c604924fa3838b75bcc2aaa53a/공고문-전자동 정제분류포장시스템.hwp",
+     "bytes": 75264
+    },
+    {
+     "name": "규격서-전자동 정제분류포장시스템.pdf",
+     "path": "data/att/wku/729520c604924fa3838b75bcc2aaa53a/규격서-전자동 정제분류포장시스템.pdf",
+     "bytes": 136675
+    }
+   ],
+   "at": "2026-11-10"
+  },
+  {
+   "org": "원광대학교",
+   "id": "4534d24391a84359a1a4f8f02239d86c",
+   "title": "산학관 연계 김제형 외국인 유학생 유치사업 홍보영상 제작비 용역",
+   "date": "2026-11-09",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문.pdf",
+     "path": "data/att/wku/4534d24391a84359a1a4f8f02239d86c/공고문.pdf",
+     "bytes": 77368
+    },
+    {
+     "name": "과업지시서_김제형 외국인유학생 유치사업 홍보영상 제작(최종).pdf",
+     "path": "data/att/wku/4534d24391a84359a1a4f8f02239d86c/과업지시서_김제형 외국인유학생 유치사업 홍보영상 제작(최종).pdf",
+     "bytes": 298945
+    }
+   ],
+   "at": "2026-11-10"
+  }
+ ],
+ "generatedAt": "2026-11-10T04:32:27.582Z",
+ "report": [
+  {
+   "org": "하나금융그룹",
+   "id": "10000154",
+   "title": "[입찰공고] 하나금융그룹 및 하나은행 공동 종합광고대행사 선정 제안 제안서 접수 마감: 2026. 12. 03(목) 오후 4시까지",
+   "files": 2,
+   "links": 2
   },
   {
    "job": "shinhanlife",
@@ -4897,15 +4986,50 @@
   },
   {
    "org": "원광대학교",
-   "id": "94e0fe93b8b24363a5692b6072f94134",
-   "title": "세계농업대학 새만금 실증단지 겉보리 파종 용역",
+   "id": "79b3a73ec43242c6bc0bdbeb5df9926e",
+   "title": "(재공고) 교합력측정기 1SET 구매",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "84302898ec244f24b92e0bc608097b51",
-   "title": "(재공고) 실험 시약(Dextran 40 Pharmaceutical Quality EP 외 2종) 구매",
+   "id": "fbb1369cda104d5c9b2170c7135e174a",
+   "title": "[생명존중 글로컬시민 캠프] 용역",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "85352ad7961e48e99ae9855ab46446fc",
+   "title": "터치식포장기(9포용) 6대 외 6종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "686b214975d74c6aa2628f8a8276f452",
+   "title": "6축 협동로봇 1대 외 5종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "6f5aa7d964454c60b9599222d77ddc52",
+   "title": "생물안전작업대 4대 외 1종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "729520c604924fa3838b75bcc2aaa53a",
+   "title": "전자동 정제분류포장시스템 1대 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "4534d24391a84359a1a4f8f02239d86c",
+   "title": "산학관 연계 김제형 외국인 유학생 유치사업 홍보영상 제작비 용역",
    "files": 2,
    "links": 2
   }
