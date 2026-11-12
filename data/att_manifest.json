@@ -1417,26 +1417,6 @@
   },
   {
    "org": "원광대학교",
-   "id": "7c6cce18bef5433f862f929a3710d311",
-   "title": "건축학과 3D프린터유해가스정화장치 8대 외 1종 구입",
-   "date": "2026-08-13",
-   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
-   "files": [
-    {
-     "name": "공고문(정화장치).hwp",
-     "path": "data/att/wku/7c6cce18bef5433f862f929a3710d311/공고문(정화장치).hwp",
-     "bytes": 140800
-    },
-    {
-     "name": "구매규격서(정화장치).pdf",
-     "path": "data/att/wku/7c6cce18bef5433f862f929a3710d311/구매규격서(정화장치).pdf",
-     "bytes": 293220
-    }
-   ],
-   "at": "2026-09-23"
-  },
-  {
-   "org": "원광대학교",
    "id": "e894db40ce2641559f064ea8cf32acc9",
    "title": "[의대혁신] LED전광판 1대 외 1종 구입",
    "date": "2026-08-14",
@@ -1671,26 +1651,6 @@
      "name": "붙임2.과업지시서_won+pbl 교과 및 비교과 역량진단 도구 개발.hwpx",
      "path": "data/att/wku/5e286618709c42179dce0b701de89b6d/붙임2.과업지시서_won+pbl 교과 및 비교과 역량진단 도구 개발.hwpx",
      "bytes": 193765
-    }
-   ],
-   "at": "2026-09-29"
-  },
-  {
-   "org": "원광대학교",
-   "id": "f05dd53885b64f86b53a2e211b80a914",
-   "title": "학생회관 대강당 LED전광판 구입",
-   "date": "2026-08-13",
-   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
-   "files": [
-    {
-     "name": "공고문(led전광판).hwp",
-     "path": "data/att/wku/f05dd53885b64f86b53a2e211b80a914/공고문(led전광판).hwp",
-     "bytes": 139776
-    },
-    {
-     "name": "구매규격서.pdf",
-     "path": "data/att/wku/f05dd53885b64f86b53a2e211b80a914/구매규격서.pdf",
-     "bytes": 212593
     }
    ],
    "at": "2026-09-29"
@@ -5134,105 +5094,220 @@
     }
    ],
    "at": "2026-11-11"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261112091416609",
+   "title": "[입찰공고] 모바일 Web/App 고도화[DB서버(DBMS, Linux OS 포함)]",
+   "date": "2026-11-12",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261112091416609",
+   "files": [
+    {
+     "name": "1. 제품도입 사양_모바일 Web,App 고도화[DB서버(DBMS, Linux OS 포함)].xlsx",
+     "path": "data/att/wooricard/20261112091416609/1. 제품도입 사양_모바일 Web,App 고도화[DB서버(DBMS, Linux OS 포함)].xlsx",
+     "bytes": 40437
+    },
+    {
+     "name": "2. 입찰(제안)참가신청서_모바일 Web,App 고도화[DB서버(DBMS, Linux OS 포함)].docx",
+     "path": "data/att/wooricard/20261112091416609/2. 입찰(제안)참가신청서_모바일 Web,App 고도화[DB서버(DBMS, Linux OS 포함)].docx",
+     "bytes": 69891
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20261112091416609/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-11-12"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261112091242873",
+   "title": "[입찰공고] 모바일 Web/App 고도화[가상화솔루션]",
+   "date": "2026-11-12",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261112091242873",
+   "files": [
+    {
+     "name": "1. 제품도입 사양_모바일 Web,App 고도화[가상화솔루션].xlsx",
+     "path": "data/att/wooricard/20261112091242873/1. 제품도입 사양_모바일 Web,App 고도화[가상화솔루션].xlsx",
+     "bytes": 17148
+    },
+    {
+     "name": "2. 입찰(제안)참가신청서_모바일 Web,App 고도화[가상화솔루션].docx",
+     "path": "data/att/wooricard/20261112091242873/2. 입찰(제안)참가신청서_모바일 Web,App 고도화[가상화솔루션].docx",
+     "bytes": 67652
+    },
+    {
+     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
+     "path": "data/att/wooricard/20261112091242873/WCPM_사용자매뉴얼(협력사용).pdf",
+     "bytes": 3391618
+    }
+   ],
+   "at": "2026-11-12"
+  },
+  {
+   "org": "우리카드",
+   "id": "20261111141349233",
+   "title": "[제안공고] 공격표면관리(ASM) 서비스 도입(종합평가)",
+   "date": "2026-11-11",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261111141349233",
+   "files": [
+    {
+     "name": "1. 입찰(제안)참가신청서.docx",
+     "path": "data/att/wooricard/20261111141349233/1. 입찰(제안)참가신청서.docx",
+     "bytes": 69353
+    },
+    {
+     "name": "2. 가격제안서 및 제안참가 서약서.docx",
+     "path": "data/att/wooricard/20261111141349233/2. 가격제안서 및 제안참가 서약서.docx",
+     "bytes": 19590
+    },
+    {
+     "name": "3. 제안발표 참여업체 정보.docx",
+     "path": "data/att/wooricard/20261111141349233/3. 제안발표 참여업체 정보.docx",
+     "bytes": 18441
+    },
+    {
+     "name": "4. 제안요청서(RFP)수령 서약서.docx",
+     "path": "data/att/wooricard/20261111141349233/4. 제안요청서(RFP)수령 서약서.docx",
+     "bytes": 19628
+    }
+   ],
+   "at": "2026-11-12"
+  },
+  {
+   "org": "원광대학교",
+   "id": "bda2d95416ca4b6bb7c5f265662ac405",
+   "title": "위관영양, 기관절개관 흡인실습모형 24대 외 10종",
+   "date": "2026-11-11",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-위관영양.hwp",
+     "path": "data/att/wku/bda2d95416ca4b6bb7c5f265662ac405/공고문-위관영양.hwp",
+     "bytes": 75264
+    },
+    {
+     "name": "규격서-위관영양.pdf",
+     "path": "data/att/wku/bda2d95416ca4b6bb7c5f265662ac405/규격서-위관영양.pdf",
+     "bytes": 647691
+    }
+   ],
+   "at": "2026-11-12"
+  },
+  {
+   "org": "원광대학교",
+   "id": "98165b74d6d24638a92a730f18cddc2b",
+   "title": "세탁기 5대 외 9종 구입",
+   "date": "2026-11-11",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-세탁기외.hwp",
+     "path": "data/att/wku/98165b74d6d24638a92a730f18cddc2b/공고문-세탁기외.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서-세탁기외.pdf",
+     "path": "data/att/wku/98165b74d6d24638a92a730f18cddc2b/규격서-세탁기외.pdf",
+     "bytes": 247439
+    }
+   ],
+   "at": "2026-11-12"
+  },
+  {
+   "org": "원광대학교",
+   "id": "4e5fd7eed1db486388de840500bf51f8",
+   "title": "로봇 기반 치과 CAD/CAM 시스템 1SET 구입",
+   "date": "2026-11-11",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-로봇 기반 치과.hwp",
+     "path": "data/att/wku/4e5fd7eed1db486388de840500bf51f8/공고문-로봇 기반 치과.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서-로봇 기반 치과.pdf",
+     "path": "data/att/wku/4e5fd7eed1db486388de840500bf51f8/규격서-로봇 기반 치과.pdf",
+     "bytes": 233472
+    }
+   ],
+   "at": "2026-11-12"
+  },
+  {
+   "org": "원광대학교",
+   "id": "e8a2439afa8443b7a095fa6167e48085",
+   "title": "동결건조기 1대 구입",
+   "date": "2026-11-11",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-동결건조기.hwp",
+     "path": "data/att/wku/e8a2439afa8443b7a095fa6167e48085/공고문-동결건조기.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서-동결건조기.pdf",
+     "path": "data/att/wku/e8a2439afa8443b7a095fa6167e48085/규격서-동결건조기.pdf",
+     "bytes": 119182
+    }
+   ],
+   "at": "2026-11-12"
   }
  ],
- "generatedAt": "2026-11-11T02:32:46.601Z",
+ "generatedAt": "2026-11-12T03:38:11.660Z",
  "report": [
   {
+   "org": "우리카드",
+   "id": "20261112091416609",
+   "title": "[입찰공고] 모바일 Web/App 고도화[DB서버(DBMS, Linux OS 포함)]",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "우리카드",
+   "id": "20261112091242873",
+   "title": "[입찰공고] 모바일 Web/App 고도화[가상화솔루션]",
+   "files": 3,
+   "links": 3
+  },
+  {
+   "org": "우리카드",
+   "id": "20261111141349233",
+   "title": "[제안공고] 공격표면관리(ASM) 서비스 도입(종합평가)",
+   "files": 4,
+   "links": 4
+  },
+  {
+   "job": "shinhanlife",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
+  },
+  {
    "org": "원광대학교",
-   "id": "e47a3199d2f64c70860f5670bc6b3f42",
-   "title": "ANCHOR사업단 차량 운행·에너지 데이터 수집 및 저장 시스템 제작 용역",
+   "id": "bda2d95416ca4b6bb7c5f265662ac405",
+   "title": "위관영양, 기관절개관 흡인실습모형 24대 외 10종",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "92a01a6a52ca40f7b26bee6b8d7860ec",
-   "title": "ANCHOR사업단 배터리·연료전지 연계 차량용 BMS 제작 용역",
+   "id": "98165b74d6d24638a92a730f18cddc2b",
+   "title": "세탁기 5대 외 9종 구입",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "46318f3a8bfd46c18661b56e7a693038",
-   "title": "공용소프트웨어 7종 연간사용권 구매",
+   "id": "4e5fd7eed1db486388de840500bf51f8",
+   "title": "로봇 기반 치과 CAD/CAM 시스템 1SET 구입",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "f78043a1edcb4309a5d6ba59690f65c8",
-   "title": "심폐음 청진 시뮬레이터 1대 외 28종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "f6fd8c4b99b34665a06294215d0f6ad2",
-   "title": "피펫 15개 외 43종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "021e53d0af0543bdbcb4b9054fb499ba",
-   "title": "벽면실습대 1대 외 30종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "dea1abc65ca747d1befb30f1fc84316f",
-   "title": "하부 수납형 조제대 1대 외 11종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "fa5115badac04d95896b916020111e30",
-   "title": "냉동고 1대 외 2종 구매",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "ff6527f0f1854a0fb706525c0529e8ef",
-   "title": "현미경용 빔스플리터 1대 외 4종 구매",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "7484fb6bfaab492096e56a8a0626839f",
-   "title": "열화상카메라 1대 외 3종 구매",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "5a5c6396a90143909652b097bac8ad49",
-   "title": "(재공고) 전자칠판 1대 외 2종 구매",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "9a0f707790804337b9fa12dbd4916015",
-   "title": "유해가스제거장치 1대 구매",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "2c0c2d9bacb246b3a91a9ca0243078a1",
-   "title": "(재공고) AI스마트미러 1대 구매",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "ba63c92290ec4c538581ba378610c4f5",
-   "title": "(재공고) AI두피진단시스템 1대 외 1종 구매",
+   "id": "e8a2439afa8443b7a095fa6167e48085",
+   "title": "동결건조기 1대 구입",
    "files": 2,
    "links": 2
   }
