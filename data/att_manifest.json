@@ -281,26 +281,6 @@
    "at": "2026-09-21"
   },
   {
-   "org": "신한라이프",
-   "id": "dcdf844d7cee49369225",
-   "title": "빅데이터 플랫폼의 EoS 대응을 위한 SW 공급 업체 선정",
-   "date": "2026-08-14",
-   "link": "https://www.shinhanlife.co.kr/hp/cdhi0510.do",
-   "files": [
-    {
-     "name": "첨부1.[빅데이터 플랫폼의 EoS 대응을 위한 SW 공급 업체 선정] 비밀유지서약서.doc",
-     "path": "data/att/shinhanlife/dcdf844d7cee49369225/첨부1.[빅데이터 플랫폼의 EoS 대응을 위한 SW 공급 업체 선정] 비밀유지서약서.doc",
-     "bytes": 47616
-    },
-    {
-     "name": "첨부2.[빅데이터 플랫폼의 EoS 대응을 위한 SW 공급 업체 선정] 입찰참가신청서.doc",
-     "path": "data/att/shinhanlife/dcdf844d7cee49369225/첨부2.[빅데이터 플랫폼의 EoS 대응을 위한 SW 공급 업체 선정] 입찰참가신청서.doc",
-     "bytes": 40448
-    }
-   ],
-   "at": "2026-09-21"
-  },
-  {
    "org": "원광대학교",
    "id": "a21c5820d6b7407785fee31a37f1ed56",
    "title": "(재공고) 비침습인젝터 3대 외 2종 구입",
@@ -1411,26 +1391,6 @@
      "name": "구매규격서_화상캠 외 1종.pdf",
      "path": "data/att/wku/d51627a4fb844e08a536c3b58bb2132c/구매규격서_화상캠 외 1종.pdf",
      "bytes": 98682
-    }
-   ],
-   "at": "2026-09-23"
-  },
-  {
-   "org": "원광대학교",
-   "id": "e894db40ce2641559f064ea8cf32acc9",
-   "title": "[의대혁신] LED전광판 1대 외 1종 구입",
-   "date": "2026-08-14",
-   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
-   "files": [
-    {
-     "name": "공고문(led전광판).hwp",
-     "path": "data/att/wku/e894db40ce2641559f064ea8cf32acc9/공고문(led전광판).hwp",
-     "bytes": 73216
-    },
-    {
-     "name": "구매규격서_ led전광판 gob 1.8p 244인치.pdf",
-     "path": "data/att/wku/e894db40ce2641559f064ea8cf32acc9/구매규격서_ led전광판 gob 1.8p 244인치.pdf",
-     "bytes": 163392
     }
    ],
    "at": "2026-09-23"
@@ -5254,62 +5214,324 @@
     }
    ],
    "at": "2026-11-12"
+  },
+  {
+   "org": "신한라이프",
+   "id": "181da2360c724c13af8e",
+   "title": "서버가상화 (HPE VME) 시스템 증설 업체 선정",
+   "date": "2026-11-13",
+   "link": "https://www.shinhanlife.co.kr/hp/cdhi0510.do",
+   "files": [
+    {
+     "name": "(VM ware) 첨부 1. 비밀유지서약서.doc",
+     "path": "data/att/shinhanlife/181da2360c724c13af8e/(VM ware) 첨부 1. 비밀유지서약서.doc",
+     "bytes": 47104
+    },
+    {
+     "name": "(VM ware) 첨부 2. 입찰참가신청서.doc",
+     "path": "data/att/shinhanlife/181da2360c724c13af8e/(VM ware) 첨부 2. 입찰참가신청서.doc",
+     "bytes": 40448
+    }
+   ],
+   "at": "2026-11-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "64a424b6489e4af19b1696d722b7b500",
+   "title": "(재공고)원광대학교 대종로 리모델링 토목 및 조경공사 실시설계 용약",
+   "date": "2026-11-13",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "(재공고)입찰관련 서류양식.hwp",
+     "path": "data/att/wku/64a424b6489e4af19b1696d722b7b500/(재공고)입찰관련 서류양식.hwp",
+     "bytes": 49664
+    },
+    {
+     "name": "입찰유의서_용역.hwp",
+     "path": "data/att/wku/64a424b6489e4af19b1696d722b7b500/입찰유의서_용역.hwp",
+     "bytes": 59392
+    },
+    {
+     "name": "(재공고)입찰공고문.hwp",
+     "path": "data/att/wku/64a424b6489e4af19b1696d722b7b500/(재공고)입찰공고문.hwp",
+     "bytes": 120320
+    },
+    {
+     "name": "(재공고)과업지시서.hwp",
+     "path": "data/att/wku/64a424b6489e4af19b1696d722b7b500/(재공고)과업지시서.hwp",
+     "bytes": 629760
+    },
+    {
+     "name": "기획설계 조감도.pdf",
+     "path": "data/att/wku/64a424b6489e4af19b1696d722b7b500/기획설계 조감도.pdf",
+     "bytes": 585962
+    }
+   ],
+   "at": "2026-11-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "b21104b8fc114137bc81464b8f7dcac2",
+   "title": "[산학협력단]노트북 1대 외 2종 구입",
+   "date": "2026-11-13",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-노트북 외.hwp",
+     "path": "data/att/wku/b21104b8fc114137bc81464b8f7dcac2/공고문-노트북 외.hwp",
+     "bytes": 65024
+    },
+    {
+     "name": "구매규격서-노트북 외.hwp",
+     "path": "data/att/wku/b21104b8fc114137bc81464b8f7dcac2/구매규격서-노트북 외.hwp",
+     "bytes": 539136
+    }
+   ],
+   "at": "2026-11-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "9f0b8f6fb8414f25b55c5dc99bff11eb",
+   "title": "[앵커]이차전지 산업분야 실무능력 함양을 위한 배터리성능평가 프로그램 용역",
+   "date": "2026-11-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "2. 과업지시서.pdf",
+     "path": "data/att/wku/9f0b8f6fb8414f25b55c5dc99bff11eb/2. 과업지시서.pdf",
+     "bytes": 90047
+    },
+    {
+     "name": "공개견적(11.12).hwp",
+     "path": "data/att/wku/9f0b8f6fb8414f25b55c5dc99bff11eb/공개견적(11.12).hwp",
+     "bytes": 81920
+    }
+   ],
+   "at": "2026-11-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "5b1978b1828c47dc84a0086f5d05820f",
+   "title": "전기화학분석시스템 1SET 구입",
+   "date": "2026-11-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-전기화학분석시스템.hwp",
+     "path": "data/att/wku/5b1978b1828c47dc84a0086f5d05820f/공고문-전기화학분석시스템.hwp",
+     "bytes": 74752
+    },
+    {
+     "name": "규격서-전기화학분석시스템 .pdf",
+     "path": "data/att/wku/5b1978b1828c47dc84a0086f5d05820f/규격서-전기화학분석시스템 .pdf",
+     "bytes": 133605
+    }
+   ],
+   "at": "2026-11-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "dcd6876ed1b246a09660801a17e20993",
+   "title": "냉장원심분리기 1대 외 23종 구입",
+   "date": "2026-11-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-냉장원심분리기.hwp",
+     "path": "data/att/wku/dcd6876ed1b246a09660801a17e20993/공고문-냉장원심분리기.hwp",
+     "bytes": 74752
+    },
+    {
+     "name": "규격서-냉장원심분리기.pdf",
+     "path": "data/att/wku/dcd6876ed1b246a09660801a17e20993/규격서-냉장원심분리기.pdf",
+     "bytes": 654355
+    }
+   ],
+   "at": "2026-11-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "034e0f1c8ce34e7aac369c493196e518",
+   "title": "전동식의료용침대 30대 외 15종 구입",
+   "date": "2026-11-12",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-전동식의료용침대.hwp",
+     "path": "data/att/wku/034e0f1c8ce34e7aac369c493196e518/공고문-전동식의료용침대.hwp",
+     "bytes": 74752
+    },
+    {
+     "name": "규격서-전동식의료용침대.pdf",
+     "path": "data/att/wku/034e0f1c8ce34e7aac369c493196e518/규격서-전동식의료용침대.pdf",
+     "bytes": 1041522
+    }
+   ],
+   "at": "2026-11-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "be8af3abb47f4bfa9c79f2ae5b31ce9e",
+   "title": "프라임관 외 3개관 변전실 수배전반 청소 및 애자교체 공사",
+   "date": "2026-11-05",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공개견적 공고(개인정보동의서 포함).hwp",
+     "path": "data/att/wku/be8af3abb47f4bfa9c79f2ae5b31ce9e/공개견적 공고(개인정보동의서 포함).hwp",
+     "bytes": 162304
+    },
+    {
+     "name": "도면.pdf",
+     "path": "data/att/wku/be8af3abb47f4bfa9c79f2ae5b31ce9e/도면.pdf",
+     "bytes": 313502
+    }
+   ],
+   "at": "2026-11-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "2fa34693a0494417afc0ca2761f89022",
+   "title": "숭산마음뜰 천정 택스 공사에 따른 유도등 설치공사",
+   "date": "2026-11-05",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "1. 공개견적 공고문.pdf",
+     "path": "data/att/wku/2fa34693a0494417afc0ca2761f89022/1. 공개견적 공고문.pdf",
+     "bytes": 82616
+    },
+    {
+     "name": "2. 시방서.pdf",
+     "path": "data/att/wku/2fa34693a0494417afc0ca2761f89022/2. 시방서.pdf",
+     "bytes": 43406
+    },
+    {
+     "name": "3. 도면.pdf",
+     "path": "data/att/wku/2fa34693a0494417afc0ca2761f89022/3. 도면.pdf",
+     "bytes": 9190419
+    },
+    {
+     "name": "4. 개인정보 이용동의서.pdf",
+     "path": "data/att/wku/2fa34693a0494417afc0ca2761f89022/4. 개인정보 이용동의서.pdf",
+     "bytes": 55749
+    },
+    {
+     "name": "5. 현장설명 참가 신청서.hwp",
+     "path": "data/att/wku/2fa34693a0494417afc0ca2761f89022/5. 현장설명 참가 신청서.hwp",
+     "bytes": 35840
+    }
+   ],
+   "at": "2026-11-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "384e1714d9134276affab010b0164e17",
+   "title": "원광대학교 소방시설 작동점검",
+   "date": "2026-11-05",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "1. 공개견적 공고문.pdf",
+     "path": "data/att/wku/384e1714d9134276affab010b0164e17/1. 공개견적 공고문.pdf",
+     "bytes": 82694
+    },
+    {
+     "name": "2. 시방서.pdf",
+     "path": "data/att/wku/384e1714d9134276affab010b0164e17/2. 시방서.pdf",
+     "bytes": 37381
+    },
+    {
+     "name": "3. 원광대학교 소방시설 현황.pdf",
+     "path": "data/att/wku/384e1714d9134276affab010b0164e17/3. 원광대학교 소방시설 현황.pdf",
+     "bytes": 954539
+    },
+    {
+     "name": "4. 개인정보 이용동의서.pdf",
+     "path": "data/att/wku/384e1714d9134276affab010b0164e17/4. 개인정보 이용동의서.pdf",
+     "bytes": 55749
+    },
+    {
+     "name": "5. 현장설명 참가 신청서.hwp",
+     "path": "data/att/wku/384e1714d9134276affab010b0164e17/5. 현장설명 참가 신청서.hwp",
+     "bytes": 35840
+    }
+   ],
+   "at": "2026-11-13"
   }
  ],
- "generatedAt": "2026-11-12T03:38:11.660Z",
+ "generatedAt": "2026-11-13T03:09:59.914Z",
  "report": [
   {
-   "org": "우리카드",
-   "id": "20261112091416609",
-   "title": "[입찰공고] 모바일 Web/App 고도화[DB서버(DBMS, Linux OS 포함)]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20261112091242873",
-   "title": "[입찰공고] 모바일 Web/App 고도화[가상화솔루션]",
-   "files": 3,
-   "links": 3
-  },
-  {
-   "org": "우리카드",
-   "id": "20261111141349233",
-   "title": "[제안공고] 공격표면관리(ASM) 서비스 도입(종합평가)",
-   "files": 4,
-   "links": 4
-  },
-  {
-   "job": "shinhanlife",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
-  },
-  {
-   "org": "원광대학교",
-   "id": "bda2d95416ca4b6bb7c5f265662ac405",
-   "title": "위관영양, 기관절개관 흡인실습모형 24대 외 10종",
+   "org": "신한라이프",
+   "id": "181da2360c724c13af8e",
+   "title": "서버가상화 (HPE VME) 시스템 증설 업체 선정",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "98165b74d6d24638a92a730f18cddc2b",
-   "title": "세탁기 5대 외 9종 구입",
+   "id": "64a424b6489e4af19b1696d722b7b500",
+   "title": "(재공고)원광대학교 대종로 리모델링 토목 및 조경공사 실시설계 용약",
+   "files": 5,
+   "links": 5
+  },
+  {
+   "org": "원광대학교",
+   "id": "b21104b8fc114137bc81464b8f7dcac2",
+   "title": "[산학협력단]노트북 1대 외 2종 구입",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "4e5fd7eed1db486388de840500bf51f8",
-   "title": "로봇 기반 치과 CAD/CAM 시스템 1SET 구입",
+   "id": "9f0b8f6fb8414f25b55c5dc99bff11eb",
+   "title": "[앵커]이차전지 산업분야 실무능력 함양을 위한 배터리성능평가 프로그램 용역",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "e8a2439afa8443b7a095fa6167e48085",
-   "title": "동결건조기 1대 구입",
+   "id": "5b1978b1828c47dc84a0086f5d05820f",
+   "title": "전기화학분석시스템 1SET 구입",
    "files": 2,
    "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "dcd6876ed1b246a09660801a17e20993",
+   "title": "냉장원심분리기 1대 외 23종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "034e0f1c8ce34e7aac369c493196e518",
+   "title": "전동식의료용침대 30대 외 15종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "be8af3abb47f4bfa9c79f2ae5b31ce9e",
+   "title": "프라임관 외 3개관 변전실 수배전반 청소 및 애자교체 공사",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "2fa34693a0494417afc0ca2761f89022",
+   "title": "숭산마음뜰 천정 택스 공사에 따른 유도등 설치공사",
+   "files": 5,
+   "links": 5
+  },
+  {
+   "org": "원광대학교",
+   "id": "384e1714d9134276affab010b0164e17",
+   "title": "원광대학교 소방시설 작동점검",
+   "files": 5,
+   "links": 5
   }
  ]
 }
