@@ -5459,8 +5459,78 @@
     }
    ],
    "at": "2026-11-13"
+  },
+  {
+   "org": "원광대학교",
+   "id": "c6196b8f25e14333b6f14135a5d85fbc",
+   "title": "[글로컬-지역상생사업] 원광대학교 외국인 유학생을 위한 베트남어판 TOPIK VOD 강의 제작 위탁 용역",
+   "date": "2026-11-16",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "1. 공고문.hwp",
+     "path": "data/att/wku/c6196b8f25e14333b6f14135a5d85fbc/1. 공고문.hwp",
+     "bytes": 126464
+    },
+    {
+     "name": "2. 과업지시서.pdf",
+     "path": "data/att/wku/c6196b8f25e14333b6f14135a5d85fbc/2. 과업지시서.pdf",
+     "bytes": 125477
+    }
+   ],
+   "at": "2026-11-16"
+  },
+  {
+   "org": "원광대학교",
+   "id": "e015d8f832284e638bb5fd6761d50580",
+   "title": "농생명융합대학 거점화 센터 구축에 따른 소방공사",
+   "date": "2026-11-06",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "4.현장설명 참가 신청서.hwp",
+     "path": "data/att/wku/e015d8f832284e638bb5fd6761d50580/4.현장설명 참가 신청서.hwp",
+     "bytes": 29184
+    },
+    {
+     "name": "2.시방서.pdf",
+     "path": "data/att/wku/e015d8f832284e638bb5fd6761d50580/2.시방서.pdf",
+     "bytes": 43476
+    },
+    {
+     "name": "5.개인정보 이용동의서.hwp",
+     "path": "data/att/wku/e015d8f832284e638bb5fd6761d50580/5.개인정보 이용동의서.hwp",
+     "bytes": 52224
+    },
+    {
+     "name": "1.공개견적 공고문.pdf",
+     "path": "data/att/wku/e015d8f832284e638bb5fd6761d50580/1.공개견적 공고문.pdf",
+     "bytes": 81429
+    },
+    {
+     "name": "3.도면.pdf",
+     "path": "data/att/wku/e015d8f832284e638bb5fd6761d50580/3.도면.pdf",
+     "bytes": 2674005
+    }
+   ],
+   "at": "2026-11-16"
   }
  ],
- "generatedAt": "2026-11-15T02:22:58.465Z",
- "report": []
+ "generatedAt": "2026-11-16T02:34:30.440Z",
+ "report": [
+  {
+   "org": "원광대학교",
+   "id": "c6196b8f25e14333b6f14135a5d85fbc",
+   "title": "[글로컬-지역상생사업] 원광대학교 외국인 유학생을 위한 베트남어판 TOPIK VOD 강의 제작 위탁 용역",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "e015d8f832284e638bb5fd6761d50580",
+   "title": "농생명융합대학 거점화 센터 구축에 따른 소방공사",
+   "files": 5,
+   "links": 5
+  }
+ ]
 }
