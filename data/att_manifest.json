@@ -1352,31 +1352,6 @@
   },
   {
    "org": "원광대학교",
-   "id": "0237c7271e5346919be4762047322b82",
-   "title": "농식품융합대학 물품 원상복귀 이전",
-   "date": "2026-08-18",
-   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
-   "files": [
-    {
-     "name": "2-1농생명융합대학_원상복귀_공간이동 현황.xlsx",
-     "path": "data/att/wku/0237c7271e5346919be4762047322b82/2-1농생명융합대학_원상복귀_공간이동 현황.xlsx",
-     "bytes": 20345
-    },
-    {
-     "name": "1공고문(농식품융합대학 원상복귀).hwp",
-     "path": "data/att/wku/0237c7271e5346919be4762047322b82/1공고문(농식품융합대학 원상복귀).hwp",
-     "bytes": 147968
-    },
-    {
-     "name": "2과업지시서(농식품융합대학 원상복귀).hwp",
-     "path": "data/att/wku/0237c7271e5346919be4762047322b82/2과업지시서(농식품융합대학 원상복귀).hwp",
-     "bytes": 161280
-    }
-   ],
-   "at": "2026-09-23"
-  },
-  {
-   "org": "원광대학교",
    "id": "d51627a4fb844e08a536c3b58bb2132c",
    "title": "수업행동분석실 화상캠 외 1종 구입",
    "date": "2026-09-08",
@@ -5514,23 +5489,85 @@
     }
    ],
    "at": "2026-11-16"
-  }
- ],
- "generatedAt": "2026-11-16T02:34:30.440Z",
- "report": [
+  },
+  {
+   "org": "우리카드",
+   "id": "20261117130010985",
+   "title": "[제안공고] 우리WON마켓비즈(B2B) 운영사 선정",
+   "date": "2026-11-17",
+   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20261117130010985",
+   "files": [
+    {
+     "name": "우리WON마켓비즈(B2B) 운영사 선정 제안요청서_vf.hwp",
+     "path": "data/att/wooricard/20261117130010985/우리WON마켓비즈(B2B) 운영사 선정 제안요청서_vf.hwp",
+     "bytes": 113664
+    }
+   ],
+   "at": "2026-11-17"
+  },
   {
    "org": "원광대학교",
-   "id": "c6196b8f25e14333b6f14135a5d85fbc",
-   "title": "[글로컬-지역상생사업] 원광대학교 외국인 유학생을 위한 베트남어판 TOPIK VOD 강의 제작 위탁 용역",
+   "id": "98c025341a29402bb608c9cc7dd4a6de",
+   "title": "[T3-3][2차연도] AI·글로벌 청년 로컬 역량강화 교육프로그램 운영 용역",
+   "date": "2026-11-16",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "3. ai_글로벌 청년 로컬 역량강화 프로그램 과업지시서.pdf",
+     "path": "data/att/wku/98c025341a29402bb608c9cc7dd4a6de/3. ai_글로벌 청년 로컬 역량강화 프로그램 과업지시서.pdf",
+     "bytes": 183732
+    },
+    {
+     "name": "공개견적 양식.pdf",
+     "path": "data/att/wku/98c025341a29402bb608c9cc7dd4a6de/공개견적 양식.pdf",
+     "bytes": 142438
+    }
+   ],
+   "at": "2026-11-17"
+  },
+  {
+   "org": "원광대학교",
+   "id": "1f2d927b949447a39e3cadca6281ddd7",
+   "title": "[국고-글로컬]'한국형 One-stop 협진' 통합의료 혁신기술 연구 용역",
+   "date": "2026-11-16",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공개견적 공고_ 통합의료혁신센터.hwp",
+     "path": "data/att/wku/1f2d927b949447a39e3cadca6281ddd7/공개견적 공고_ 통합의료혁신센터.hwp",
+     "bytes": 66048
+    },
+    {
+     "name": "과업지시서.pdf",
+     "path": "data/att/wku/1f2d927b949447a39e3cadca6281ddd7/과업지시서.pdf",
+     "bytes": 161187
+    }
+   ],
+   "at": "2026-11-17"
+  }
+ ],
+ "generatedAt": "2026-11-17T04:58:18.066Z",
+ "report": [
+  {
+   "org": "우리카드",
+   "id": "20261117130010985",
+   "title": "[제안공고] 우리WON마켓비즈(B2B) 운영사 선정",
+   "files": 1,
+   "links": 1
+  },
+  {
+   "org": "원광대학교",
+   "id": "98c025341a29402bb608c9cc7dd4a6de",
+   "title": "[T3-3][2차연도] AI·글로벌 청년 로컬 역량강화 교육프로그램 운영 용역",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "e015d8f832284e638bb5fd6761d50580",
-   "title": "농생명융합대학 거점화 센터 구축에 따른 소방공사",
-   "files": 5,
-   "links": 5
+   "id": "1f2d927b949447a39e3cadca6281ddd7",
+   "title": "[국고-글로컬]'한국형 One-stop 협진' 통합의료 혁신기술 연구 용역",
+   "files": 2,
+   "links": 2
   }
  ]
 }
