@@ -847,26 +847,6 @@
   },
   {
    "org": "원광대학교",
-   "id": "c233aa51922b49e1991387d00a35627a",
-   "title": "(3차공고) 학교법인 원광학원 임대업체 선정 입찰",
-   "date": "2026-08-19",
-   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
-   "files": [
-    {
-     "name": "2. 계약일반조건.hwp",
-     "path": "data/att/wku/c233aa51922b49e1991387d00a35627a/2. 계약일반조건.hwp",
-     "bytes": 65024
-    },
-    {
-     "name": "1. (3차공고) 학교법인 원광학원 임대업체 선정 입찰.hwp",
-     "path": "data/att/wku/c233aa51922b49e1991387d00a35627a/1. (3차공고) 학교법인 원광학원 임대업체 선정 입찰.hwp",
-     "bytes": 79360
-    }
-   ],
-   "at": "2026-09-21"
-  },
-  {
-   "org": "원광대학교",
    "id": "09c3cd7ca35a465bbec587a381a0713f",
    "title": "글로컬 생명존중 숭산마음뜰 조성 전기공사",
    "date": "2026-08-20",
@@ -1366,26 +1346,6 @@
      "name": "구매규격서_화상캠 외 1종.pdf",
      "path": "data/att/wku/d51627a4fb844e08a536c3b58bb2132c/구매규격서_화상캠 외 1종.pdf",
      "bytes": 98682
-    }
-   ],
-   "at": "2026-09-23"
-  },
-  {
-   "org": "원광대학교",
-   "id": "05ce09296b874c4599fd8fb73bb76034",
-   "title": "포터블액스레이 1대 외 2종 구입",
-   "date": "2026-08-19",
-   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
-   "files": [
-    {
-     "name": "공고문(포터블엑스레이).hwp",
-     "path": "data/att/wku/05ce09296b874c4599fd8fb73bb76034/공고문(포터블엑스레이).hwp",
-     "bytes": 128512
-    },
-    {
-     "name": "규격서(포터블엑스레이).pdf",
-     "path": "data/att/wku/05ce09296b874c4599fd8fb73bb76034/규격서(포터블엑스레이).pdf",
-     "bytes": 127111
     }
    ],
    "at": "2026-09-23"
@@ -5544,30 +5504,299 @@
     }
    ],
    "at": "2026-11-17"
+  },
+  {
+   "org": "원광대학교",
+   "id": "0b203b0d772a4e21926e74cb1324fa1b",
+   "title": "Microsoft Software 연간사용권 구입",
+   "date": "2026-11-18",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-microsoft software 연간사용권.hwp",
+     "path": "data/att/wku/0b203b0d772a4e21926e74cb1324fa1b/공고문-microsoft software 연간사용권.hwp",
+     "bytes": 139776
+    },
+    {
+     "name": "규격서-microsoft software 연간사용권.pdf",
+     "path": "data/att/wku/0b203b0d772a4e21926e74cb1324fa1b/규격서-microsoft software 연간사용권.pdf",
+     "bytes": 51601
+    }
+   ],
+   "at": "2026-11-18"
+  },
+  {
+   "org": "원광대학교",
+   "id": "0cd2c810f0194efa9a6043d2f8d15e8e",
+   "title": "분취용 액체크로마토그래프/질량분석기 1SET 구입",
+   "date": "2026-11-18",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-분취용 액체크로마토그래프 질량분석기.hwp",
+     "path": "data/att/wku/0cd2c810f0194efa9a6043d2f8d15e8e/공고문-분취용 액체크로마토그래프 질량분석기.hwp",
+     "bytes": 75264
+    },
+    {
+     "name": "규격서-분취용 액체크로마토그래프 질량분석기.pdf",
+     "path": "data/att/wku/0cd2c810f0194efa9a6043d2f8d15e8e/규격서-분취용 액체크로마토그래프 질량분석기.pdf",
+     "bytes": 138728
+    }
+   ],
+   "at": "2026-11-18"
+  },
+  {
+   "org": "원광대학교",
+   "id": "7c1724590805419bbab45700e9d60781",
+   "title": "RF 스퍼터링시스템 1SET 구입",
+   "date": "2026-11-18",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-rf스퍼터링시스템.hwp",
+     "path": "data/att/wku/7c1724590805419bbab45700e9d60781/공고문-rf스퍼터링시스템.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서-rf스퍼터링시스템.pdf",
+     "path": "data/att/wku/7c1724590805419bbab45700e9d60781/규격서-rf스퍼터링시스템.pdf",
+     "bytes": 134397
+    }
+   ],
+   "at": "2026-11-18"
+  },
+  {
+   "org": "원광대학교",
+   "id": "a923c2b196c64a7eb96c67ca6f206610",
+   "title": "리얼본전신팬텀 1SET 구입",
+   "date": "2026-11-18",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-리얼본전신팬텀.hwp",
+     "path": "data/att/wku/a923c2b196c64a7eb96c67ca6f206610/공고문-리얼본전신팬텀.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서-리얼본전신팬텀.pdf",
+     "path": "data/att/wku/a923c2b196c64a7eb96c67ca6f206610/규격서-리얼본전신팬텀.pdf",
+     "bytes": 115662
+    }
+   ],
+   "at": "2026-11-18"
+  },
+  {
+   "org": "원광대학교",
+   "id": "98376a98f076401b9b60f8ec0487d7f4",
+   "title": "식품물성시험기 1SET 구입",
+   "date": "2026-11-18",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-식품물성시험기 1set.hwp",
+     "path": "data/att/wku/98376a98f076401b9b60f8ec0487d7f4/공고문-식품물성시험기 1set.hwp",
+     "bytes": 140800
+    },
+    {
+     "name": "규격서-식품물성시험기 1set.pdf",
+     "path": "data/att/wku/98376a98f076401b9b60f8ec0487d7f4/규격서-식품물성시험기 1set.pdf",
+     "bytes": 124424
+    }
+   ],
+   "at": "2026-11-18"
+  },
+  {
+   "org": "원광대학교",
+   "id": "e7b881e9123745369955f9ddd89fbbd2",
+   "title": "방수형 무선표면근전도계 2SET 구입",
+   "date": "2026-11-18",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-방수형 무선표면근전도계.hwp",
+     "path": "data/att/wku/e7b881e9123745369955f9ddd89fbbd2/공고문-방수형 무선표면근전도계.hwp",
+     "bytes": 74752
+    },
+    {
+     "name": "규격서-방수형 무선표면근전도계.pdf",
+     "path": "data/att/wku/e7b881e9123745369955f9ddd89fbbd2/규격서-방수형 무선표면근전도계.pdf",
+     "bytes": 120303
+    }
+   ],
+   "at": "2026-11-18"
+  },
+  {
+   "org": "원광대학교",
+   "id": "5d46ab7b8f95426c9b44408679ce3019",
+   "title": "조직처리기 1대 외 1종 구입",
+   "date": "2026-11-18",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-조직처리기 외.hwp",
+     "path": "data/att/wku/5d46ab7b8f95426c9b44408679ce3019/공고문-조직처리기 외.hwp",
+     "bytes": 74752
+    },
+    {
+     "name": "규격서-조직처리기 외.pdf",
+     "path": "data/att/wku/5d46ab7b8f95426c9b44408679ce3019/규격서-조직처리기 외.pdf",
+     "bytes": 167273
+    }
+   ],
+   "at": "2026-11-18"
+  },
+  {
+   "org": "원광대학교",
+   "id": "62c7f4bfaefd411ba5dec6a70efb6a9b",
+   "title": "GPU서버 1대 구입",
+   "date": "2026-11-18",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-gpu서버 1대.hwp",
+     "path": "data/att/wku/62c7f4bfaefd411ba5dec6a70efb6a9b/공고문-gpu서버 1대.hwp",
+     "bytes": 74752
+    },
+    {
+     "name": "규격서-gpu서버 1대.pdf",
+     "path": "data/att/wku/62c7f4bfaefd411ba5dec6a70efb6a9b/규격서-gpu서버 1대.pdf",
+     "bytes": 138042
+    }
+   ],
+   "at": "2026-11-18"
+  },
+  {
+   "org": "원광대학교",
+   "id": "0b6e1d57caee466791e27c59bb5515b8",
+   "title": "생물안전작업대 4대 외 1종 구입",
+   "date": "2026-11-18",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "재공고문-생물안전작업대 외.hwp",
+     "path": "data/att/wku/0b6e1d57caee466791e27c59bb5515b8/재공고문-생물안전작업대 외.hwp",
+     "bytes": 141824
+    },
+    {
+     "name": "규격서-생물안전작업대 외.pdf",
+     "path": "data/att/wku/0b6e1d57caee466791e27c59bb5515b8/규격서-생물안전작업대 외.pdf",
+     "bytes": 124539
+    }
+   ],
+   "at": "2026-11-18"
+  },
+  {
+   "org": "원광대학교",
+   "id": "783778b44f5f4674a4125c34aca09da6",
+   "title": "[글로컬-지역상생사업] 전북특별자치도 유학생 홍보영상 제작 위탁 용역",
+   "date": "2026-11-17",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "1. 과업지시서.pdf",
+     "path": "data/att/wku/783778b44f5f4674a4125c34aca09da6/1. 과업지시서.pdf",
+     "bytes": 146811
+    },
+    {
+     "name": "2. 공개견적 공고문.hwp",
+     "path": "data/att/wku/783778b44f5f4674a4125c34aca09da6/2. 공개견적 공고문.hwp",
+     "bytes": 62464
+    }
+   ],
+   "at": "2026-11-18"
+  },
+  {
+   "org": "원광대학교",
+   "id": "1cfd89ad00c142d98c165f8e7b03d285",
+   "title": "TEST",
+   "date": "2026-11-17",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [],
+   "at": "2026-11-18"
   }
  ],
- "generatedAt": "2026-11-17T04:58:18.066Z",
+ "generatedAt": "2026-11-18T04:04:44.121Z",
  "report": [
   {
-   "org": "우리카드",
-   "id": "20261117130010985",
-   "title": "[제안공고] 우리WON마켓비즈(B2B) 운영사 선정",
-   "files": 1,
-   "links": 1
+   "job": "shinhanlife",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
   },
   {
    "org": "원광대학교",
-   "id": "98c025341a29402bb608c9cc7dd4a6de",
-   "title": "[T3-3][2차연도] AI·글로벌 청년 로컬 역량강화 교육프로그램 운영 용역",
+   "id": "0b203b0d772a4e21926e74cb1324fa1b",
+   "title": "Microsoft Software 연간사용권 구입",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "1f2d927b949447a39e3cadca6281ddd7",
-   "title": "[국고-글로컬]'한국형 One-stop 협진' 통합의료 혁신기술 연구 용역",
+   "id": "0cd2c810f0194efa9a6043d2f8d15e8e",
+   "title": "분취용 액체크로마토그래프/질량분석기 1SET 구입",
    "files": 2,
    "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "7c1724590805419bbab45700e9d60781",
+   "title": "RF 스퍼터링시스템 1SET 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "a923c2b196c64a7eb96c67ca6f206610",
+   "title": "리얼본전신팬텀 1SET 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "98376a98f076401b9b60f8ec0487d7f4",
+   "title": "식품물성시험기 1SET 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "e7b881e9123745369955f9ddd89fbbd2",
+   "title": "방수형 무선표면근전도계 2SET 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "5d46ab7b8f95426c9b44408679ce3019",
+   "title": "조직처리기 1대 외 1종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "62c7f4bfaefd411ba5dec6a70efb6a9b",
+   "title": "GPU서버 1대 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "0b6e1d57caee466791e27c59bb5515b8",
+   "title": "생물안전작업대 4대 외 1종 구입",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "783778b44f5f4674a4125c34aca09da6",
+   "title": "[글로컬-지역상생사업] 전북특별자치도 유학생 홍보영상 제작 위탁 용역",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "1cfd89ad00c142d98c165f8e7b03d285",
+   "title": "TEST",
+   "files": 0,
+   "links": 0
   }
  ]
 }
