@@ -91,31 +91,6 @@
    "at": "2026-09-20"
   },
   {
-   "org": "우리카드",
-   "id": "20260821111314292",
-   "title": "[입찰재공고] AI 기반 지식관리시스템(KMS) 재구축[SW_DBMS]",
-   "date": "2026-08-21",
-   "link": "https://pc.wooricard.com/dcpc/yh1/cct/cct02/anc/H1CCT202S04.do#sn=20260821111314292",
-   "files": [
-    {
-     "name": "1_3. 제품도입 사양[SW_DBMS].xlsx",
-     "path": "data/att/wooricard/20260821111314292/1_3. 제품도입 사양[SW_DBMS].xlsx",
-     "bytes": 25355
-    },
-    {
-     "name": "2_3. 입찰(제안)참가신청서[SW_DBMS].docx",
-     "path": "data/att/wooricard/20260821111314292/2_3. 입찰(제안)참가신청서[SW_DBMS].docx",
-     "bytes": 70069
-    },
-    {
-     "name": "WCPM_사용자매뉴얼(협력사용).pdf",
-     "path": "data/att/wooricard/20260821111314292/WCPM_사용자매뉴얼(협력사용).pdf",
-     "bytes": 3391618
-    }
-   ],
-   "at": "2026-09-20"
-  },
-  {
    "org": "하나금융그룹",
    "id": "10000148",
    "title": "[입찰공고] 하나금융그룹 '연결회계시스템 구축 사업’ 제안 재공고 제안서 및 입찰서류 제출기한 : 2026년 9월 22일(화요일) 오전 11시까지",
@@ -5642,7 +5617,7 @@
    "date": "2026-11-17",
    "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
    "files": [],
-   "at": "2026-11-19"
+   "at": "2026-11-20"
   },
   {
    "org": "원광대학교",
@@ -5858,88 +5833,169 @@
     }
    ],
    "at": "2026-11-19"
+  },
+  {
+   "org": "원광대학교",
+   "id": "7347e30a413a458eb00ef90f7d3c4111",
+   "title": "고무나무3단 의자교구세트 2SET 외 2종 구매",
+   "date": "2026-11-20",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문-고무나무3단의자교구세 외.hwp",
+     "path": "data/att/wku/7347e30a413a458eb00ef90f7d3c4111/공고문-고무나무3단의자교구세 외.hwp",
+     "bytes": 65024
+    },
+    {
+     "name": "규격서-고무나무3단의자교구세 외.pdf",
+     "path": "data/att/wku/7347e30a413a458eb00ef90f7d3c4111/규격서-고무나무3단의자교구세 외.pdf",
+     "bytes": 169799
+    }
+   ],
+   "at": "2026-11-20"
+  },
+  {
+   "org": "원광대학교",
+   "id": "2523daeffdf94571b145fad778741580",
+   "title": "(재공고) 현미경용 빔스플리터 1대 외 4종 구매",
+   "date": "2026-11-10",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "재공고문-현미경용 빔스플리터 외.hwp",
+     "path": "data/att/wku/2523daeffdf94571b145fad778741580/재공고문-현미경용 빔스플리터 외.hwp",
+     "bytes": 68608
+    },
+    {
+     "name": "규격서-현미경용 빔스플리터 외.pdf",
+     "path": "data/att/wku/2523daeffdf94571b145fad778741580/규격서-현미경용 빔스플리터 외.pdf",
+     "bytes": 179019
+    }
+   ],
+   "at": "2026-11-20"
+  },
+  {
+   "org": "원광대학교",
+   "id": "e45301c9c1c54db1b3c114ba1df1b5ea",
+   "title": "(재공고) 냉동고 1대 외 2종 구매",
+   "date": "2026-11-10",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "재공고문-냉동고 외.hwp",
+     "path": "data/att/wku/e45301c9c1c54db1b3c114ba1df1b5ea/재공고문-냉동고 외.hwp",
+     "bytes": 128512
+    },
+    {
+     "name": "구매규격서-냉동고 외.pdf",
+     "path": "data/att/wku/e45301c9c1c54db1b3c114ba1df1b5ea/구매규격서-냉동고 외.pdf",
+     "bytes": 228697
+    }
+   ],
+   "at": "2026-11-20"
+  },
+  {
+   "org": "원광대학교",
+   "id": "ba6224455f634ecfba584f5eaf418334",
+   "title": "[교육발전특구]더봄 국어 영재 프로젝트 교재 개발(중등) 용역",
+   "date": "2026-11-19",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "붙임1. 공고문..hwp",
+     "path": "data/att/wku/ba6224455f634ecfba584f5eaf418334/붙임1. 공고문..hwp",
+     "bytes": 81920
+    },
+    {
+     "name": "붙임2. 과업지시서_더봄 국어 영재 프로젝트 교재 개발(중등).hwp",
+     "path": "data/att/wku/ba6224455f634ecfba584f5eaf418334/붙임2. 과업지시서_더봄 국어 영재 프로젝트 교재 개발(중등).hwp",
+     "bytes": 81920
+    }
+   ],
+   "at": "2026-11-20"
+  },
+  {
+   "org": "원광대학교",
+   "id": "7058120879c044f6b23ecfb127d9f165",
+   "title": "[교육발전특구]더봄 국어 영재 프로젝트 교재 개발(초등) 용역",
+   "date": "2026-11-19",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공개견적 공고문.hwp",
+     "path": "data/att/wku/7058120879c044f6b23ecfb127d9f165/공개견적 공고문.hwp",
+     "bytes": 81920
+    },
+    {
+     "name": "과업지시서_2026년도 더봄 국어 영재 프로젝트 교재 개발(초등).hwp",
+     "path": "data/att/wku/7058120879c044f6b23ecfb127d9f165/과업지시서_2026년도 더봄 국어 영재 프로젝트 교재 개발(초등).hwp",
+     "bytes": 49152
+    }
+   ],
+   "at": "2026-11-20"
+  },
+  {
+   "org": "원광대학교",
+   "id": "d6f457f0bee749a38653c3672fe25bf6",
+   "title": "(재공고)[글로컬-지역상생사업] 2026년 원광대학교 외국인 유학생을 위한 베트남어판 TOPIK VOD 강의 제작",
+   "date": "2026-11-19",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "1. 공고문.hwp",
+     "path": "data/att/wku/d6f457f0bee749a38653c3672fe25bf6/1. 공고문.hwp",
+     "bytes": 126464
+    },
+    {
+     "name": "2. 과업지시서.pdf",
+     "path": "data/att/wku/d6f457f0bee749a38653c3672fe25bf6/2. 과업지시서.pdf",
+     "bytes": 125477
+    }
+   ],
+   "at": "2026-11-20"
   }
  ],
- "generatedAt": "2026-11-19T04:01:35.590Z",
+ "generatedAt": "2026-11-20T03:53:30.039Z",
  "report": [
   {
-   "job": "shinhanlife",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
-  },
-  {
    "org": "원광대학교",
-   "id": "df6afd980809448c8da0c5141d591839",
-   "title": "(재공고) [국고-글로컬]'한국형 One-stop 협진' 통합의료 혁신기술 연구 용역",
+   "id": "7347e30a413a458eb00ef90f7d3c4111",
+   "title": "고무나무3단 의자교구세트 2SET 외 2종 구매",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "8079b7bdb06c476cb9b86a78b76c79eb",
-   "title": "[앵커]한국기계가공학회 특별세션 운영 및 캡스톤디자인경진대회 참가 용역",
+   "id": "2523daeffdf94571b145fad778741580",
+   "title": "(재공고) 현미경용 빔스플리터 1대 외 4종 구매",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "82ba2b621aa64d5aadde8addce2dc1d7",
-   "title": "3D프린터유해가스정화장치 3대 구입",
-   "files": 1,
-   "links": 1
-  },
-  {
-   "org": "원광대학교",
-   "id": "15bb7d9d4a2c401fbba4dcfbd57a204e",
-   "title": "전자칠판 2대 외 1종 구입",
+   "id": "e45301c9c1c54db1b3c114ba1df1b5ea",
+   "title": "(재공고) 냉동고 1대 외 2종 구매",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "35e7c4f40af742248c5c1a44e657858d",
-   "title": "유니트체어 6대 구입",
+   "id": "ba6224455f634ecfba584f5eaf418334",
+   "title": "[교육발전특구]더봄 국어 영재 프로젝트 교재 개발(중등) 용역",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "59fe2441712d47658286665c13903ebc",
-   "title": "치과실습용마네킹 6대 구입",
+   "id": "7058120879c044f6b23ecfb127d9f165",
+   "title": "[교육발전특구]더봄 국어 영재 프로젝트 교재 개발(초등) 용역",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "9783a913dfbf4ecf90be9a252e938f8e",
-   "title": "사물함 23대 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "beee321b75dc46a7a7bd2f0e2af26dec",
-   "title": "인공호흡기 2대 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "bf02a8d142314f3db000dfca0c9c841f",
-   "title": "노인 스킨 업그레이드 키트 1대 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "3c3c4d176f884f389c1c638849f7ee13",
-   "title": "사이니지TV 1대 외 16종 구입",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "5083fb5b58fb4675b22470795cfa5a98",
-   "title": "[글로컬-지역상생사업] 무릎 골관절염 유전자치료제에 대한 비임상 안전성평가 용역",
+   "id": "d6f457f0bee749a38653c3672fe25bf6",
+   "title": "(재공고)[글로컬-지역상생사업] 2026년 원광대학교 외국인 유학생을 위한 베트남어판 TOPIK VOD 강의 제작",
    "files": 2,
    "links": 2
   },
