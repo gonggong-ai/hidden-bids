@@ -236,26 +236,6 @@
    "at": "2026-09-21"
   },
   {
-   "org": "신한라이프",
-   "id": "8a7caff3bbff4951be91",
-   "title": "신한라이프 개인정보처리 기록관리 솔루션 H/W 납품 업체 선정",
-   "date": "2026-08-24",
-   "link": "https://www.shinhanlife.co.kr/hp/cdhi0510.do",
-   "files": [
-    {
-     "name": "첨부1. (개인정보처리 기록관리 솔루션 HW 납품 업체 선정) 비밀유지서약서.doc",
-     "path": "data/att/shinhanlife/8a7caff3bbff4951be91/첨부1. (개인정보처리 기록관리 솔루션 HW 납품 업체 선정) 비밀유지서약서.doc",
-     "bytes": 51712
-    },
-    {
-     "name": "첨부2. (개인정보처리 기록관리 솔루션 HW 납품 업체 선정) 입찰참가신청서.doc",
-     "path": "data/att/shinhanlife/8a7caff3bbff4951be91/첨부2. (개인정보처리 기록관리 솔루션 HW 납품 업체 선정) 입찰참가신청서.doc",
-     "bytes": 40448
-    }
-   ],
-   "at": "2026-09-21"
-  },
-  {
    "org": "원광대학교",
    "id": "a21c5820d6b7407785fee31a37f1ed56",
    "title": "(재공고) 비침습인젝터 3대 외 2종 구입",
@@ -6113,22 +6093,77 @@
     }
    ],
    "at": "2026-11-21"
-  }
- ],
- "generatedAt": "2026-11-22T02:50:47.289Z",
- "report": [
-  {
-   "job": "hanafn",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.hanafn.com/mediaRoom/hanaNews/noticeList.do\", waiting until \"domcontentloaded\"\n"
   },
   {
-   "job": "shinhanlife",
-   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
+   "org": "신한라이프",
+   "id": "5047b7c13376414ab232",
+   "title": "2027년 SNS 운영대행사 선정",
+   "date": "2026-11-23",
+   "link": "https://www.shinhanlife.co.kr/hp/cdhi0510.do",
+   "files": [
+    {
+     "name": "(2027년 SNS 운영대행사 선정) 첨부 1. 비밀유지서약서.doc",
+     "path": "data/att/shinhanlife/5047b7c13376414ab232/(2027년 SNS 운영대행사 선정) 첨부 1. 비밀유지서약서.doc",
+     "bytes": 55808
+    },
+    {
+     "name": "(2027년 SNS 운영대행사 선정) 첨부 2. 입찰참가신청서.doc",
+     "path": "data/att/shinhanlife/5047b7c13376414ab232/(2027년 SNS 운영대행사 선정) 첨부 2. 입찰참가신청서.doc",
+     "bytes": 39424
+    }
+   ],
+   "at": "2026-11-23"
   },
   {
    "org": "원광대학교",
-   "id": "f6fd1287275042f5a31cf8f74ea12639",
-   "title": "(재공고) 전동식의료용침대 30대 외 15종 구입",
+   "id": "d5fefcbed0d843a5b2448c7364f9346f",
+   "title": "(재공고)[글로컬-지역상생사업] 무릎 골관절염 유전자치료제에 대한 비임상 안전성평가 용역",
+   "date": "2026-11-23",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [],
+   "at": "2026-11-23"
+  },
+  {
+   "org": "원광대학교",
+   "id": "e32f398f2c2e4508897719432b00d1b0",
+   "title": "의학관 4층 개방형실험실 개보수 전기공사",
+   "date": "2026-11-06",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공개견적 공고문(개인정보동의서 포함).hwp",
+     "path": "data/att/wku/e32f398f2c2e4508897719432b00d1b0/공개견적 공고문(개인정보동의서 포함).hwp",
+     "bytes": 82432
+    },
+    {
+     "name": "도면.pdf",
+     "path": "data/att/wku/e32f398f2c2e4508897719432b00d1b0/도면.pdf",
+     "bytes": 4631892
+    }
+   ],
+   "at": "2026-11-23"
+  }
+ ],
+ "generatedAt": "2026-11-23T03:30:19.247Z",
+ "report": [
+  {
+   "org": "신한라이프",
+   "id": "5047b7c13376414ab232",
+   "title": "2027년 SNS 운영대행사 선정",
+   "files": 2,
+   "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "d5fefcbed0d843a5b2448c7364f9346f",
+   "title": "(재공고)[글로컬-지역상생사업] 무릎 골관절염 유전자치료제에 대한 비임상 안전성평가 용역",
+   "files": 0,
+   "links": 0
+  },
+  {
+   "org": "원광대학교",
+   "id": "e32f398f2c2e4508897719432b00d1b0",
+   "title": "의학관 4층 개방형실험실 개보수 전기공사",
    "files": 2,
    "links": 2
   }
