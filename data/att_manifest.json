@@ -216,26 +216,6 @@
    "at": "2026-09-21"
   },
   {
-   "org": "신한라이프",
-   "id": "167fbefc8ddd4312946e",
-   "title": "신한라이프 맞춤형 약관 및 3대서류 책자 제작 업체 선정",
-   "date": "2026-08-25",
-   "link": "https://www.shinhanlife.co.kr/hp/cdhi0510.do",
-   "files": [
-    {
-     "name": "첨부1. [맞춤형 약관 및 3대서류 제작] 비밀유지서약서.doc",
-     "path": "data/att/shinhanlife/167fbefc8ddd4312946e/첨부1. [맞춤형 약관 및 3대서류 제작] 비밀유지서약서.doc",
-     "bytes": 51712
-    },
-    {
-     "name": "첨부2. [맞춤형 약관 및 3대서류 제작] 입찰참가신청서.doc",
-     "path": "data/att/shinhanlife/167fbefc8ddd4312946e/첨부2. [맞춤형 약관 및 3대서류 제작] 입찰참가신청서.doc",
-     "bytes": 40448
-    }
-   ],
-   "at": "2026-09-21"
-  },
-  {
    "org": "원광대학교",
    "id": "a21c5820d6b7407785fee31a37f1ed56",
    "title": "(재공고) 비침습인젝터 3대 외 2종 구입",
@@ -6120,8 +6100,19 @@
    "title": "(재공고)[글로컬-지역상생사업] 무릎 골관절염 유전자치료제에 대한 비임상 안전성평가 용역",
    "date": "2026-11-23",
    "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
-   "files": [],
-   "at": "2026-11-23"
+   "files": [
+    {
+     "name": "2. 과업지시서.hwp",
+     "path": "data/att/wku/d5fefcbed0d843a5b2448c7364f9346f/2. 과업지시서.hwp",
+     "bytes": 39936
+    },
+    {
+     "name": "1. 재공고문.hwp",
+     "path": "data/att/wku/d5fefcbed0d843a5b2448c7364f9346f/1. 재공고문.hwp",
+     "bytes": 64512
+    }
+   ],
+   "at": "2026-11-24"
   },
   {
    "org": "원광대학교",
@@ -6142,30 +6133,102 @@
     }
    ],
    "at": "2026-11-23"
+  },
+  {
+   "org": "신한라이프",
+   "id": "6c28c5c24308461483f3",
+   "title": "콜센터 운영 아웃소싱 업체 선정",
+   "date": "2026-11-23",
+   "link": "https://www.shinhanlife.co.kr/hp/cdhi0510.do",
+   "files": [
+    {
+     "name": "(콜센터) 첨부 1. 비밀유지서약서.doc",
+     "path": "data/att/shinhanlife/6c28c5c24308461483f3/(콜센터) 첨부 1. 비밀유지서약서.doc",
+     "bytes": 51200
+    },
+    {
+     "name": "(콜센터) 첨부 2. 입찰참가신청서.doc",
+     "path": "data/att/shinhanlife/6c28c5c24308461483f3/(콜센터) 첨부 2. 입찰참가신청서.doc",
+     "bytes": 41984
+    }
+   ],
+   "at": "2026-11-24"
+  },
+  {
+   "org": "원광대학교",
+   "id": "3e29c6a44e854fb0840e8b3e8632aeee",
+   "title": "가금산업 전공 운영 콘텐츠 제작 용역 제안서 평가위원(후보자) 모집 공고",
+   "date": "2026-11-23",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "익산시 다이로움 외국인재 정주취업 지원체계 구축 가금산업 전공 운영 콘텐츠 제작 용역 제안서 평가위원후보자 모집 공고.hwpx",
+     "path": "data/att/wku/3e29c6a44e854fb0840e8b3e8632aeee/익산시 다이로움 외국인재 정주취업 지원체계 구축 가금산업 전공 운영 콘텐츠 제작 용역 제안서 평가위원후보자 모집 공고.hwpx",
+     "bytes": 91936
+    }
+   ],
+   "at": "2026-11-24"
+  },
+  {
+   "org": "원광대학교",
+   "id": "c79df3d65f88432d81cf440fc0731e3b",
+   "title": "학생지원관 1층 로비 리모델링 건축공사 설계용역",
+   "date": "2026-11-16",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "3.현장설명 참가 신청서.hwp",
+     "path": "data/att/wku/c79df3d65f88432d81cf440fc0731e3b/3.현장설명 참가 신청서.hwp",
+     "bytes": 29184
+    },
+    {
+     "name": "1.공개견적 공고문.pdf",
+     "path": "data/att/wku/c79df3d65f88432d81cf440fc0731e3b/1.공개견적 공고문.pdf",
+     "bytes": 80215
+    },
+    {
+     "name": "4.개인정보 이용동의서.hwp",
+     "path": "data/att/wku/c79df3d65f88432d81cf440fc0731e3b/4.개인정보 이용동의서.hwp",
+     "bytes": 52224
+    },
+    {
+     "name": "2.과업지시서.pdf",
+     "path": "data/att/wku/c79df3d65f88432d81cf440fc0731e3b/2.과업지시서.pdf",
+     "bytes": 136140
+    }
+   ],
+   "at": "2026-11-24"
   }
  ],
- "generatedAt": "2026-11-23T03:30:19.247Z",
+ "generatedAt": "2026-11-24T06:44:39.244Z",
  "report": [
   {
    "org": "신한라이프",
-   "id": "5047b7c13376414ab232",
-   "title": "2027년 SNS 운영대행사 선정",
+   "id": "6c28c5c24308461483f3",
+   "title": "콜센터 운영 아웃소싱 업체 선정",
    "files": 2,
    "links": 2
+  },
+  {
+   "org": "원광대학교",
+   "id": "3e29c6a44e854fb0840e8b3e8632aeee",
+   "title": "가금산업 전공 운영 콘텐츠 제작 용역 제안서 평가위원(후보자) 모집 공고",
+   "files": 1,
+   "links": 1
   },
   {
    "org": "원광대학교",
    "id": "d5fefcbed0d843a5b2448c7364f9346f",
    "title": "(재공고)[글로컬-지역상생사업] 무릎 골관절염 유전자치료제에 대한 비임상 안전성평가 용역",
-   "files": 0,
-   "links": 0
+   "files": 2,
+   "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "e32f398f2c2e4508897719432b00d1b0",
-   "title": "의학관 4층 개방형실험실 개보수 전기공사",
-   "files": 2,
-   "links": 2
+   "id": "c79df3d65f88432d81cf440fc0731e3b",
+   "title": "학생지원관 1층 로비 리모델링 건축공사 설계용역",
+   "files": 4,
+   "links": 4
   }
  ]
 }
