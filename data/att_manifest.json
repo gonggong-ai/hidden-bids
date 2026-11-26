@@ -131,26 +131,6 @@
    "at": "2026-09-21"
   },
   {
-   "org": "신한라이프",
-   "id": "d00dd6ad59874430be5e",
-   "title": "계리모델 업무지원(인력파견) 공급업체 선정",
-   "date": "2026-08-27",
-   "link": "https://www.shinhanlife.co.kr/hp/cdhi0510.do",
-   "files": [
-    {
-     "name": "(계리모델링업무지원) 첨부 1. 비밀유지서약서(1).doc",
-     "path": "data/att/shinhanlife/d00dd6ad59874430be5e/(계리모델링업무지원) 첨부 1. 비밀유지서약서(1).doc",
-     "bytes": 51200
-    },
-    {
-     "name": "(계리모델링업무지원) 첨부 2. 입찰참가신청서(1).doc",
-     "path": "data/att/shinhanlife/d00dd6ad59874430be5e/(계리모델링업무지원) 첨부 2. 입찰참가신청서(1).doc",
-     "bytes": 39424
-    }
-   ],
-   "at": "2026-09-21"
-  },
-  {
    "org": "원광대학교",
    "id": "a21c5820d6b7407785fee31a37f1ed56",
    "title": "(재공고) 비침습인젝터 3대 외 2종 구입",
@@ -6173,21 +6153,42 @@
     }
    ],
    "at": "2026-11-25"
-  }
- ],
- "generatedAt": "2026-11-25T05:14:00.249Z",
- "report": [
-  {
-   "org": "신한라이프",
-   "id": "1f4e35e781564f90b9ed",
-   "title": "[재입찰] 커피 원두 및 커피 머신 공급업체 선정",
-   "files": 2,
-   "links": 2
   },
   {
-   "org": "신한라이프",
-   "id": "c48e3b7bbfde4fb29bd4",
-   "title": "홍보 대행사 선정",
+   "org": "원광대학교",
+   "id": "116150c26d104bf4ac3c624d72e4f51b",
+   "title": "인문관 3층 AI증강강의실 구축 전기공사",
+   "date": "2026-11-10",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공개견적 공고문(개인정보동의서 포함).hwp",
+     "path": "data/att/wku/116150c26d104bf4ac3c624d72e4f51b/공개견적 공고문(개인정보동의서 포함).hwp",
+     "bytes": 81408
+    },
+    {
+     "name": "도면.pdf",
+     "path": "data/att/wku/116150c26d104bf4ac3c624d72e4f51b/도면.pdf",
+     "bytes": 4397583
+    }
+   ],
+   "at": "2026-11-26"
+  }
+ ],
+ "generatedAt": "2026-11-26T04:46:22.230Z",
+ "report": [
+  {
+   "job": "wooricard",
+   "err": "목록 데이터를 세 번 다 못 읽음"
+  },
+  {
+   "job": "shinhanlife",
+   "err": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shinhanlife.co.kr/hp/cdhi0510.do\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+   "org": "원광대학교",
+   "id": "116150c26d104bf4ac3c624d72e4f51b",
+   "title": "인문관 3층 AI증강강의실 구축 전기공사",
    "files": 2,
    "links": 2
   }
