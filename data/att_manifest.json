@@ -6368,65 +6368,154 @@
     }
    ],
    "at": "2026-11-27"
+  },
+  {
+   "org": "원광대학교",
+   "id": "7376499c11d04e6c85ad1b9a70c79fe1",
+   "title": "임실로코노미 오수반려누리 반려동물목욕실 건축공사",
+   "date": "2026-11-27",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "설계도서(공고용).zip",
+     "path": "data/att/wku/7376499c11d04e6c85ad1b9a70c79fe1/설계도서(공고용).zip",
+     "bytes": 3089884
+    },
+    {
+     "name": "입찰공고문.hwp",
+     "path": "data/att/wku/7376499c11d04e6c85ad1b9a70c79fe1/입찰공고문.hwp",
+     "bytes": 131072
+    },
+    {
+     "name": "입찰참가서류양식.hwp",
+     "path": "data/att/wku/7376499c11d04e6c85ad1b9a70c79fe1/입찰참가서류양식.hwp",
+     "bytes": 95744
+    },
+    {
+     "name": "입찰유의서_공사.hwp",
+     "path": "data/att/wku/7376499c11d04e6c85ad1b9a70c79fe1/입찰유의서_공사.hwp",
+     "bytes": 70656
+    }
+   ],
+   "at": "2026-11-28"
+  },
+  {
+   "org": "원광대학교",
+   "id": "7b3af97040944b0e89cda02bc7a3b935",
+   "title": "원광대학교 대종로 리모델링 공사 조성계획 및 실시계획 인가 용역",
+   "date": "2026-11-27",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "과업지시서.pdf",
+     "path": "data/att/wku/7b3af97040944b0e89cda02bc7a3b935/과업지시서.pdf",
+     "bytes": 4176545
+    },
+    {
+     "name": "사전규격공고.hwp",
+     "path": "data/att/wku/7b3af97040944b0e89cda02bc7a3b935/사전규격공고.hwp",
+     "bytes": 34816
+    }
+   ],
+   "at": "2026-11-28"
+  },
+  {
+   "org": "원광대학교",
+   "id": "272721b0470e4d1db22e60f0ff877497",
+   "title": "(재공고) 원광대학교 제14대 총장 이임기념품 구매",
+   "date": "2026-11-27",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "구매규격서.pdf",
+     "path": "data/att/wku/272721b0470e4d1db22e60f0ff877497/구매규격서.pdf",
+     "bytes": 125588
+    },
+    {
+     "name": "재공고문.hwp",
+     "path": "data/att/wku/272721b0470e4d1db22e60f0ff877497/재공고문.hwp",
+     "bytes": 140800
+    }
+   ],
+   "at": "2026-11-28"
+  },
+  {
+   "org": "원광대학교",
+   "id": "d79f54caceed41eb941de7d6f0bea36d",
+   "title": "[교육발전특구]취업 서류 맞춤형 코칭반 운영 용역",
+   "date": "2026-11-27",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공개견적 공고문.hwp",
+     "path": "data/att/wku/d79f54caceed41eb941de7d6f0bea36d/공개견적 공고문.hwp",
+     "bytes": 81920
+    },
+    {
+     "name": "과업지시서.hwp",
+     "path": "data/att/wku/d79f54caceed41eb941de7d6f0bea36d/과업지시서.hwp",
+     "bytes": 49152
+    }
+   ],
+   "at": "2026-11-28"
+  },
+  {
+   "org": "원광대학교",
+   "id": "06eb3784d13142f7be077fb4391725cd",
+   "title": "사계절 명인 김치 마스터클래스 수료식 및 시식·전시회",
+   "date": "2026-11-27",
+   "link": "https://intra.wku.ac.kr/services/contract/cntrc.jsp",
+   "files": [
+    {
+     "name": "공고문.hwp",
+     "path": "data/att/wku/06eb3784d13142f7be077fb4391725cd/공고문.hwp",
+     "bytes": 67072
+    },
+    {
+     "name": "제안요청서.hwp",
+     "path": "data/att/wku/06eb3784d13142f7be077fb4391725cd/제안요청서.hwp",
+     "bytes": 169472
+    }
+   ],
+   "at": "2026-11-28"
   }
  ],
- "generatedAt": "2026-11-27T04:47:21.205Z",
+ "generatedAt": "2026-11-28T04:31:46.239Z",
  "report": [
   {
-   "org": "우리카드",
-   "id": "20261127102930213",
-   "title": "[입찰공고] 고속스캐너 도입",
-   "files": 3,
-   "links": 3
+   "org": "원광대학교",
+   "id": "7376499c11d04e6c85ad1b9a70c79fe1",
+   "title": "임실로코노미 오수반려누리 반려동물목욕실 건축공사",
+   "files": 4,
+   "links": 4
   },
   {
-   "org": "우리카드",
-   "id": "20261126101756370",
-   "title": "[입찰공고] 서버 이상행위탐지(EDR) 시스템 구축[x86서버(Linux OS 포함)]",
+   "org": "원광대학교",
+   "id": "7b3af97040944b0e89cda02bc7a3b935",
+   "title": "원광대학교 대종로 리모델링 공사 조성계획 및 실시계획 인가 용역",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "e066251a214949c687db7b2123496954",
-   "title": "(재공고) 유니트체어 6대 구입",
+   "id": "272721b0470e4d1db22e60f0ff877497",
+   "title": "(재공고) 원광대학교 제14대 총장 이임기념품 구매",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "5b22f57f3314480fb427bfe9df542ae0",
-   "title": "(재공고) 사물함 23대 구입",
+   "id": "d79f54caceed41eb941de7d6f0bea36d",
+   "title": "[교육발전특구]취업 서류 맞춤형 코칭반 운영 용역",
    "files": 2,
    "links": 2
   },
   {
    "org": "원광대학교",
-   "id": "5c12b27ea56249c39a280a65c4dd6f65",
-   "title": "(재공고) RF 스퍼터링시스템 1SET 구입",
+   "id": "06eb3784d13142f7be077fb4391725cd",
+   "title": "사계절 명인 김치 마스터클래스 수료식 및 시식·전시회",
    "files": 2,
    "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "b3c5b2f2257447659fa811d016327ef3",
-   "title": "[교육발전특구]2026년도 더봄 과학(생물) 영재 프로젝트 운영 용역",
-   "files": 2,
-   "links": 2
-  },
-  {
-   "org": "원광대학교",
-   "id": "fd9ad065505c48f695210964321ecfdf",
-   "title": "학생회관 뒤편 폐기물 구역 울타리 설치공사",
-   "files": 5,
-   "links": 5
-  },
-  {
-   "org": "원광대학교",
-   "id": "2a61e4e879414ba8805505038791cb98",
-   "title": "2026학년도 학생생활관 소방시설 작동점검",
-   "files": 5,
-   "links": 5
   }
  ]
 }
